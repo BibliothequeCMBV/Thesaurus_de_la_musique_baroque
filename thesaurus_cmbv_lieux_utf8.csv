@@ -1,0 +1,1288 @@
+URI;rdf:type;skos:prefLabel@fr;skos:altLabel@fr;skos:hiddenLabel@fr;skos:definition@fr;skos:narrower;skos:broader;skos:related;skos:scopeNote;skos:changeNote
+000001;skos:Concept;~termes non classés;;;;;;;;PMB12
+000002;skos:Concept;ABBEVILLE;;;;;001134;;;
+000003;skos:Concept;ABBEVILLE, Théâtre;;;;;000002;;;
+000004;skos:Concept;ACADIE;;;;;000743;;;PMB3100
+000005;skos:Concept;AGDE;;;;;000450;;;
+000006;skos:Concept;AGDE, Cathédrale Saint-Étienne;;;;;000005;;;
+000007;skos:Concept;AGEN;;;;;000565;;;PMB3101
+000008;skos:Concept;AGEN, Archives communales;;;;;000007;;;PMB3102
+000009;skos:Concept;AIGUILLON;;;;;000565;;;
+000010;skos:Concept;AIGUILLON, Château;;;;;000009;;;
+000011;skos:Concept;AIN;;;;;000985;;;
+000012;skos:Concept;AIRE-SUR-LA-LYS;;;;;000914;;;
+000013;skos:Concept;AISNE;;;;;000932;;;
+000014;skos:Concept;AIX-EN-PROVENCE;;;;;000158;;;PMB3103
+000015;skos:Concept;AIX-EN-PROVENCE, Académie de musique;;;;;000014;;;PMB3104
+000016;skos:Concept;AIX-EN-PROVENCE, Bibliothèque Méjanes;;;;;000014;;;PMB3105
+000017;skos:Concept;AIX-EN-PROVENCE, Cathédrale Saint-Sauveur;;;;;000014;;;PMB3106
+000018;skos:Concept;AIX-EN-PROVENCE, Collège des jésuites;;;;;000014;;;
+000019;skos:Concept;AIX-EN-PROVENCE, Maîtrise métropolitaine;;;;;000014;;;PMB3107
+000020;skos:Concept;AIX-EN-PROVENCE, Théâtre du marquis de la Barben;;;;;000014;;;
+000021;skos:Concept;ALBI;;;;;001151;;;PMB3108
+000022;skos:Concept;ALBI, Cathédrale Sainte-Cécile;;;;;000021;;;
+000023;skos:Concept;ALENÇON;;;;;000766;;;
+000024;skos:Concept;ALÈS;;;;;000408;;;
+000025;skos:Concept;ALET;;;;;000081;;;
+000026;skos:Concept;ALLEMAGNE;;;;;000527;;;PMB3109
+000027;skos:Concept;ALLIER;;;;;000087;;;
+000028;skos:Concept;ALPES-DE-HAUTE-PROVENCE;;;;;000952;;;
+000029;skos:Concept;ALPES-MARITIMES;;;;;000952;;;
+000030;skos:Concept;ALSACE;;;Région de France.;;000490;;;PMB3110
+000031;skos:Concept;ALSACE, Mont Sainte-Odile;;;;;000030;;;PMB3111
+000032;skos:Concept;ALTORF;;;;;000108;;;
+000033;skos:Concept;AMERIQUE LATINE;;;;;;;;PMB3112
+000034;skos:Concept;AMIENS;;;;;001134;;;PMB3113
+000035;skos:Concept;AMIENS, Cathédrale Notre-Dame;;;;;000034;;;
+000036;skos:Concept;AMIENS, Comédie Française et Italienne;;;;;000034;;;
+000037;skos:Concept;AMSTERDAM;;;;;000919;;;
+000038;skos:Concept;AMSTERDAM, Pensionnat de Lucie Quartier;;;;;000037;;;
+000039;skos:Concept;AMSTERDAM, Théâtre français;;;;;000037;;;
+000040;skos:Concept;ANET;;;;;000380;;;
+000041;skos:Concept;ANET, Château du duc de Vendôme;;;;;000040;;;
+000042;skos:Concept;ANGERS;;;;;000596;;;PMB3114
+000043;skos:Concept;ANGERS, Cathédrale Saint-Maurice;;;;;000042;;;
+000044;skos:Concept;ANGERS, Jeu de paume d’Alexis;;;;;000042;;;
+000045;skos:Concept;ANGLETERRE;;;;;000527;;;PMB3404
+000046;skos:Concept;ANGOULÊME;;;;;000246;;;
+000047;skos:Concept;ANGOULÊME, Cathédrale Saint-Pierre;;;;;000046;;;
+000048;skos:Concept;ANNECY;;;;;000445;;;PMB3116
+000049;skos:Concept;ANNECY, Cathédrale Saint-Pierre;;;;;000048;;;
+000050;skos:Concept;ANNECY, Collégiale Notre-Dame;;;;;000048;;;
+000051;skos:Concept;ANNECY, Église Notre-Dame de Liesse;;;;;000048;;;
+000052;skos:Concept;ANTIBES;;;;;000029;;;
+000053;skos:Concept;ANTILLES;;;;;;;;PMB3117
+000054;skos:Concept;ANVERS;;;;;000128;;;PMB3118
+000055;skos:Concept;ANVERS, Cathédrale Notre-Dame;;;;;000054;;;
+000056;skos:Concept;AOSTE;;;;;000469;;;PMB3119
+000057;skos:Concept;AOSTE, Biblioteca capitolare;;;;;000056;;;
+000058;skos:Concept;APT;;;;;001234;;;
+000059;skos:Concept;AQUITAINE;;;Région de France.;;000490;;;
+000060;skos:Concept;ARCUEIL;;;;;001222;;;
+000061;skos:Concept;ARDÈCHE;;;;;000985;;;
+000062;skos:Concept;ARDENNES;;;;;000239;;;
+000063;skos:Concept;ARGENTINE;;;;;000527;;;PMB3120
+000064;skos:Concept;ARIÈGE;;;;;000647;;;PMB3121
+000065;skos:Concept;ARLES;;;;;000158;;;PMB3122
+000066;skos:Concept;ARLES, Académie;;;;;000065;;;
+000067;skos:Concept;ARLES, Académie de musique;;;;;000065;;;
+000068;skos:Concept;ARLES, Cathédrale Saint-Trophime;;;;;000065;;;
+000069;skos:Concept;ARLES-SUR-TECH;;;;;000958;;;
+000070;skos:Concept;ARRAS;;;;;000914;;;
+000071;skos:Concept;ARRAS, Abbaye Saint-Vaast;ARRAS, Cathédrale;;;;000070;;;
+000072;skos:Concept;ARRAS, Théâtre;;;;;000070;;;
+000073;skos:Concept;ASNIÈRES-SUR-SEINE;;;;;000449;;;
+000074;skos:Concept;AUBE;;;;;000239;;;
+000075;skos:Concept;AUBENAS;;;;;000061;;;
+000076;skos:Concept;AUBENAS, Collège des jésuites;;;;;000075;;;
+000077;skos:Concept;AUBENTON;;;;;000013;;;
+000078;skos:Concept;AUCH;;;;;000413;;;PMB22548
+000079;skos:Concept;AUCH, Cathédrale Sainte-Marie;;;;;000078;;;
+000080;skos:Concept;AUCH, Hôtel de ville, salle de spectacle;;;;;000078;;;
+000081;skos:Concept;AUDE;;;;;000501;;;PMB3123
+000082;skos:Concept;AURILLAC;;;;;000214;;;
+000083;skos:Concept;AURILLAC, Collégiale Saint-Géraud;;;;;000082;;;
+000084;skos:Concept;AUTRICHE;;;;;000527;;;PMB3124
+000085;skos:Concept;AUTUN;;;;;001090;;;PMB3125
+000086;skos:Concept;AUTUN, Cathédrale Saint-Lazare;;;;;000085;;;
+000087;skos:Concept;AUVERGNE;;;Région de France.;;000490;;;PMB3126
+000088;skos:Concept;AUXERRE;;;;;001283;;;PMB3127
+000089;skos:Concept;AUXONNE;;;;;000297;;;
+000090;skos:Concept;AVEYRON;;;;;000647;;;PMB3128
+000091;skos:Concept;AVIGNON;;;;;001234;;;PMB3129
+000092;skos:Concept;AVIGNON, Bibliothèque municipale;;;;;000091;;;PMB3130
+000093;skos:Concept;AVIGNON, Cathédrale Notre-Dame-des-Doms;;;;;000091;;;
+000094;skos:Concept;AVIGNON, Chapitre de Notre-Dame;;;;;000091;;;
+000095;skos:Concept;AVIGNON, Collège des jésuites;;;;;000091;;;
+000096;skos:Concept;AVIGNON, Confrérie Saint-Grégoire;;;;;000091;;;
+000097;skos:Concept;AVIGNON, Église Saint-Agricol;;;;;000091;;;
+000098;skos:Concept;AVIGNON, Jeu de paume;;;;;000091;;;
+000099;skos:Concept;AVIGNON, Société Sainte-Cécile;;;;;000091;;;PMB3131
+000100;skos:Concept;BAGNEUX;;;;;000449;;;
+000101;skos:Concept;Bande des Vingt-quatre violons;;;;;000528;;;
+000102;skos:Concept;BARJOLS;;;;;001231;;;PMB3133
+000103;skos:Concept;BARJOLS, Orgue de la collégiale;;;;;000102;;;PMB3134
+000104;skos:Concept;BAR-LE-DUC;;;;;000645;;;PMB3132
+000105;skos:Concept;BAR-LE-DUC, Collégiale Saint-Maxe;;;;;000104;;;
+000106;skos:Concept;BAR-SUR-AUBE;;;;;000074;;;
+000107;skos:Concept;BAR-SUR-AUBE, Église Saint-Maclou;;;;;000106;;;
+000108;skos:Concept;BAS-RHIN;;;;;000030;;;
+000109;skos:Concept;BASSE-NORMANDIE;;;Région de France.;;000490;;;
+000110;skos:Concept;BASTIA;;;;;000438;;;
+000111;skos:Concept;BASTIA, Oratoire Saint-Roch;;;;;000110;;;
+000112;skos:Concept;BAYEUX;;;;;000208;;;
+000113;skos:Concept;BAYEUX, Cathédrale Notre-Dame;;;;;000112;;;
+000114;skos:Concept;BAYONNE;;;;;000957;;;
+000115;skos:Concept;BAYONNE, Théâtre;;;;;000114;;;
+000116;skos:Concept;BAZAS;;;;;000415;;;
+000117;skos:Concept;BAZAS, Cathédrale;;;;;000116;;;
+000118;skos:Concept;BEARN;;;;;;;;PMB3135
+000119;skos:Concept;BEAUCAIRE;;;;;000408;;;
+000120;skos:Concept;BEAUJEU;;;;;000984;;;
+000121;skos:Concept;BEAUJEU, Collégiale;;;;;000120;;;
+000122;skos:Concept;BEAUNE;;;;;000297;;;PMB3136
+000123;skos:Concept;BEAUNE, Église Notre-Dame;;;;;000122;;;PMB3137
+000124;skos:Concept;BEAUNE, Église Saint-Pierre;;;;;000122;;;
+000125;skos:Concept;BEAUVAIS;;;;;000757;;;PMB3138
+000126;skos:Concept;BEAUVAIS, Cathédrale Saint-Pierre;;;;;000125;;;
+000127;skos:Concept;BEAUVOIR;;;;;001104;;;
+000128;skos:Concept;BELGIQUE;;;;;000527;;;PMB3139
+000129;skos:Concept;BERLIN;;;;;000026;;;
+000130;skos:Concept;BERLIN, Théâtre français;;;;;000129;;;
+000131;skos:Concept;BESANÇON;;;;;000349;;;PMB3140
+000132;skos:Concept;BESANÇON, Abbaye Saint-Vincent;;;;;000131;;;
+000133;skos:Concept;BESANÇON, Cathédrale Saint-Jean;;;;;000131;;;
+000134;skos:Concept;BESANÇON, Église Saint-Jean-Baptiste;;;;;000131;;;
+000135;skos:Concept;BESANÇON, Théâtre de Ledoux;;;;;000131;;;
+000136;skos:Concept;BÉZIERS;;;;;000450;;;PMB3141
+000137;skos:Concept;BÉZIERS, Cathédrale Saint-Nazaire;;;;;000136;;;
+000138;skos:Concept;BÉZIERS, Chapitre Saint-Nazaire;;;;;000136;;;PMB3142
+000139;skos:Concept;BÉZIERS, Théâtre de Sabatier;;;;;000136;;;
+000140;skos:Concept;Bibliothèque royale;;;;;000528;;;
+000141;skos:Concept;BILBAO;;;;;;;;PMB3143
+000142;skos:Concept;BLOIS;;;;;000552;;;PMB22654
+000143;skos:Concept;BLOIS, Cathédrale Saint-Louis;;;;;000142;;;
+000144;skos:Concept;BOLIVIE;;;;;000527;;;PMB3144
+000145;skos:Concept;BOLOGNE;;;;;000469;;;PMB3145
+000146;skos:Concept;BORDEAUX;;;;;000415;;;PMB3146
+000147;skos:Concept;BORDEAUX, Abbatiale Sainte-Croix, orgue;;;;;000146;;;"PMB3148;PMB3147"
+000148;skos:Concept;BORDEAUX, Académie des belles lettres sciences et arts;;;;;000146;;;
+000149;skos:Concept;BORDEAUX, Bibliothèque municipale;;;;;000146;;;PMB3149
+000150;skos:Concept;BORDEAUX, Cathédrale Saint-André;;;;;000146;;;
+000151;skos:Concept;BORDEAUX, Église Notre-Dame;;;;;000146;;;
+000152;skos:Concept;BORDEAUX, Église Sainte-Croix;;;;;000146;;;
+000153;skos:Concept;BORDEAUX, Église Saint-Seurin;;;;;000146;;;
+000154;skos:Concept;BORDEAUX, Grand Théâtre;;;;;000146;;;
+000155;skos:Concept;BORDEAUX, Musée;;;;;000146;;;PMB3150
+000156;skos:Concept;BORDEAUX, Salle de la Corderie;;;;;000146;;;
+000157;skos:Concept;BORDEAUX, Théâtre-Français;;;;;000146;;;
+000158;skos:Concept;BOUCHES-DU-RHÔNE;;;;;000952;;;
+000159;skos:Concept;BOURG-EN-BRESSE;;;;;000011;;;
+000160;skos:Concept;BOURG-EN-BRESSE, Église Notre-Dame;;;;;000159;;;
+000161;skos:Concept;BOURGES;;;;;000263;;;PMB3151
+000162;skos:Concept;BOURGES, Cathédrale Saint-Étienne;;;;;000161;;;
+000163;skos:Concept;BOURGES, Sainte-Chapelle;;;;;000161;;;PMB23203
+000164;skos:Concept;BOURGES, Séminaire Saint-Sulpice;;;;;000161;;;
+000165;skos:Concept;BOURG-LA-REINE;;;;;000449;;;
+000166;skos:Concept;BOURGOGNE;;;Région de France.;;000490;;;PMB3152
+000167;skos:Concept;BOUXWILLER;;;;;000108;;;
+000168;skos:Concept;BRAUNSCHWEIG;;;;;000026;;;
+000169;skos:Concept;BRAY-SUR-SEINE;;;;;001104;;;
+000170;skos:Concept;BRESCIA;;;;;000469;;;PMB3153
+000171;skos:Concept;BRÉSIL;;;;;000527;;;PMB3154
+000172;skos:Concept;BREST;;;;;000393;;;
+000173;skos:Concept;BREST, Théâtre de la Marine;;;;;000172;;;
+000174;skos:Concept;BRETAGNE;;;Région de France.;;000490;;;PMB3155
+000175;skos:Concept;BRIE;;;Région naturelle française située dans la partie orientale du Bassin parisien et s'étendant sur plusieurs départements : une grande partie de la Seine-et-Marne, une partie de la Marne et de l'Aisne, ainsi que quelques communes de l'Essone, du Val-de-Marne et de la Seine-Saint-Denis.;;;;;PMB3156
+000176;skos:Concept;BRIE-COMTE-ROBERT;;;;;001104;;;
+000177;skos:Concept;BRNO;;;;;000983;;;
+000178;skos:Concept;BRUGES;;;;;000128;;;
+000179;skos:Concept;BRUXELLES;;;;;000128;;;PMB3157
+000180;skos:Concept;BRUXELLES, Bibliothèque royale;;;;;000179;;;
+000181;skos:Concept;BRUXELLES, Collégiale Saint-Michel et Sainte-Gudule;;;;;000179;;;
+000182;skos:Concept;BRUXELLES, Conservatoire;;;;;000179;;;PMB3158
+000183;skos:Concept;BRUXELLES, Conservatoire, bibliothèque;;;;;000182;;;
+000184;skos:Concept;BRUXELLES, Opéra français;;;;;000179;;;
+000185;skos:Concept;BRUXELLES, Théâtre de la Monnaie;;;;;000179;;;PMB3159
+000186;skos:Concept;BUIRE-LE-SEC;;;;;000914;;;
+000187;skos:Concept;CAEN;;;;;000208;;;PMB3160
+000188;skos:Concept;CAEN, Abbaye Notre-Dame d’Ardenne;;;;;000187;;;
+000189;skos:Concept;CAEN, Abbaye Saint-Étienne;;;;;000187;;;
+000190;skos:Concept;CAEN, Confrérie Sainte-Cécile;;;;;000187;;;
+000191;skos:Concept;CAEN, Couvent Sainte-Croix;;;;;000187;;;
+000192;skos:Concept;CAEN, Église de la Sainte-Trinité;;;;;000187;;;
+000193;skos:Concept;CAEN, Église de Notre-Dame-de-Froide-Rue;;;;;000187;;;
+000194;skos:Concept;CAEN, Église des Bénédictines;;;;;000187;;;
+000195;skos:Concept;CAEN, Église des Carmes;;;;;000187;;;
+000196;skos:Concept;CAEN, Église des Cordeliers;;;;;000187;;;
+000197;skos:Concept;CAEN, Église des Jacobins;;;;;000187;;;
+000198;skos:Concept;CAEN, Église Saint-Étienne;;;;;000187;;;
+000199;skos:Concept;CAEN, Église Saint-Étienne-le-Vieux;;;;;000187;;;
+000200;skos:Concept;CAEN, Église Saint-Jean;;;;;000187;;;
+000201;skos:Concept;CAEN, Église Saint-Jean, orgues;;;;;000200;;;PMB3161
+000202;skos:Concept;CAEN, Église Saint-Nicolas;;;;;000187;;;
+000203;skos:Concept;CAEN, Église Saint-Pierre;;;;;000187;;;
+000204;skos:Concept;CAEN, Église Saint-Pierre, orgues;;;;;000203;;;PMB3162
+000205;skos:Concept;CAEN, Église Saint-Sépulcre;;;;;000187;;;
+000206;skos:Concept;CAEN, Le Puy de Musique;;;;;000187;;;PMB3163
+000207;skos:Concept;CAHORS;;;;;000564;;;
+000208;skos:Concept;CALVADOS;;;;;000109;;;PMB3164
+000209;skos:Concept;CAMBRAI;;;;;000739;;;PMB3165
+000210;skos:Concept;CAMBRAI, Cathédrale Notre-Dame;;;;;000209;;;
+000211;skos:Concept;CAMBRIDGE;;;;;000045;;;PMB3166
+000212;skos:Concept;CAMBRIDGE, Fitzwilliam Museum;;;;;000211;;;
+000213;skos:Concept;CANADA;;;;;000527;;;PMB3167
+000214;skos:Concept;CANTAL;;;;;000087;;;
+000215;skos:Concept;CAP TOURMENTE, Petite Ferme;;;;;000960;;;
+000216;skos:Concept;CARCASSONNE;;;;;000081;;;PMB3168
+000217;skos:Concept;CARCASSONNE, Collège des jésuites;;;;;000216;;;
+000218;skos:Concept;CARCASSONNE, Église Saint-Nazaire;;;;;000216;;;
+000219;skos:Concept;CARPENTRAS;;;;;001234;;;PMB3169
+000220;skos:Concept;CARPENTRAS, Cathédrale Saint-Siffrein;;;;;000219;;;
+000221;skos:Concept;CASTELNAUDARY;;;;;000081;;;
+000222;skos:Concept;CASTELNAU-MAGNOAC;;;;;000446;;;
+000223;skos:Concept;CASTRES;;;;;001151;;;
+000224;skos:Concept;CASTRES, Cathédrale Saint-Benoît;;;;;000223;;;
+000225;skos:Concept;CAUDEBEC-EN-CAUX;;;;;001105;;;
+000226;skos:Concept;CAUDEBEC-EN-CAUX, Église Notre-Dame;;;;;000225;;;
+000227;skos:Concept;CENTO;;;;;000469;;;PMB3170
+000228;skos:Concept;CENTRE;;;Région de France.;;000490;;;PMB22985
+000229;skos:Concept;CÉRET;;;;;000958;;;
+000230;skos:Concept;CHÂLONS-EN-CHAMPAGNE;CHÂLONS-SUR-MARNE;;;;000621;;;
+000231;skos:Concept;CHÂLONS-EN-CHAMPAGNE, Cathédrale Saint-Étienne;;;;;000230;;;
+000232;skos:Concept;CHÂLONS-EN-CHAMPAGNE, Théâtre de l’Étape;;;;;000230;;;
+000233;skos:Concept;CHALON-SUR-SAÔNE;;;;;001090;;;
+000234;skos:Concept;CHALON-SUR-SAÔNE, Église Saint-Vincent;;;;;000233;;;
+000235;skos:Concept;CHALON-SUR-SAÔNE, Théâtre de la rue aux Fèves;;;;;000233;;;
+000236;skos:Concept;CHAMBÉRY;;;;;001098;;;
+000237;skos:Concept;CHAMBORD;;;;;000552;;;PMB3171
+000238;skos:Concept;Chambre du roi Musique de la Chambre;;;;;000528;;;
+000239;skos:Concept;CHAMPAGNE-ARDENNE;CHAMPAGNE;;Région de France.;;000490;;;PMB3172
+000240;skos:Concept;CHAMPEAUX;;;;;001104;;;
+000241;skos:Concept;CHAMPEAUX, Collégiale Saint-Martin;;;;;000240;;;
+000242;skos:Concept;CHAMPIGNY-SUR-VEUDE;;;;;000463;;;
+000243;skos:Concept;CHAMPIGNY-SUR-VEUDE, Sainte-Chapelle;;;;;000242;;;
+000244;skos:Concept;CHANTILLY;;;;;000757;;;
+000245;skos:Concept;Chapelle royale Musique de la Chapelle;;;;;000528;;;
+000246;skos:Concept;CHARENTE;;;;;000940;;;PMB3173
+000247;skos:Concept;CHARENTE-MARITIME;;;;;000940;;;
+000248;skos:Concept;CHARLEVILLE-MÉZIÈRES;;;;;000062;;;
+000249;skos:Concept;CHARTRES;;;;;000380;;;PMB3174
+000250;skos:Concept;CHARTRES, Cathédrale Notre-Dame;;;;;000249;;;
+000251;skos:Concept;CHARTRES, Église Saint-Pierre;;;;;000249;;;
+000252;skos:Concept;CHÂTEAUDUN;;;;;000380;;;
+000253;skos:Concept;CHÂTEAUROUX;;;;;000462;;;
+000254;skos:Concept;CHATENAY-MALABRY;;;;;000449;;;
+000255;skos:Concept;CHÂTILLON;;;;;000449;;;
+000256;skos:Concept;CHAUMES-EN-BRIE;;;;;001104;;;PMB23309
+000257;skos:Concept;CHAUMONT;;;;;000441;;;
+000258;skos:Concept;CHAVILLE;;;;;000449;;;
+000259;skos:Concept;CHELLES;;;;;001104;;;PMB3175
+000260;skos:Concept;CHELLES, Abbaye Notre-Dame;;;;;000259;;;PMB3176
+000261;skos:Concept;CHELLES, Église Saint-André;;;;;000259;;;
+000262;skos:Concept;CHÉMERY-SUR-BAR;;;;;000062;;;
+000263;skos:Concept;CHER;;;;;000228;;;PMB3177
+000264;skos:Concept;CHEVREUSE;;;;;001285;;;
+000265;skos:Concept;CHEVREUSE, Église Saint-Martin;;;;;000264;;;
+000266;skos:Concept;CHIMAY;;;;;000128;;;
+000267;skos:Concept;CHINE;;;;;000527;;;PMB3178
+000268;skos:Concept;CHOISY-LE-ROI;;;;;001222;;;
+000269;skos:Concept;CHOISY-LE-ROI, Théâtre royal;;;;;000268;;;
+000270;skos:Concept;CLAMART;;;;;000449;;;
+000271;skos:Concept;CLERMONT-FERRAND;;;;;000956;;;PMB3179
+000272;skos:Concept;CLERMONT-FERRAND, Cathédrale Notre-Dame;;;;;000271;;;
+000273;skos:Concept;CLERMONT-FERRAND, Chapitre cathédral;;;;;000271;;;
+000274;skos:Concept;CLERMONT-FERRAND, Collège des jésuites;;;;;000271;;;
+000275;skos:Concept;CLERMONT-FERRAND, Théâtre;;;;;000271;;;
+000276;skos:Concept;CLICHY;;;;;000449;;;
+000277;skos:Concept;CLICHY, Pavillon de Vendôme;;;;;000276;;;
+000278;skos:Concept;COLMAR;;;;;000448;;;PMB3180
+000279;skos:Concept;COLOGNE;;;;;000026;;;
+000280;skos:Concept;COLOMBES;;;;;000449;;;
+000281;skos:Concept;Communauté des faiseurs d’instruments de musique;;;;;000528;;;
+000282;skos:Concept;COMPIÈGNE;;;;;000757;;;
+000283;skos:Concept;COMPIÈGNE, Théâtre Vivenel;;;;;000282;;;
+000284;skos:Concept;Concert de la Loge olympique;;;;;000528;;;
+000285;skos:Concept;Concert de la Reine;;;;;000528;;;
+000286;skos:Concept;Concert des amateurs;;;;;000528;;;
+000287;skos:Concept;Concert-Spirituel;;;;;000528;;;
+000288;skos:Concept;Confrérie des ménétriers d’Alsace;;;;;000528;;;
+000289;skos:Concept;Confrérie des ménétriers de Saint-Julien;;;;;000528;;;
+000290;skos:Concept;Confrérie des ménétriers de Valenciennes;;;;;000528;;;
+000291;skos:Concept;Congrégation de Saint-Maur;;;;;000528;;;
+000292;skos:Concept;CORBEIL-ESSONNES;ESSONNES;;;;000374;;;
+000293;skos:Concept;CORBEIL-ESSONNES, Église Saint-Spire;;;;;000292;;;
+000294;skos:Concept;CORDES-SUR-CIEL;;;;;001151;;;
+000295;skos:Concept;CORDES-SUR-CIEL, Église Saint-Michel;;;;;000294;;;
+000296;skos:Concept;CORSE;;;Région de France.;;000490;;;PMB3181
+000297;skos:Concept;CÔTE-D’OR;;;;;000166;;;
+000298;skos:Concept;CÔTES-D’ARMOR;;;;;000174;;;
+000299;skos:Concept;COUILLY;;;;;001104;;;
+000300;skos:Concept;COULOMMIERS;;;;;001104;;;
+000301;skos:Concept;COULOMMIERS, Église Saint-Denis;;;;;000300;;;
+000302;skos:Concept;Cour d’Angleterre;;;;;000528;;;
+000303;skos:Concept;Cour d’Autriche;;;;;000528;;;
+000304;skos:Concept;Cour d’Espagne;;;;;000528;;;
+000305;skos:Concept;Cour de Bonn;;;;;000528;;;
+000306;skos:Concept;Cour de France;;;;;000528;;;
+000307;skos:Concept;Cour de Lorraine;;;;;000528;;;
+000308;skos:Concept;Cour de Monaco;;;;;000528;;;
+000309;skos:Concept;Cour de Navarre;;;;;000528;;;
+000310;skos:Concept;Cour de Prusse;;;;;000528;;;
+000311;skos:Concept;Cour de Savoie SAVOIE duché;;;;;000528;;;
+000312;skos:Concept;Cour de Suède;;;;;000528;;;
+000313;skos:Concept;Cour épiscopale de Liège;;;;;000528;;;
+000314;skos:Concept;COURBEVOIE;;;;;000449;;;
+000315;skos:Concept;COUTANCES;;;;;000613;;;
+000316;skos:Concept;COUTANCES, Cathédrale Notre-Dame;;;;;000315;;;
+000317;skos:Concept;CRACOVIE;;;;;000941;;;PMB3182
+000318;skos:Concept;CRÉCY-COUVÉ;;;;;000380;;;
+000319;skos:Concept;CRÉMONE;;;;;000469;;;PMB3183
+000320;skos:Concept;CROATIE;;;;;000527;;;
+000321;skos:Concept;DALMATIE;;;;;;;;PMB3184
+000322;skos:Concept;DANEMARK;;;;;000527;;;PMB3185
+000323;skos:Concept;DARMSTADT;;;;;000026;;;
+000324;skos:Concept;DAUPHINÉ;;;Ancienne province de France correspondant aux départements actuels de l'Isère, des Hautes-Alpes, et de la Drôme.;;000490;000443##000465##000356;;PMB3186
+000325;skos:Concept;DAX;;;;;000498;;;PMB22956
+000326;skos:Concept;DEUX-SÈVRES;;;;;000940;;;
+000327;skos:Concept;DIEPPE;;;;;001105;;;
+000328;skos:Concept;DIEPPE, Salle de Comédie;;;;;000327;;;
+000329;skos:Concept;DIJON;;;;;000297;;;PMB3187
+000330;skos:Concept;DIJON, Cathédrale Saint-Bénigne;;;;;000329;;;
+000331;skos:Concept;DIJON, Collège jésuite des Godrans;;;;;000329;;;
+000332;skos:Concept;DIJON, Conservatoire;;;;;000329;;;PMB3188
+000333;skos:Concept;DIJON, Église des Jacobins;;;;;000329;;;
+000334;skos:Concept;DIJON, Église Notre-Dame;;;;;000329;;;
+000335;skos:Concept;DIJON, Église Saint-Étienne;;;;;000329;;;
+000336;skos:Concept;DIJON, Église Saint-Jean;;;;;000329;;;
+000337;skos:Concept;DIJON, Jeu de paume;;;;;000329;;;
+000338;skos:Concept;DIJON, Sainte-Chapelle;;;;;000329;;;
+000339;skos:Concept;DIJON, Théâtre;;;;;000329;;;
+000340;skos:Concept;DINAN;;;;;000298;;;
+000341;skos:Concept;DOLE;;;;;000477;;;PMB3189
+000342;skos:Concept;DOLE, Collégiale Notre-Dame;;;;;000341;;;
+000343;skos:Concept;DOLE, Couvent des Bernardines;;;;;000341;;;
+000344;skos:Concept;DOMMARTIN;;;;;001279;;;
+000345;skos:Concept;DORDOGNE;;;;;000059;;;
+000346;skos:Concept;DOUAI;;;;;000739;;;
+000347;skos:Concept;DOUAI, Jeu de paume;;;;;000346;;;
+000348;skos:Concept;DOUAI, Théâtre;;;;;000346;;;
+000349;skos:Concept;DOUBS;;;;;000404;;;
+000350;skos:Concept;DOURDAN;;;;;000374;;;
+000351;skos:Concept;DOURDAN, Église Saint-Germain;;;;;000350;;;
+000352;skos:Concept;DRESDE;;;;;000026;;;PMB3191
+000353;skos:Concept;DRESDE, Théâtre de la Cour;;;;;000352;;;
+000354;skos:Concept;DRESDE, Théâtre français;;;;;000352;;;
+000355;skos:Concept;DREUX;;;;;000380;;;
+000356;skos:Concept;DRÔME;;;;;000985;;;
+000357;skos:Concept;DROTTNINGHOLM, Théâtre;;;;;;;;PMB23273
+000358;skos:Concept;DUBROVNIK;RAGUSE;;;;000320;;;PMB3192
+000359;skos:Concept;DUCHE DE SAVOIE, Chapelle musicale;;;;;;;;PMB3193
+000360;skos:Concept;DUNKERQUE;;;;;000739;;;
+000361;skos:Concept;DUNKERQUE, Théâtre;;;;;000360;;;
+000362;skos:Concept;DÜSSELDORF;;;;;000026;;;
+000363;skos:Concept;EBERSMUNSTER;;;;;000108;;;
+000364;skos:Concept;ÉCOSSE;;;;;000527;;;PMB3194
+000365;skos:Concept;Écurie du roi Grande Écurie;;;;;000528;;;
+000366;skos:Concept;EL ESCORIAL;;;;;000373;;;PMB3195
+000367;skos:Concept;EMBRUN;;;;;000443;;;
+000368;skos:Concept;EMBRUN, Église Notre-Dame;;;;;000367;;;
+000369;skos:Concept;ENGHIEN;;;;;001221;;;PMB3196
+000370;skos:Concept;ENGHIEN, Hôpital Saint-Nicolas;;;;;000369;;;
+000371;skos:Concept;ENTREVAUX;;;;;000028;;;
+000372;skos:Concept;ÉPINAL;;;;;001279;;;
+000373;skos:Concept;ESPAGNE;;;;;000527;;;PMB22972
+000374;skos:Concept;ESSONNE;;;;;000458;;;PMB3198
+000375;skos:Concept;ÉTAIN;;;;;000645;;;
+000376;skos:Concept;ÉTAMPES;;;;;000374;;;
+000377;skos:Concept;ÉTAMPES, Église Notre-Dame;;;;;000376;;;
+000378;skos:Concept;ÉTATS UNIS D’AMÉRIQUE;ÉTATS-UNIS##U.S.A.;;;;000527;;;"PMB3459;PMB3199"
+000379;skos:Concept;EURE;;;;;000442;;;
+000380;skos:Concept;EURE-ET-LOIR;;;;;000228;;;PMB3200
+000381;skos:Concept;EUROPE;;;;;;;;PMB3201
+000382;skos:Concept;ÉVREUX;;;;;000379;;;PMB3202
+000383;skos:Concept;ÉVREUX, Cathédrale Notre-Dame;;;;;000382;;;
+000384;skos:Concept;ÉVREUX, Puy de musique Sainte-Cécile;;;;;000382;;;
+000385;skos:Concept;ÈZE;;;;;000029;;;
+000386;skos:Concept;FAENZA;;;;;000469;;;PMB3203
+000387;skos:Concept;FALAISE;;;;;000208;;;
+000388;skos:Concept;FALAISE, Église Saint-Gervais;;;;;000387;;;
+000389;skos:Concept;FALAISE, Notre-Dame de Guibray;;;;;000387;;;
+000390;skos:Concept;FAREMOUTIERS;;;;;001104;;;
+000391;skos:Concept;FÉCAMP;;;;;001105;;;
+000392;skos:Concept;FERRARE;;;;;000469;;;PMB3204
+000393;skos:Concept;FINISTÈRE;;;;;000174;;;
+000394;skos:Concept;FINLANDE;;;;;000527;;;PMB3205
+000395;skos:Concept;FLANDRES;;;Région transfrontalière entre la France et la Belgique établie autour de la plaine des Flandres.;;;;;PMB3206
+000396;skos:Concept;FLORENCE;;;;;000469;;;PMB3207
+000397;skos:Concept;FOIX;;;;;000064;;;
+000398;skos:Concept;FONTAINEBLEAU;;;;;001104;;;PMB23576
+000399;skos:Concept;FONTAINEBLEAU, Théâtre;;;;;000398;;;
+000400;skos:Concept;FONTENAY-AUX-ROSES;;;;;000449;;;
+000401;skos:Concept;FOSSOMBRONE;;;;;000469;;;PMB22634
+000402;skos:Concept;FRANCE, Ambassade;;;;;;;;PMB23118
+000403;skos:Concept;FRANCFORT;;;;;000026;;;
+000404;skos:Concept;FRANCHE-COMTÉ;;;Région de France.;;000490;;;PMB3209
+000405;skos:Concept;Franciscains;;;;;000528;;;
+000406;skos:Concept;Frères des écoles chrétiennes;;;;;000528;;;
+000407;skos:Concept;GAGNY;;;;;001106;;;
+000408;skos:Concept;GARD;;;;;000501;;;
+000409;skos:Concept;Garde nationale;;;;;000528;;;
+000410;skos:Concept;GENÈVE;;;;;001147;;;PMB3210
+000411;skos:Concept;GENNEVILLIERS;;;;;000449;;;
+000412;skos:Concept;GENTILLY;;;;;001222;;;
+000413;skos:Concept;GERS;;;;;000647;;;PMB3211
+000414;skos:Concept;GIMONT;;;;;000413;;;
+000415;skos:Concept;GIRONDE;;;;;000059;;;
+000416;skos:Concept;Grande Bande Vingt-quatre violons du roi;;;;;000528;;;
+000417;skos:Concept;GRANDE BRETAGNE;;;;;;;;PMB3212
+000418;skos:Concept;GRASSE;;;;;000029;;;PMB3213
+000419;skos:Concept;GRAY;;;;;000444;;;
+000420;skos:Concept;GRAY, Église Notre-Dame;;;;;000419;;;
+000421;skos:Concept;GRENOBLE;;;;;000465;;;PMB3214
+000422;skos:Concept;GRENOBLE, Cathédrale Notre-Dame;;;;;000421;;;
+000423;skos:Concept;GRENOBLE, Église Saint-André;;;;;000421;;;
+000424;skos:Concept;GRENOBLE, Jeu de paume;;;;;000421;;;
+000425;skos:Concept;GRENOBLE, Théâtre;;;;;000421;;;
+000426;skos:Concept;GRIES;;;;;000108;;;
+000427;skos:Concept;GUADELOUPE;;;Région et département d'outre-mer français.;;000490;;;PMB3215
+000428;skos:Concept;GUINGAMP;;;;;000298;;;
+000429;skos:Concept;GUINGAMP, Cathédrale;;;;;000428;;;
+000430;skos:Concept;GÜSTROW;;;;;000026;;;
+000431;skos:Concept;GUYANE;;;Collectivité territoriale unique française.;;000490;;;PMB3216
+000432;skos:Concept;HAGUENAU;;;;;000108;;;
+000433;skos:Concept;HAGUENAU, Église Saint-Georges;;;;;000432;;;
+000434;skos:Concept;HALLE;;;;;000026;;;PMB3217
+000435;skos:Concept;HALLE, Maison d'Haendel;Händel-Haus;;;;000434;;;PMB3218
+000436;skos:Concept;HAMBOURG;;;;;000026;;;
+000437;skos:Concept;HANOVRE;;;;;000026;;;
+000438;skos:Concept;HAUTE-CORSE;;;;;000296;;;
+000439;skos:Concept;HAUTE-GARONNE;;;;;000647;;;PMB3219
+000440;skos:Concept;HAUTE-LOIRE;;;;;000087;;;
+000441;skos:Concept;HAUTE-MARNE;;;;;000239;;;
+000442;skos:Concept;HAUTE-NORMANDIE;;;Région de France.;;000490;;;PMB3220
+000443;skos:Concept;HAUTES-ALPES;;;;;000952;;;
+000444;skos:Concept;HAUTE-SAÔNE;;;;;000404;;;
+000445;skos:Concept;HAUTE-SAVOIE;;;;;000985;;;
+000446;skos:Concept;HAUTES-PYRÉNÉES;;;;;000647;;;PMB3221
+000447;skos:Concept;HAUTE-VIENNE;;;;;000543;;;
+000448;skos:Concept;HAUT-RHIN;;;Région de France.;;000490;;;
+000449;skos:Concept;HAUTS-DE-SEINE;;;;;000458;;;PMB3222
+000450;skos:Concept;HÉRAULT;;;;;000501;;;PMB3223
+000451;skos:Concept;HÉRICOURT;;;;;000444;;;
+000452;skos:Concept;HÉRICOURT, Château;;;;;000451;;;
+000453;skos:Concept;HOLLANDE;;;Ancienne province des Pays-Bas.;;;;;PMB3224
+000454;skos:Concept;HONFLEUR;;;;;000208;;;
+000455;skos:Concept;HONFLEUR, Église Sainte-Catherine;;;;;000454;;;
+000456;skos:Concept;HONGRIE;;;;;000527;;;PMB3225
+000457;skos:Concept;Hospitalières;;;;;000528;;;
+000458;skos:Concept;ÎLE-DE-FRANCE;;;Région de France.;;000490;;;PMB3226
+000459;skos:Concept;ILLE-ET-VILAINE;;;;;000174;;;
+000460;skos:Concept;ILLE-SUR-TÊT;;;;;000958;;;
+000461;skos:Concept;Imprimerie royale;;;;;000528;;;
+000462;skos:Concept;INDRE;;;;;000228;;;PMB3227
+000463;skos:Concept;INDRE-ET-LOIR;;;;;000228;;;PMB3228
+000464;skos:Concept;IRLANDE;;;;;000527;;;PMB3229
+000465;skos:Concept;ISÈRE;;;;;000985;;;
+000466;skos:Concept;ISRAEL;;;;;000527;;;PMB3230
+000467;skos:Concept;ISSOUDUN;;;;;000462;;;
+000468;skos:Concept;ISSY-LES-MOULINEAUX;;;;;000449;;;PMB22606
+000469;skos:Concept;ITALIE;;;;;000527;;;PMB3231
+000470;skos:Concept;JAPON;;;;;000527;;;PMB3232
+000471;skos:Concept;Jésuites;Compagnie de Jésus;;;;000528;;;
+000472;skos:Concept;JOINVILLE;;;;;000441;;;
+000473;skos:Concept;JOUARRE;;;;;001104;;;
+000474;skos:Concept;JOUARRE, Abbaye;;;;;000473;;;
+000475;skos:Concept;JUAYE-MONDAYE;;;;;000208;;;
+000476;skos:Concept;JUAYE-MONDAYE, Abbaye;;;;;000475;;;
+000477;skos:Concept;JURA;;;;;000404;;;
+000478;skos:Concept;KASSEL;;;;;000026;;;PMB3233
+000479;skos:Concept;KASSEL, Théâtre français;;;;;000478;;;
+000480;skos:Concept;L’ISLE-SUR-LA-SORGUE;;;;;001234;;;
+000481;skos:Concept;LA BRIGUE;;;;;000029;;;PMB3234
+000482;skos:Concept;LA BRIGUE, Orgue;;;;;000481;;;PMB3235
+000483;skos:Concept;LA CHAISE-DIEU;;;;;000440;;;
+000484;skos:Concept;LA CHAISE-DIEU, Abbatiale Saint-Robert;;;;;000483;;;
+000485;skos:Concept;LA COUTURE-BOUSSEY;;;;;000379;;;
+000486;skos:Concept;LA FERTÉ-GAUCHER;;;;;001104;;;
+000487;skos:Concept;LA FLÈCHE;;;;;001093;;;PMB3236
+000488;skos:Concept;LA FLÈCHE, Collège des jésuites;;;;;000487;;;
+000489;skos:Concept;LA FLÈCHE, Orgue de la chapelle Saint-Louis;;;;;000487;;;PMB3237
+000490;skos:Concept;LA FRANCE;;;;;000538;;;PMB3208
+000491;skos:Concept;LA GARENNE-COLOMBES;;;;;000449;;;
+000492;skos:Concept;LA HAYE;;;;;000919;;;
+000493;skos:Concept;LA HAYE, Théâtre français;;;;;000492;;;
+000494;skos:Concept;LA ROCHELLE;;;;;000247;;;PMB3239
+000495;skos:Concept;LA ROCHELLE, Salle du Grand Gallion;;;;;000494;;;
+000496;skos:Concept;LAMBALLE;;;;;000298;;;
+000497;skos:Concept;LAMBALLE, Cathédrale;;;;;000496;;;
+000498;skos:Concept;LANDES;;;;;000059;;;
+000499;skos:Concept;LANGRES;;;;;000441;;;PMB3240
+000500;skos:Concept;LANGRES, Cathédrale Saint-Mammès;;;;;000499;;;PMB3241
+000501;skos:Concept;LANGUEDOC-ROUSSILLON;LANGUEDOC##ROUSSILLON;;Région de France.;;000490;;;PMB3242
+000502;skos:Concept;LANNION;;;;;000298;;;
+000503;skos:Concept;LANNION, Cathédrale Saint-Jean du Baly;;;;;000502;;;
+000504;skos:Concept;LAON;;;;;000013;;;
+000505;skos:Concept;LATIUM;;;;;;;;PMB3243
+000506;skos:Concept;LAURE-MINERVOIS;;;;;000081;;;
+000507;skos:Concept;LAUSANNE;;;;;001147;;;
+000508;skos:Concept;LAVAL;;;;;000631;;;PMB3244
+000509;skos:Concept;LAVAL, Bibliothèque de l'Université;;;;;000508;;;PMB3245
+000510;skos:Concept;LAVAL, Cathédrale Notre-Dame-de-la-Trinité;;;;;000508;;;
+000511;skos:Concept;LAVAL, Église Saint-Tugal;;;;;000508;;;
+000512;skos:Concept;Lazaristes;;;;;000528;;;
+000513;skos:Concept;LE BUGUE;;;;;000345;;;
+000514;skos:Concept;LE HAVRE;;;;;001105;;;
+000515;skos:Concept;LE HAVRE, Théâtre des Barres;;;;;000514;;;
+000516;skos:Concept;LE MANS;;;;;001093;;;"PMB3246;PMB3238"
+000517;skos:Concept;LE MANS, Cathédrale Saint-Julien;;;;;000516;;;
+000518;skos:Concept;LE MANS, Théâtre de la place des Jacobins;;;;;000516;;;
+000519;skos:Concept;LE NEUBOURG;;;;;000379;;;
+000520;skos:Concept;LE PUY-EN-VELAY;LE PUY (ancien nom);;;;000440;;;PMB3247
+000521;skos:Concept;LE PUY-EN-VELAY, Cathédrale Notre-Dame-du-Puy;;;;;000520;;;PMB3248
+000522;skos:Concept;LE PUY-EN-VELAY, Collège des jésuites;;;;;000520;;;
+000523;skos:Concept;LE PUY-EN-VELAY, Salle de Comédie;;;;;000520;;;
+000524;skos:Concept;LEIPZIG;;;;;000026;;;
+000525;skos:Concept;LES ANDELYS;LE PETIT ANDELY;;;;000379;;;
+000526;skos:Concept;LES ANDELYS, Église Saint-Sauveur;;;;;000525;;;
+000527;skos:Concept;LES AUTRES PAYS;;;;;000538;;;
+000528;skos:Concept;LES INSTITUTIONS MOBILES;;;;;000538;;;
+000529;skos:Concept;LESCAR;;;;;000957;;;
+000530;skos:Concept;LIÈGE;;;;;000128;;;PMB3249
+000531;skos:Concept;LIÈGE, Cathédrale Saint-Lambert;;;;;000530;;;PMB3252
+000532;skos:Concept;LIÈGE, Collégiale Saint-Denis;;;;;000530;;;PMB3250
+000533;skos:Concept;LIÈGE, Collégiale Saint-Paul;;;;;000530;;;
+000534;skos:Concept;LIÈGE, Confrérie Sainte-Cécile;;;;;000530;;;
+000535;skos:Concept;LIÈGE, Conservatoire royal de musique;;;;;000530;;;PMB3251
+000536;skos:Concept;LIÈGE, Église Saint-Jean l’Évangéliste;;;;;000530;;;
+000537;skos:Concept;LIÈGE, Théâtre;;;;;000530;;;PMB22499
+000538;skos:Concept;Lieux de la vie musicale;;;;;;;;
+000539;skos:Concept;LILLE;;;;;000739;;;PMB3253
+000540;skos:Concept;LILLE, Bibliothèque municipale;;;;;000539;;;PMB3254
+000541;skos:Concept;LILLE, Théâtre;;;;;000539;;;
+000542;skos:Concept;LIMOGES;;;;;000447;;;PMB3255
+000543;skos:Concept;LIMOUSIN;;;Région de France.;;000490;;;PMB3256
+000544;skos:Concept;LIMOUX;;;;;000081;;;PMB3257
+000545;skos:Concept;LISBONNE;;;;;000949;;;PMB3258
+000546;skos:Concept;LISIEUX;;;;;000208;;;PMB3259
+000547;skos:Concept;LISIEUX, Cathédrale Saint-Pierre;;;;;000546;;;
+000548;skos:Concept;LOCHES;;;;;000463;;;
+000549;skos:Concept;LOIRE;;;;;000985;;;
+000550;skos:Concept;LOIRE-ATLANTIQUE;;;;;000918;;;
+000551;skos:Concept;LOIRET;;;;;000228;;;PMB3261
+000552;skos:Concept;LOIR-ET-CHER;;;;;000228;;;PMB3260
+000553;skos:Concept;LOMBEZ;;;;;000413;;;
+000554;skos:Concept;LONDRES;;;;;000045;;;PMB3264
+000555;skos:Concept;LONDRES, British Library;;;;;000554;;;PMB3262
+000556;skos:Concept;LONDRES, Royal Society;;;;;000554;;;PMB3263
+000557;skos:Concept;LONDRES, Théâtre Royal;;;;;000554;;;
+000558;skos:Concept;LONDRES, Victoria and Albert Museum;;;;;000554;;;PMB3265
+000559;skos:Concept;LORETO;;;;;000469;;;PMB3266
+000560;skos:Concept;LORETO, Basilica della Santa Casa;;;;;000559;;;PMB22558
+000561;skos:Concept;LORIENT;;;;;000683;;;
+000562;skos:Concept;LORIENT, Théâtre de la marine;;;;;000561;;;
+000563;skos:Concept;LORRAINE;;;Région de France.;;000490;;;PMB3267
+000564;skos:Concept;LOT;;;;;000647;;;PMB3268
+000565;skos:Concept;LOT-ET-GARONNE;;;;;000059;;;
+000566;skos:Concept;LOUISIANE;;;;;;;;PMB3269
+000567;skos:Concept;LOUVAIN;;;;;000128;;;
+000568;skos:Concept;LOZÈRE;;;;;000501;;;
+000569;skos:Concept;LÜBECK;;LUEBECK;;;000026;;;PMB3271
+000570;skos:Concept;LUCQUES;LUCCA;;;;000469;;;PMB3270
+000571;skos:Concept;LUÇON;;;;;001235;;;
+000572;skos:Concept;LUÇON, Cathédrale Notre-Dame;;;;;000571;;;
+000573;skos:Concept;LUNÉVILLE;;;;;000644;;;PMB3272
+000574;skos:Concept;LUNÉVILLE, Théâtre de Cour;;;;;000573;;;
+000575;skos:Concept;LURE;;;;;000444;;;
+000576;skos:Concept;LURE, Église;;;;;000575;;;
+000577;skos:Concept;LYON;;;;;000984;;;PMB3273
+000578;skos:Concept;LYON, Académie des beaux-arts;;;;;000577;;;PMB3274
+000579;skos:Concept;LYON, Académie royale de musique;;;;;000577;;;PMB23261
+000580;skos:Concept;LYON, Bibliothèque municipale;;;;;000577;;;PMB3275
+000581;skos:Concept;LYON, Cathédrale Saint-Jean;;;;;000577;;;
+000582;skos:Concept;LYON, Collège de la Trinité;;;;;000577;;;
+000583;skos:Concept;LYON, Hôtel-de-Ville;;;;;000577;;;
+000584;skos:Concept;LYON, Théâtre de Soufflot;;;;;000577;;;
+000585;skos:Concept;MAASTRICHT;;;;;000919;;;
+000586;skos:Concept;MAASTRICHT, Collégiale Notre-Dame;;;;;000585;;;
+000587;skos:Concept;MAASTRICHT, Église Saint-Servais;;;;;000585;;;
+000588;skos:Concept;MÂCON;;;;;001090;;;
+000589;skos:Concept;MÂCON, Théâtre;;;;;000588;;;
+000590;skos:Concept;MADRID;;;;;000373;;;PMB3276
+000591;skos:Concept;MADRID, Bibliothèque municipale;;;;;000590;;;PMB23460
+000592;skos:Concept;MADRID, Bibliothèque nationale;;;;;000590;;;PMB3277
+000593;skos:Concept;Magasin de musique à l’usage des fêtes nationales;;;;;000528;;;
+000594;skos:Concept;MAINCY;;;;;001104;;;
+000595;skos:Concept;MAINCY, Château de Vaux-le-Vicomte;;;;;000594;;;
+000596;skos:Concept;MAINE-ET-LOIRE;;;;;000918;;;
+000597;skos:Concept;Maison de Guise;;;;;000528;;;
+000598;skos:Concept;Maison de la comtesse d’Artois;;;;;000528;;;
+000599;skos:Concept;Maison de la comtesse de Provence;;;;;000528;;;
+000600;skos:Concept;Maison de la Reine;;;;;000528;;;
+000601;skos:Concept;Maison de Madame Élisabeth;;;;;000528;;;
+000602;skos:Concept;Maison des ducs d’Angoulême et de Berry;;;;;000528;;;
+000603;skos:Concept;Maison des Enfants de France;;;;;000528;;;
+000604;skos:Concept;Maison des Esterhazy;;;;;000528;;;
+000605;skos:Concept;Maison des Orléans;;;;;000528;;;
+000606;skos:Concept;Maison des Stuart;;;;;000528;;;
+000607;skos:Concept;Maison des Valois;;;;;000528;;;
+000608;skos:Concept;Maison du comte d’Artois;;;;;000528;;;
+000609;skos:Concept;Maison du comte de Provence;;;;;000528;;;
+000610;skos:Concept;Maison du Roi;;;;;000528;;;
+000611;skos:Concept;Maîtrise;;;;;;;;PMB3278
+000612;skos:Concept;MALTE;;;;;000527;;;PMB3279
+000613;skos:Concept;MANCHE;;;;;000109;;;
+000614;skos:Concept;MANNHEIM;;;;;000026;;;
+000615;skos:Concept;MANNHEIM, Théâtre français;;;;;000614;;;
+000616;skos:Concept;MANOSQUE;;;;;000028;;;
+000617;skos:Concept;MAREDSOUS;;;;;000128;;;
+000618;skos:Concept;MAREDSOUS, Abbaye;;;;;000617;;;
+000619;skos:Concept;MARLY-LE-ROI;;;;;001285;;;
+000620;skos:Concept;MARMOUTIER;;;;;000108;;;
+000621;skos:Concept;MARNE;;;;;000239;;;
+000622;skos:Concept;MAROILLES;;;;;000739;;;
+000623;skos:Concept;MARSEILLE;;;;;000158;;;PMB3280
+000624;skos:Concept;MARSEILLE, Académie de musique;;;;;000623;;;PMB3281
+000625;skos:Concept;MARSEILLE, Cathédrale Notre-Dame de la Major;;;;;000623;;;
+000626;skos:Concept;MARSEILLE, Concert;;;;;000623;;;PMB3282
+000627;skos:Concept;MARSEILLE, Grand-Théâtre;;;;;000623;;;
+000628;skos:Concept;MARTIGUES;;;;;000158;;;
+000629;skos:Concept;MAUBEUGE;;;;;000739;;;PMB3283
+000630;skos:Concept;MAUBEUGE, Monastère Sainte-Aldegonde;;;;;000629;;;
+000631;skos:Concept;MAYENNE;;;;;000918;;;PMB23208
+000632;skos:Concept;MEAUX;;;;;001104;;;PMB3284
+000633;skos:Concept;MEAUX, Cathédrale Saint-Étienne;;;;;000632;;;
+000634;skos:Concept;MELUN;;;;;001104;;;
+000635;skos:Concept;MELUN, Église Notre-Dame;;;;;000634;;;
+000636;skos:Concept;MENDE;;;;;000568;;;PMB3285
+000637;skos:Concept;Menus-Plaisirs;;;;;000528;;;
+000638;skos:Concept;MESSINE;;;;;000469;;;
+000639;skos:Concept;METZ;;;;;000686;;;PMB3286
+000640;skos:Concept;METZ, Cathédrale Saint-Étienne;;;;;000639;;;
+000641;skos:Concept;METZ, Hôtel des spectacles;;;;;000639;;;
+000642;skos:Concept;METZ, Société philharmonique ou Concert d’Amateurs;;;;;000639;;;
+000643;skos:Concept;MEUDON;;;;;000449;;;
+000644;skos:Concept;MEURTHE-ET-MOSELLE;;;;;000563;;;PMB23110
+000645;skos:Concept;MEUSE;;;;;000563;;;
+000646;skos:Concept;MEXIQUE;;;;;000527;;;PMB22619
+000647;skos:Concept;MIDI-PYRÉNÉES;;;Région de France.;;000490;;;
+000648;skos:Concept;MILAN;;;;;000469;;;PMB3287
+000649;skos:Concept;Minimes;;;;;000528;;;
+000650;skos:Concept;MIRECOURT;;;;;001279;;;PMB3288
+000651;skos:Concept;MITRY-MORY;;;;;001104;;;
+000652;skos:Concept;MODÈNE;;;;;000469;;;PMB3289
+000653;skos:Concept;MOLSHEIM;;;;;000108;;;
+000654;skos:Concept;MOLSHEIM, Église Saint-Georges;;;;;000653;;;
+000655;skos:Concept;MONACO;;;;;000527;;;PMB23448
+000656;skos:Concept;MONACO, Église Saint-Nicolas;;;;;000655;;;
+000657;skos:Concept;MONEIN;;;;;000957;;;
+000658;skos:Concept;MONEIN, Église Saint-Girons;;;;;000657;;;
+000659;skos:Concept;MONTAUBAN;;;;;001152;;;PMB3290
+000660;skos:Concept;MONTAUBAN, Bibliothèque municipale;;;;;000659;;;PMB3291
+000661;skos:Concept;MONTAUBAN, Salle de Comédie;;;;;000659;;;
+000662;skos:Concept;MONTBÉLIARD;;;;;000349;;;
+000663;skos:Concept;MONTBRISON;;;;;000549;;;PMB3292
+000664;skos:Concept;MONTEREAU-FAULT-YONNE;;;;;001104;;;
+000665;skos:Concept;MONTEREAU-FAULT-YONNE, Collégiale Notre-Dame;;;;;000664;;;
+000666;skos:Concept;MONTLUÇON;;;;;000027;;;
+000667;skos:Concept;MONTPELLIER;;;;;000450;;;PMB3293
+000668;skos:Concept;MONTPELLIER, Cathédrale Saint-Pierre;;;;;000667;;;
+000669;skos:Concept;MONTPELLIER, Société royale des sciences;;;;;000667;;;
+000670;skos:Concept;MONTPELLIER, Théâtre;;;;;000667;;;
+000671;skos:Concept;MONTRÉAL;;;;;000960;;;PMB3294
+000672;skos:Concept;MONTRÉAL, AUDE;;;;;000671;;;
+000673;skos:Concept;MONTRÉAL, AUDE, Collégiale Saint-Vincent;;;;;000671;;;
+000674;skos:Concept;MONTRÉAL, Bibliothèque nationale du Québec;;;;;000671;;;
+000675;skos:Concept;MONTRÉAL, Hôtel-Dieu, Hospitalières de Saint-Joseph;;;;;000671;;;
+000676;skos:Concept;MONTRÉAL, Notre-Dame-de-Bonsecours;;;;;000671;;;
+000677;skos:Concept;MONTRÉAL, Séminaire Saint-Sulpice;;;;;000671;;;
+000678;skos:Concept;MONT-ROLAND;;;;;000477;;;
+000679;skos:Concept;MONT-ROLAND, Église Notre-Dame;;;;;000678;;;
+000680;skos:Concept;MONTROUGE;;;;;000449;;;
+000681;skos:Concept;MONT-SAINT-AIGNAN;;;;;001105;;;
+000682;skos:Concept;MONT-SAINT-AIGNAN, Église Saint-Thomas;;;;;000681;;;
+000683;skos:Concept;MORBIHAN;;;;;000174;;;
+000684;skos:Concept;MORET-SUR-LOING;;;;;001104;;;
+000685;skos:Concept;MOSCOU;;;;;001025;;;
+000686;skos:Concept;MOSELLE;;;;;000563;;;PMB3295
+000687;skos:Concept;MOULINS;;;;;000027;;;PMB3296
+000688;skos:Concept;MOUSSEY;;;;;;;;PMB3297
+000689;skos:Concept;MULHOUSE;;;;;000448;;;
+000690;skos:Concept;MULHOUSE, Église Saint-Étienne;;;;;000689;;;
+000691;skos:Concept;MUNICH;;;;;000026;;;PMB3298
+000692;skos:Concept;MÜNSTER;;;;;000026;;;PMB3299
+000693;skos:Concept;MURET;;;;;000439;;;
+000694;skos:Concept;Musique de l’Écurie;;;;;000528;;;
+000695;skos:Concept;Musique de la Grande Écurie;;;;;000528;;;
+000696;skos:Concept;Musique du roi;;;;;000528;;;
+000697;skos:Concept;NANCY;;;;;000644;;;PMB3300
+000698;skos:Concept;NANCY, Académie de musique;;;;;000697;;;
+000699;skos:Concept;NANCY, Collégiale Saint-Georges;;;;;000697;;;
+000700;skos:Concept;NANCY, Église Saint-Epvre;;;;;000697;;;
+000701;skos:Concept;NANCY, Opéra;;;;;000697;;;
+000702;skos:Concept;NANCY, Primatiale;;;;;000697;;;
+000703;skos:Concept;NANCY, Théâtre de Cour;;;;;000697;;;
+000704;skos:Concept;NANCY, Théâtre de la place Stanislas;;;;;000697;;;
+000705;skos:Concept;NANTERRE;;;;;000449;;;
+000706;skos:Concept;NANTES;;;;;000550;;;PMB3301
+000707;skos:Concept;NANTES, Académie de musique;;;;;000706;;;
+000708;skos:Concept;NANTES, Cathédrale Saint-Pierre;;;;;000706;;;
+000709;skos:Concept;NANTES, Collégiale Notre-Dame;;;;;000706;;;
+000710;skos:Concept;NANTES, Concert de la Rotonde;;;;;000706;;;
+000711;skos:Concept;NANTES, Concert de la Ville;;;;;000706;;;
+000712;skos:Concept;NANTES, Concert des Amateurs;;;;;000706;;;
+000713;skos:Concept;NANTES, Concert Dugue;;;;;000706;;;
+000714;skos:Concept;NANTES, Grand Théâtre;;;;;000706;;;PMB3302
+000715;skos:Concept;NANTES, Nouvelle société de musique;;;;;000706;;;
+000716;skos:Concept;NANTES, Oratoire;;;;;000706;;;
+000717;skos:Concept;NANTES, Théâtre Graslin;;;;;000706;;;
+000718;skos:Concept;NAPLES;;;;;000469;;;PMB3303
+000719;skos:Concept;NARBONNE;;;;;000081;;;
+000720;skos:Concept;NARBONNE, Cathédrale Saint-Just;;;;;000719;;;
+000721;skos:Concept;NAY;;;;;000957;;;
+000722;skos:Concept;NAY, Église Saint-Vincent;;;;;000721;;;
+000723;skos:Concept;NEMOURS;;;;;001104;;;PMB3304
+000724;skos:Concept;NEMOURS, Orgue;;;;;000723;;;PMB3305
+000725;skos:Concept;NEUCHÂTEL;;;;;001147;;;PMB3306
+000726;skos:Concept;NEUILLY-SUR-SEINE;;;;;000449;;;
+000727;skos:Concept;NEUWILLER;;;;;000448;;;
+000728;skos:Concept;NEUWILLER, Église Saint-Pierre-et-Saint-Paul;;;;;000727;;;
+000729;skos:Concept;NEVERS;;;;;000734;;;
+000730;skos:Concept;NEVERS, Salle de Comédie;;;;;000729;;;
+000731;skos:Concept;NEW ORLEANS;;;;;;;;
+000732;skos:Concept;NICE;;;;;000029;;;PMB3308
+000733;skos:Concept;NIELLES-LES-ARDRE;;;;;000914;;;
+000734;skos:Concept;NIÈVRE;;;;;000166;;;
+000735;skos:Concept;NÎMES;;;;;000408;;;
+000736;skos:Concept;NÎMES, Grand Théâtre;;;;;000735;;;
+000737;skos:Concept;NÎMES, Théâtre;;;;;000735;;;
+000738;skos:Concept;NIORT;;;;;000326;;;
+000739;skos:Concept;NORD;;;;;000740;;;PMB3309
+000740;skos:Concept;NORD-PAS-DE-CALAIS;;;Région de France.;;000490;;;
+000741;skos:Concept;NORMANDIE;;;Région de France.;;000490;;;PMB3310
+000742;skos:Concept;NORVEGE;;;;;000527;;;PMB3311
+000743;skos:Concept;NOUVELLE FRANCE;;;;;000213;;;PMB3312
+000744;skos:Concept;NOUVELLE-ANGLETERRE;;;;;;;;
+000745;skos:Concept;NOUVELLE-ORLÉANS;NEW ORLEANS;;;;000378;;;"PMB3313;PMB3307"
+000746;skos:Concept;NOUVELLE-ORLÉANS, Cathédrale Saint-Louis;;;;;000745;;;PMB3314
+000747;skos:Concept;NOUVELLE-ORLÉANS, Couvent des Capucins;;;;;000745;;;
+000748;skos:Concept;NOUVELLE-ORLÉANS, Monastère des Ursulines;;;;;000745;;;
+000749;skos:Concept;NOUVELLE-ZÉLANDE;;;;;000527;;;
+000750;skos:Concept;NOVARE;NOVARRE##NOVARA;;;;000469;;;PMB22633
+000751;skos:Concept;NOYON;;;;;000757;;;
+000752;skos:Concept;NUITS-SAINT-GEORGES;;;;;000297;;;
+000753;skos:Concept;NUITS-SAINT-GEORGES, Église Saint-Symphorien;;;;;000752;;;
+000754;skos:Concept;NUREMBERG;;;;;000026;;;PMB3315
+000755;skos:Concept;OBERNAI;;;;;000108;;;
+000756;skos:Concept;OBERNAI, Église Pierre et Paul;;;;;000755;;;
+000757;skos:Concept;OISE;;;;;000932;;;
+000758;skos:Concept;OLORON-SAINTE-MARIE;;;;;000957;;;
+000759;skos:Concept;OLORON-SAINTE-MARIE, Cathédrale Sainte-Marie;;;;;000758;;;
+000760;skos:Concept;OMBRIE;;;Région d'Italie centrale.;;;;;PMB3316
+000761;skos:Concept;ORLÉANS;;;;;000551;;;PMB3317
+000762;skos:Concept;ORLÉANS, Académie de musique;;;;;000761;;;
+000763;skos:Concept;ORLÉANS, Cathédrale Sainte-Croix;;;;;000761;;;
+000764;skos:Concept;ORLÉANS, Collégiale Saint-Aignan;;;;;000761;;;
+000765;skos:Concept;ORLÉANS, Théâtre de la République;;;;;000761;;;
+000766;skos:Concept;ORNE;;;;;000109;;;
+000767;skos:Concept;OTTROTT;;;;;000108;;;
+000768;skos:Concept;OTTROTT, Église Saint-Simon;;;;;000767;;;
+000769;skos:Concept;OXFORD;;;;;000045;;;PMB3318
+000770;skos:Concept;PADOUE;;;;;000469;;;
+000771;skos:Concept;PADOUE, Académie des Ricovrati;;;;;000770;;;
+000772;skos:Concept;PALERME;;;;;000469;;;PMB3319
+000773;skos:Concept;PALESTRINA;;;;;;;;PMB3320
+000774;skos:Concept;PAMPLONA;;;;;;;;PMB3321
+000775;skos:Concept;PAMPLONA, Cathédrale;;;;;;;;PMB3322
+000776;skos:Concept;PARIS;;;;;000458;;;PMB3323
+000777;skos:Concept;PARIS, À la Règle d’or;;;;;000776;;;
+000778;skos:Concept;PARIS, Abbaye de Longchamp;;;;;000776;;;
+000779;skos:Concept;PARIS, Abbaye du Val-de-Grâce;;;;;000776;;;
+000780;skos:Concept;PARIS, Abbaye Saint-Germain des Prés;;;;;000776;;;
+000781;skos:Concept;PARIS, Abbaye Saint-Pierre de Montmartre;;;;;000776;;;
+000782;skos:Concept;PARIS, Académie de poésie et de musique;;;;;000776;;;
+000783;skos:Concept;PARIS, Académie des beaux-arts;;;;;000776;;;
+000784;skos:Concept;PARIS, Académie des inscriptions et belles-lettres;;;;;000776;;;
+000785;skos:Concept;PARIS, Académie des sciences;;;;;000776;;;
+000786;skos:Concept;PARIS, Académie française;;;;;000776;;;
+000787;skos:Concept;PARIS, Académie nationale de musique, Opéra;;;;;000776;;;PMB23057
+000788;skos:Concept;PARIS, Académie royale de danse;;;;;000776;;;PMB3324
+000789;skos:Concept;PARIS, Académie royale de musique;;;;;000776;;;PMB3325
+000790;skos:Concept;PARIS, Académie royale des sciences;;;;;000776;;;PMB3326
+000791;skos:Concept;PARIS, Archives nationales;;;;;000776;;;PMB3327
+000792;skos:Concept;PARIS, Arsenal;;;;;000776;;;PMB23022
+000793;skos:Concept;PARIS, Bibliothèque de l’Arsenal;;;;;000776;;;PMB3328
+000794;skos:Concept;PARIS, Bibliothèque nationale;PARIS, Bibliothèque nationale de France;;;;000776;;;PMB3329
+000795;skos:Concept;PARIS, Bibliothèque Sainte-Geneviève;;;;;000776;;;PMB3330
+000796;skos:Concept;PARIS, Café Laurent;;;;;000776;;;
+000797;skos:Concept;PARIS, Cathédrale Notre-Dame;;;;;000776;;;"PMB23103;PMB22990"
+000798;skos:Concept;PARIS, Cathédrale Notre-Dame, orgue;;;;;000797;;;PMB3346
+000799;skos:Concept;PARIS, Champ de Mars;;;;;000776;;;
+000800;skos:Concept;PARIS, chez M. de La Pouplinière;;;;;000776;;;
+000801;skos:Concept;PARIS, chez Marie de Lorraine;;;;;000776;;;
+000802;skos:Concept;PARIS, chez Mlle de Guise;PARIS, chez Marie de Lorraine;;;;000776;;;
+000803;skos:Concept;PARIS, CNRS;;;;;000776;;;PMB3331
+000804;skos:Concept;PARIS, Collège d’Harcourt;;;;;000776;;;
+000805;skos:Concept;PARIS, Collège Louis-le-Grand;;;;;000776;;;
+000806;skos:Concept;PARIS, Collégiale Sainte-Opportune;;;;;000776;;;PMB3332
+000807;skos:Concept;PARIS, Collégiale Saint-Honoré;;;;;000776;;;
+000808;skos:Concept;PARIS, Comédie-Française;;;;;000776;;;PMB3333
+000809;skos:Concept;PARIS, Comédie-Italienne;;;;;000776;;;PMB3334
+000810;skos:Concept;PARIS, Concert Spirituel;;;;;000776;;;PMB3335
+000811;skos:Concept;PARIS, Conservatoire de musique;;;;;000776;;;PMB3336
+000812;skos:Concept;PARIS, Conservatoire national de musique;;;;;000776;;;
+000813;skos:Concept;PARIS, Conservatoire national de musique, bibliothèque;;;;;000812;;;
+000814;skos:Concept;PARIS, Couvent des Cordeliers;;;;;000776;;;
+000815;skos:Concept;PARIS, Couvent des Minimes;;;;;000776;;;
+000816;skos:Concept;PARIS, Couvent Notre-Dame-de-Bonne-Nouvelle;;;;;000776;;;
+000817;skos:Concept;PARIS, Couvent Notre-Dame-de-la-Mercy;;;;;000776;;;
+000818;skos:Concept;PARIS, Couvent Notre-Dame-des-Victoires;;;;;000776;;;
+000819;skos:Concept;PARIS, Couvent Sainte-Anne-la-Royale;;;;;000776;;;
+000820;skos:Concept;PARIS, École de chant du Magasin;;;;;000776;;;
+000821;skos:Concept;PARIS, École de chant et de déclamation;;;;;000776;;;
+000822;skos:Concept;PARIS, École gratuite de musique de la garde nationale;;;;;000776;;;
+000823;skos:Concept;PARIS, École royale;;;;;000776;;;PMB23470
+000824;skos:Concept;PARIS, École royale de chant;;;;;000776;;;
+000825;skos:Concept;PARIS, École royale de chant et de déclamation;;;;;000776;;;
+000826;skos:Concept;PARIS, École royale militaire;;;;;000776;;;
+000827;skos:Concept;PARIS, Église des Feuillants;;;;;000776;;;
+000828;skos:Concept;PARIS, Église Notre-Dame-des-Victoires;;;;;000776;;;
+000829;skos:Concept;PARIS, Église Saint-André-des-Arts;;;;;000776;;;
+000830;skos:Concept;PARIS, Église Saint-Barthélémy;;;;;000776;;;
+000831;skos:Concept;PARIS, Église Saint-Benoît;;;;;000776;;;
+000832;skos:Concept;PARIS, Église Sainte-Geneviève-du-Mont;;;;;000776;;;
+000833;skos:Concept;PARIS, Église Saint-Étienne-du-Mont;;;;;000776;;;
+000834;skos:Concept;PARIS, Église Saint-Eustache;;;;;000776;;;
+000835;skos:Concept;PARIS, Église Saint-Germain-l’Auxerrois;;;;;000776;;;
+000836;skos:Concept;PARIS, Église Saint-Gervais;;;;;000776;;;PMB3338
+000837;skos:Concept;PARIS, Eglise Saint-Honoré;;;;;000776;;;PMB3339
+000838;skos:Concept;PARIS, Église Saint-Jacques-de-la-Boucherie;;;;;000776;;;
+000839;skos:Concept;PARIS, Église Saint-Jean-en-Grève;;;;;000776;;;
+000840;skos:Concept;PARIS, Église Saint-Julien-le-Pauvre;;;;;000776;;;
+000841;skos:Concept;PARIS, Église Saint-Laurent;;;;;000776;;;
+000842;skos:Concept;PARIS, Église Saint-Louis;;;;;000776;;;
+000843;skos:Concept;PARIS, Église Saint-Louis-des-Invalides;;;;;000776;;;
+000844;skos:Concept;PARIS, Église Saint-Louis-en-l’Ile;;;;;000776;;;
+000845;skos:Concept;PARIS, Église Saint-Médard;;;;;000776;;;
+000846;skos:Concept;PARIS, Église Saint-Médéric;;;;;000776;;;
+000847;skos:Concept;PARIS, Église Saint-Merry;;;;;000776;;;
+000848;skos:Concept;PARIS, Église Saint-Nicolas-des-Champs;;;;;000776;;;
+000849;skos:Concept;PARIS, Église Saint-Paul;;;;;000776;;;
+000850;skos:Concept;PARIS, Église Saint-Roch;;;;;000776;;;PMB3337
+000851;skos:Concept;PARIS, Église Saint-Séverin;;;;;000776;;;
+000852;skos:Concept;PARIS, Église Saints-Innocents;;;;;000776;;;
+000853;skos:Concept;PARIS, Église Saint-Sulpice;;;;;000776;;;
+000854;skos:Concept;PARIS, Église Saint-Thomas-d’Aquin;;;;;000776;;;
+000855;skos:Concept;PARIS, Faubourg Saint-Germain;;;;;000776;;;
+000856;skos:Concept;PARIS, Faubourg Saint-Jacques;;;;;000776;;;
+000857;skos:Concept;PARIS, Foire Saint-Germain;;;;;000776;;;PMB3340
+000858;skos:Concept;PARIS, Foire Saint-Laurent;;;;;000776;;;
+000859;skos:Concept;PARIS, Foire Saint-Ovide;;;;;000776;;;
+000860;skos:Concept;PARIS, Hôtel de Bourgogne;;;;;000776;;;
+000861;skos:Concept;PARIS, Hôtel de Guénégaud;;;;;000776;;;
+000862;skos:Concept;PARIS, Hôtel de Rambouillet;;;;;000776;;;
+000863;skos:Concept;PARIS, Hôtel de Seré;;;;;000776;;;
+000864;skos:Concept;PARIS, Hôtel de Soissons;;;;;000776;;;
+000865;skos:Concept;PARIS, Hôtel de ville;;;;;000776;;;
+000866;skos:Concept;PARIS, Hôtel de ville, Bibliothèque historique;;;;;000865;;;PMB3341
+000867;skos:Concept;PARIS, Hôtel du Luxembourg;;;;;000776;;;
+000868;skos:Concept;PARIS, Hôtel Saint-Quentin;;;;;000776;;;
+000869;skos:Concept;PARIS, Île de la Cité;;;;;000776;;;
+000870;skos:Concept;PARIS, Île Saint-Louis;;;;;000776;;;
+000871;skos:Concept;PARIS, Institut de France;;;;;000776;;;
+000872;skos:Concept;PARIS, Institutions religieuses;;;;;000776;;;PMB3342
+000873;skos:Concept;PARIS, Jeu de Paume;;;;;000776;;;
+000874;skos:Concept;PARIS, Jeu de Paume de Béquet;;;;;000776;;;
+000875;skos:Concept;PARIS, Le Marais;;;;;000776;;;
+000876;skos:Concept;PARIS, Loge maçonnique des Neuf Surs;;;;;000776;;;
+000877;skos:Concept;PARIS, Musée de la Musique;;;;;000776;;;PMB3343
+000878;skos:Concept;PARIS, Odéon;;;;;000776;;;PMB23452
+000879;skos:Concept;PARIS, Opéra;;;;;000776;;;PMB3344
+000880;skos:Concept;PARIS, Opéra des Bamboches;;;;;000776;;;
+000881;skos:Concept;PARIS, Opéra, bibliothèque;;;;;000879;;;
+000882;skos:Concept;PARIS, Opéra-comique;;;;;000776;;;PMB22960
+000883;skos:Concept;PARIS, Palais du Louvre, Oratoire;;;;;000889;;;
+000884;skos:Concept;PARIS, Église Saint-Merry, orgue;;;;;000847;;;PMB3347
+000885;skos:Concept;PARIS, Palais des Tuileries;;;;;000776;;;PMB23421
+000886;skos:Concept;PARIS, Palais des Tuileries, chapelle;;;;;000885;;;
+000887;skos:Concept;PARIS, Palais des Tuileries, salle de concert;;;;;000885;;;
+000888;skos:Concept;PARIS, Palais des Tuileries, salle des machines;PARIS, Théâtre des Tuileries;;;;000885;;;
+000889;skos:Concept;PARIS, Palais du Louvre;PARIS, Musée du Louvre;;;;000776;;;"PMB23104;PMB3343"
+000890;skos:Concept;PARIS, Palais du Luxembourg;;;;;000776;;;
+000891;skos:Concept;PARIS, Palais-Royal;;;;;000776;;;PMB3348
+000892;skos:Concept;PARIS, Passy;;;;;000776;;;
+000893;skos:Concept;PARIS, Place royale;;;;;000776;;;
+000894;skos:Concept;PARIS, Port-Royal;;;;;000776;;;PMB3349
+000895;skos:Concept;PARIS, Sainte-Chapelle;;;;;000776;;;"PMB3350;PMB23202"
+000896;skos:Concept;PARIS, Séminaire Saint-Nicolas-du-Chardonnet;;;;;000776;;;
+000897;skos:Concept;PARIS, Séminaire Saint-Sulpice;;;;;000776;;;
+000898;skos:Concept;PARIS, Théâtre;;;;;000776;;;PMB3356
+000899;skos:Concept;PARIS, Théâtre de l’Opéra;;;;;000776;;;
+000900;skos:Concept;PARIS, Théâtre de l’Opéra-Comique;;;;;000776;;;
+000901;skos:Concept;PARIS, Théâtre de la foire;;;;;000776;;;PMB3351
+000902;skos:Concept;PARIS, Théâtre de la République et des Arts;;;;;000776;;;
+000903;skos:Concept;PARIS, Théâtre de Monsieur;;;;;000776;;;PMB3352
+000904;skos:Concept;PARIS, Théâtre des jeunes artistes;;;;;000776;;;
+000905;skos:Concept;PARIS, Théâtre des petits cabinets;;;;;000776;;;PMB3353
+000906;skos:Concept;PARIS, Théâtre du Marais;;;;;000776;;;PMB3354
+000907;skos:Concept;PARIS, Théâtre du Palais-Royal;;;;;000776;;;
+000908;skos:Concept;PARIS, Théâtre du Petit Bourbon;;;;;000776;;;
+000909;skos:Concept;PARIS, Théâtre Feydeau;;;;;000776;;;
+000910;skos:Concept;PARIS, Théâtre italien;;;;;000776;;;PMB3355
+000911;skos:Concept;PARIS, Théâtre Louvois;;;;;000776;;;
+000912;skos:Concept;PARIS, Théâtres;;;;;000776;;;
+000913;skos:Concept;PARME;;;;;000469;;;PMB3357
+000914;skos:Concept;PAS-DE-CALAIS;;;;;000740;;;PMB3358
+000915;skos:Concept;PAU;;;;;000957;;;
+000916;skos:Concept;PAU, Théâtre de la rue Tran;;;;;000915;;;
+000917;skos:Concept;PAVIE;;;;;;;;PMB3359
+000918;skos:Concept;PAYS DE LA LOIRE;ANJOU;;Région de France.;;000490;;;
+000919;skos:Concept;PAYS-BAS;;;;;000527;;;PMB3360
+000920;skos:Concept;PEKIN;;;;;000267;;;PMB3361
+000921;skos:Concept;PÉRIGUEUX;;;;;000345;;;
+000922;skos:Concept;PÉRIGUEUX, Cathédrale Saint-Étienne-de-la-Cité;;;;;000921;;;
+000923;skos:Concept;PÉROU;;;;;000527;;;PMB3362
+000924;skos:Concept;PERPIGNAN;;;;;000958;;;
+000925;skos:Concept;PERPIGNAN, Cathédrale Saint-Jean;;;;;000924;;;
+000926;skos:Concept;PERPIGNAN, Église Notre-Dame de la Réal;;;;;000924;;;
+000927;skos:Concept;PERPIGNAN, Église Saint-Mathieu;;;;;000924;;;
+000928;skos:Concept;PERPIGNAN, Loge de mer, salle de spectacle;;;;;000924;;;
+000929;skos:Concept;PERTUIS;;;;;001234;;;
+000930;skos:Concept;Petite Bande Petits violons du roi;;;;;000528;;;
+000931;skos:Concept;PÉZENAS;;;;;000450;;;
+000932;skos:Concept;PICARDIE;;;Région de France.;;000490;;;PMB22449
+000933;skos:Concept;PIÉMONT;;;;;;;;PMB3363
+000934;skos:Concept;PISE;;;;;000469;;;PMB3364
+000935;skos:Concept;POITIERS;;;;;001267;;;PMB3365
+000936;skos:Concept;POITIERS, Cathédrale Saint-Pierre;;;;;000935;;;
+000937;skos:Concept;POITIERS, Collège des jésuites;;;;;000935;;;
+000938;skos:Concept;POITIERS, Église Saint-Hilaire-le-Grand;;;;;000935;;;
+000939;skos:Concept;POITOU;;;Région recouvrant les départements des Deux-Sèvres, de la Vienne et de la Vendée;;000490;;;PMB3366
+000940;skos:Concept;POITOU-CHARENTES;;;Région de France.;;000490;;;
+000941;skos:Concept;POLOGNE;;;;;000527;;;PMB3367
+000942;skos:Concept;PONT-À-MOUSSON;;;;;000644;;;PMB3368
+000943;skos:Concept;PONT-À-MOUSSON, Église Saint-Laurent;;;;;000942;;;
+000944;skos:Concept;PONT-À-MOUSSON, Théâtre des Jésuites;;;;;000942;;;PMB3369
+000945;skos:Concept;PONT-L’ÉVÊQUE;;;;;000208;;;
+000946;skos:Concept;PONT-L’ÉVÊQUE, Église Saint-Michel;;;;;000945;;;
+000947;skos:Concept;PONT-L’ÉVÊQUE, Église Saint-Michel, orgues;;;;;000946;;;PMB3370
+000948;skos:Concept;PORT-ROYAL;;;;;000743;;;
+000949;skos:Concept;PORTUGAL;;;;;000527;;;PMB3371
+000950;skos:Concept;PRAGUE;;;;;000983;;;PMB3372
+000951;skos:Concept;PRAGUE, Musée des instruments;;;;;000950;;;PMB23099
+000952;skos:Concept;PROVENCE-ALPES-CÔTE-D’AZUR;PROVENCE##RÉGION SUD;;Région de France.;;000490;;;PMB3373
+000953;skos:Concept;PROVINS;;;;;001104;;;
+000954;skos:Concept;PROVINS, Église Saint-Quiriace;;;;;000953;;;
+000955;skos:Concept;PUTEAUX;;;;;000449;;;
+000956;skos:Concept;PUY-DE-DÔME;;;;;000087;;;
+000957;skos:Concept;PYRÉNÉES-ATLANTIQUES;;;;;000059;;;
+000958;skos:Concept;PYRÉNÉES-ORIENTALES;;;;;000501;;;
+000959;skos:Concept;QUÉBEC;;;;;000960;;;PMB3375
+000960;skos:Concept;QUÉBEC province;;;;;000213;;;
+000961;skos:Concept;QUÉBEC, Archives de l'Hôtel Dieu;;;;;000959;;;PMB3376
+000962;skos:Concept;QUÉBEC, Cathédrale;;;;;000959;;;
+000963;skos:Concept;QUÉBEC, Collège des jésuites;;;;;000959;;;
+000964;skos:Concept;QUÉBEC, Hôtel-Dieu;;;;;000959;;;
+000965;skos:Concept;QUÉBEC, Monastère des Augustines de la Miséricorde de Jésus;;;;;000959;;;
+000966;skos:Concept;QUÉBEC, Monastère des Ursulines;;;;;000959;;;
+000967;skos:Concept;QUÉBEC, Séminaire;;;;;000959;;;
+000968;skos:Concept;QUIMPER;;;;;000393;;;
+000969;skos:Concept;QUIMPER, Cathédrale Saint-Corentin;;;;;000968;;;
+000970;skos:Concept;RAMBOUILLET;;;;;001285;;;
+000971;skos:Concept;RATISBONNE;;;;;000026;;;
+000972;skos:Concept;REIMS;;;;;000621;;;PMB3377
+000973;skos:Concept;REIMS, Cathédrale Notre-Dame;;;;;000972;;;
+000974;skos:Concept;REIMS, Maîtrise de la Cathédrale;;;;;000972;;;PMB3378
+000975;skos:Concept;REIMS, Théâtre;;;;;000972;;;
+000976;skos:Concept;REMIREMONT;;;;;001279;;;
+000977;skos:Concept;RENNES;;;;;000459;;;PMB3379
+000978;skos:Concept;RENNES, Bibliotèque municipale;;;;;000977;;;PMB3380
+000979;skos:Concept;RENNES, Cathédrale Saint-Pierre;;;;;000977;;;
+000980;skos:Concept;RENNES, Collège des jésuites;;;;;000977;;;
+000981;skos:Concept;RENNES, Église Saint-Martin;;;;;000977;;;
+000982;skos:Concept;RENNES, Société du concert;;;;;000977;;;
+000983;skos:Concept;RÉPUBLIQUE TCHÈQUE;TCHÉQUIE;;;;000527;;;PMB3436
+000984;skos:Concept;RHÔNE;;;;;000985;;;
+000985;skos:Concept;RHÔNE-ALPES;;;Région de France.;;000490;;;PMB3381
+000986;skos:Concept;RIEUX-VOLVESTRE;;;;;000439;;;
+000987;skos:Concept;RIVES-EN-SEINE;;;;;001105;;;
+000988;skos:Concept;RIVES-EN-SEINE, Abbaye Saint Wandrielle de Fontenelle;;;;;000987;;;
+000989;skos:Concept;ROCHEFORT;;;;;000247;;;
+000990;skos:Concept;ROCHEFORT, Théâtre;;;;;000989;;;
+000991;skos:Concept;RODEZ;;;;;000090;;;PMB23185
+000992;skos:Concept;RODEZ, Cathédrale Notre-Dame;;;;;000991;;;
+000993;skos:Concept;ROME;;;;;000469;;;PMB3382
+000994;skos:Concept;ROME, Académie nationale Sainte-Cécile;;;;;000993;;;PMB3384
+000995;skos:Concept;ROME, Ambassade espagnole;;;;;000993;;;PMB22543
+000996;skos:Concept;ROME, Arscispedale di Santo Spirito in Saxia;;;;;000993;;;PMB3385
+000997;skos:Concept;ROME, Basilique Liberiana;;;;;000993;;;PMB3386
+000998;skos:Concept;ROME, Basilique Santa Maria in Trastevere;;;;;000993;;;PMB3387
+000999;skos:Concept;ROME, Bibliothèque nationale centrale Vittorio Emanuele II;;;;;000993;;;PMB3389
+001000;skos:Concept;ROME, Chapelle Giulia;;;;;000993;;;PMB3383
+001001;skos:Concept;ROME, Chapelle pontificale;;;;;000993;;;PMB3390
+001002;skos:Concept;ROME, Chapelle Sixtine;;;;;;;;PMB3391
+001003;skos:Concept;ROME, Collège germanique;;;;;000993;;;
+001004;skos:Concept;ROME, Église Sainte Marie Majeure;;;;;000993;;;PMB3394
+001005;skos:Concept;ROME, Église Saint-Jacques;;;;;000993;;;PMB3392
+001006;skos:Concept;ROME, Église Saint-Jean-de-Latran;;;;;000993;;;PMB3393
+001007;skos:Concept;ROME, Église Saint-Louis-des-Français;;;;;000993;;;
+001008;skos:Concept;ROME, Oratoire;;;;;000993;;;PMB3395
+001009;skos:Concept;ROME, Palais Altemps;;;;;000993;;;
+001010;skos:Concept;ROME, Saint-Laurence in Damaso;;;;;000993;;;PMB3396
+001011;skos:Concept;ROME, Saint-Louis des Français;;;;;000993;;;PMB3397
+001012;skos:Concept;RONCIGLIONE;;;;;;;;PMB3398
+001013;skos:Concept;ROSTOCK;;;;;;;;PMB3399
+001014;skos:Concept;ROUEN;;;;;001105;;;PMB3400
+001015;skos:Concept;ROUEN, Cathédrale Notre-Dame;;;;;001014;;;
+001016;skos:Concept;ROUEN, Église Saint-Herbland;;;;;001014;;;
+001017;skos:Concept;ROUEN, Maîtrise de Saint-Évode [Cathédrale];;;;;001014;;;PMB3401
+001018;skos:Concept;ROUEN, Opéra;;;;;001014;;;PMB3402
+001019;skos:Concept;ROUEN, Théâtre des Arts;;;;;001014;;;
+001020;skos:Concept;ROUEN, Théâtre-Français;;;;;001014;;;
+001021;skos:Concept;ROUSSILLON;;;;;;;;PMB3403
+001022;skos:Concept;ROYAUMONT;;;;;;;;PMB3405
+001023;skos:Concept;ROYAUMONT, Abbaye;;;;;;;;PMB3406
+001024;skos:Concept;RUEIL-MALMAISON;;;;;000449;;;
+001025;skos:Concept;RUSSIE;;;;;000527;;;PMB3407
+001026;skos:Concept;S. BAGIO DI CENTO, Chapelle musicale;;;;;;;;PMB3408
+001027;skos:Concept;SAINT BERTRAND DE COMMINGES;;;;;;;;PMB3409
+001028;skos:Concept;SAINT CYR, Maison de saint Louis;;;;;;;;PMB3410
+001029;skos:Concept;SAINT DOMINGUE;;;;;;;;PMB3411
+001030;skos:Concept;SAINT GERMAIN EN LAYE;;;;;;;;PMB3412
+001031;skos:Concept;SAINT GERMAIN EN LAYE, Château;;;;;;;;PMB23222
+001032;skos:Concept;SAINT QUENTIN;;;;;;;;PMB3413
+001033;skos:Concept;SAINT QUENTIN, Collégiale;;;;;;;;PMB3414
+001034;skos:Concept;SAINT RIQUIER;;;;;;;;PMB3415
+001035;skos:Concept;SAINT RIQUIER, Abbatiale;;;;;;;;
+001036;skos:Concept;SAINT RIQUIER, Abbatiale, Orgue;;;;;;;;PMB3416
+001037;skos:Concept;SAINT-AIGNAN-SUR-CHER;;;;;000552;;;
+001038;skos:Concept;SAINT-BARTHÉLEMY-D’ANJOU;;;;;000596;;;
+001039;skos:Concept;SAINT-BERTRAND-DE-COMMINGES;;;;;000439;;;
+001040;skos:Concept;SAINT-BERTRAND-DE-COMMINGES, Cathédrale Notre-Dame;;;;;001039;;;
+001041;skos:Concept;SAINT-BRIEUC;;;;;000298;;;
+001042;skos:Concept;SAINT-BRIEUC, Cathédrale Saint-Étienne;;;;;001041;;;
+001043;skos:Concept;SAINT-CALAIS;;;;;001093;;;
+001044;skos:Concept;SAINT-CALAIS, Collégiale Notre-Dame;;;;;001043;;;
+001045;skos:Concept;SAINT-CLOUD;;;;;000449;;;
+001046;skos:Concept;SAINT-CYR;;;;;001285;;;
+001047;skos:Concept;SAINT-CYR, Maison royale Saint-Louis;;;;;001046;;;
+001048;skos:Concept;SAINT-DENIS;;;;;001106;;;
+001049;skos:Concept;SAINT-DENIS, Abbaye;;;;;001048;;;
+001050;skos:Concept;SAINT-DIÉ;;;;;001279;;;
+001051;skos:Concept;SAINT-DOMINGUE;;;;;000527;;;
+001052;skos:Concept;SAINTES;;;;;000247;;;
+001053;skos:Concept;SAINT-ÉTIENNE;;;;;000549;;;
+001054;skos:Concept;SAINT-FLOUR;;;;;000214;;;
+001055;skos:Concept;SAINT-GERMAIN-EN-LAYE;;;;;001285;;;
+001056;skos:Concept;SAINT-GERMAIN-EN-LAYE, Château;;;;;001055;;;
+001057;skos:Concept;SAINT-GERMAIN-EN-LAYE, Château, théâtre;;;;;001055;;;
+001058;skos:Concept;SAINT-JEAN-D’ANGÉLY;;;;;000247;;;
+001059;skos:Concept;SAINT-JEAN-DE-LUZ;;;;;000957;;;
+001060;skos:Concept;SAINT-JEAN-DE-LUZ, Église Saint-Jean-Baptiste;;;;;001059;;;
+001061;skos:Concept;SAINT-LIZIER;;;;;000064;;;
+001062;skos:Concept;SAINT-MAIXENT;;;;;001093;;;
+001063;skos:Concept;SAINT-MALO;;;;;000459;;;
+001064;skos:Concept;SAINT-MALO, Cathédrale Saint-Vincent;;;;;001063;;;
+001065;skos:Concept;SAINT-MAXIMIN-LA-SAINTE-BAUME;;;;;001231;;;
+001066;skos:Concept;SAINT-MICHEL-EN-THIÉRACHE;;;;;000013;;;
+001067;skos:Concept;SAINT-MICHEL-EN-THIÉRACHE, Église;;;;;001066;;;
+001068;skos:Concept;SAINT-MIHIEL;;;;;000645;;;
+001069;skos:Concept;SAINT-MIHIEL, Abbaye;;;;;001068;;;
+001070;skos:Concept;SAINT-NAZAIRE-D’AUDE;;;;;000081;;;
+001071;skos:Concept;SAINT-NICOLAS-DE-PORT;;;;;000644;;;
+001072;skos:Concept;SAINT-NICOLAS-LÈS-CÎTEAUX;;;;;000297;;;
+001073;skos:Concept;SAINT-NICOLAS-LÈS-CÎTEAUX, Abbaye de Cîteaux;;;;;001072;;;
+001074;skos:Concept;SAINT-OMER;;;;;000914;;;
+001075;skos:Concept;SAINT-OMER, Cathédrale Notre-Dame;;;;;001074;;;
+001076;skos:Concept;SAINT-PAPOUL;;;;;000081;;;
+001077;skos:Concept;SAINT-PÉTERSBOURG;;;;;001025;;;
+001078;skos:Concept;SAINT-POL-DE-LÉON;;;;;000393;;;
+001079;skos:Concept;SAINT-POL-DE-LÉON, Cathédrale;;;;;001078;;;
+001080;skos:Concept;SAINT-QUENTIN;;;;;000013;;;
+001081;skos:Concept;SAINT-QUENTIN, Collégiale;;;;;001080;;;
+001082;skos:Concept;SAINT-RIQUIER;;;;;001134;;;
+001083;skos:Concept;SAINT-SEINE-L’ABBAYE;;;;;000297;;;
+001084;skos:Concept;SAINT-SEINE-L’ABBAYE, Église;;;;;001083;;;
+001085;skos:Concept;SAINT-VALERY-SUR-SOMME;;;;;001134;;;
+001086;skos:Concept;SAINT-VALERY-SUR-SOMME, Église Saint-Martin;;;;;001085;;;
+001087;skos:Concept;SALINS-LES-BAINS;;;;;000477;;;
+001088;skos:Concept;SALINS-LES-BAINS, Collégiale Saint-Anatoile;;;;;001087;;;
+001089;skos:Concept;SALON-DE-PROVENCE;;;;;000158;;;
+001090;skos:Concept;SAÔNE-ET-LOIRE;;;;;000166;;;
+001091;skos:Concept;SARRANCE-EN-ASPE;;;;;000957;;;
+001092;skos:Concept;SARRANCE-EN-ASPE, Église Notre-Dame;;;;;001091;;;
+001093;skos:Concept;SARTHE;;;;;000918;;;PMB23207
+001094;skos:Concept;SAUMUR;;;;;000596;;;
+001095;skos:Concept;SAVERNE;;;;;000108;;;
+001096;skos:Concept;SAVERNE, Château;;;;;001095;;;
+001097;skos:Concept;SAVOIE;;;;;;;;PMB3417
+001098;skos:Concept;SAVOIE département;;;;;000985;;;
+001099;skos:Concept;SAVOIE région;;;Région historique correspondant aux départements actuels de la Savoie et de la Haute-Savoie;;000490;;;
+001100;skos:Concept;SCEAUX;;;;;000449;;;PMB3418
+001101;skos:Concept;SEDAN;;;;;000062;;;
+001102;skos:Concept;SEDAN, Théâtre de l’Ancienne Boucherie;;;;;001101;;;
+001103;skos:Concept;SEINE [département];;;;;;;;PMB22632
+001104;skos:Concept;SEINE-ET-MARNE;;;;;000458;;;
+001105;skos:Concept;SEINE-MARITIME;;;;;000442;;;
+001106;skos:Concept;SEINE-SAINT-DENIS;;;;;000458;;;
+001107;skos:Concept;SÉLESTAT;;;;;000108;;;
+001108;skos:Concept;SEMUR-EN-AUXOIS;;;;;000297;;;
+001109;skos:Concept;SEMUR-EN-AUXOIS, Collégiale Notre-Dame;;;;;001108;;;
+001110;skos:Concept;SENLIS;;;;;000757;;;
+001111;skos:Concept;SENLIS, Cathédrale Notre-Dame;;;;;001110;;;
+001112;skos:Concept;SENS;;;;;001283;;;
+001113;skos:Concept;SENS, Cathédrale Saint-Étienne;;;;;001112;;;
+001114;skos:Concept;SÈTE;;;;;000450;;;PMB3419
+001115;skos:Concept;SEURRE;;;;;000297;;;
+001116;skos:Concept;SEURRE, Église Saint-Martin;;;;;001115;;;
+001117;skos:Concept;SÉVILLE;;;;;000373;;;PMB22494
+001118;skos:Concept;SÈVRES;;;;;000449;;;
+001119;skos:Concept;SICILE;;;;;;;;PMB3420
+001120;skos:Concept;SIENE;;;;;;;;PMB3421
+001121;skos:Concept;SIENNE;;;;;;;;PMB22563
+001122;skos:Concept;SILLY-EN-GOUFFERN;;;;;000766;;;
+001123;skos:Concept;SILLY-EN-GOUFFERN, Abbaye;;;;;001122;;;
+001124;skos:Concept;SIZUN;;;;;000393;;;
+001125;skos:Concept;SIZUN, Église Saint-Julian;;;;;001124;;;
+001126;skos:Concept;SLOVAQUIE;;;;;000527;;;PMB3422
+001127;skos:Concept;SLOVENIE;;;;;000527;;;PMB3423
+001128;skos:Concept;Société libre d’Émulation;;;;;000528;;;
+001129;skos:Concept;Société lyrique des Enfants du Caveau Enfants du Caveau;;;;;000528;;;
+001130;skos:Concept;SOIGNIES;;;;;000128;;;
+001131;skos:Concept;SOIGNIES, Collégiale Saint-Vincent;;;;;001130;;;
+001132;skos:Concept;SOISSONS;;;;;000013;;;PMB3424
+001133;skos:Concept;SOISSONS, Salle de spectacle;;;;;001132;;;
+001134;skos:Concept;SOMME;;;;;000932;;;
+001135;skos:Concept;SOSPEL;;;;;000029;;;PMB3425
+001136;skos:Concept;SOSPEL, Orgue;;;;;001135;;;PMB3426
+001137;skos:Concept;SOUVIGNY-EN-BOURBONNAIS;;;;;000027;;;
+001138;skos:Concept;STOCKHOLM;;;;;001146;;;PMB3427
+001139;skos:Concept;STRASBOURG;;;;;000108;;;PMB3428
+001140;skos:Concept;STRASBOURG, Cathédrale Notre-Dame;;;;;001139;;;
+001141;skos:Concept;STRASBOURG, Église Saint-Thomas;;;;;001139;;;
+001142;skos:Concept;STRASBOURG, Temple Neuf;;;;;001139;;;PMB3429
+001143;skos:Concept;STRASBOURG, Temple-neuf;;;;;001139;;;
+001144;skos:Concept;STUTTGART;;;;;000026;;;
+001145;skos:Concept;SUCRE;;;;;000144;;;PMB3430
+001146;skos:Concept;SUÈDE;;;;;000527;;;PMB3431
+001147;skos:Concept;SUISSE;;;;;000527;;;PMB3432
+001148;skos:Concept;Sulpiciens;;;;;000528;;;
+001149;skos:Concept;SURESNES;;;;;000449;;;
+001150;skos:Concept;TARBES;;;;;000446;;;
+001151;skos:Concept;TARN;;;;;000647;;;PMB3433
+001152;skos:Concept;TARN-ET-GARONNE;;;;;000647;;;PMB3434
+001153;skos:Concept;TCHÉCOSLOVAQUIE;;;Ancien État souverain d'Europe centrale.;;;;;PMB3435
+001154;skos:Concept;TENBURY;;;;;000045;;;
+001155;skos:Concept;THAÏLANDE;;;;;000527;;;PMB23359
+001156;skos:Concept;THAUMIERS;;;;;000263;;;
+001157;skos:Concept;Théâtre de la duchesse du Maine;;;;;000528;;;PMB3437
+001158;skos:Concept;Théâtre de la Foire;;;;;000528;;;
+001159;skos:Concept;Théâtre de Madame de Pompadour;;;;;000528;;;PMB3438
+001160;skos:Concept;Théâtre de Monsieur;;;;;000528;;;
+001161;skos:Concept;Théâtre des Petits cabinets;;;;;000528;;;PMB3439
+001162;skos:Concept;Théâtre des Petits-Comédiens;;;;;000528;;;
+001163;skos:Concept;Théâtre Italien;;;;;000528;;;
+001164;skos:Concept;THUIR;;;;;000958;;;
+001165;skos:Concept;TIVOLI;;;;;;;;PMB3440
+001166;skos:Concept;TOLÈDE;;;;;000373;;;PMB3441
+001167;skos:Concept;TOUL;;;;;000644;;;PMB3444
+001168;skos:Concept;TOUL, Cathédrale Saint-Étienne;;;;;001167;;;
+001169;skos:Concept;TOUL, Diocèse;;;;;001167;;;
+001170;skos:Concept;TOULON;;;;;001231;;;PMB3445
+001171;skos:Concept;TOULON, Théâtre;;;;;001170;;;
+001172;skos:Concept;TOULOUSE;;;;;000439;;;PMB3446
+001173;skos:Concept;TOULOUSE, Académie royale des sciences;;;;;001172;;;
+001174;skos:Concept;TOULOUSE, Basilique Saint-Sernin;;;;;001172;;;
+001175;skos:Concept;TOULOUSE, Bibliothèque municipale;;;;;001172;;;PMB3447
+001176;skos:Concept;TOULOUSE, Bibliothèque universitaire;;;;;001172;;;PMB3448
+001177;skos:Concept;TOULOUSE, Cathédrale Saint-Étienne;;;;;001172;;;PMB3449
+001178;skos:Concept;TOULOUSE, Conservatoire nationale de région;;;;;001172;;;PMB3450
+001179;skos:Concept;TOULOUSE, Église des Augustins;;;;;001172;;;
+001180;skos:Concept;TOULOUSE, Église des Jacobins;;;;;001172;;;
+001181;skos:Concept;TOULOUSE, Musée Paul Dupuy;;;;;001172;;;PMB3451
+001182;skos:Concept;TOULOUSE, Théâtre du Capitole;;;;;001172;;;
+001183;skos:Concept;TOURNAI;;;;;000128;;;
+001184;skos:Concept;TOURNAI, Cathédrale;;;;;001183;;;
+001185;skos:Concept;TOURNON-SUR-RHÔNE;;;;;000061;;;
+001186;skos:Concept;TOURNON-SUR-RHÔNE, Collège des jésuites;TOURNON, Collège des jésuites;;;;001185;;;
+001187;skos:Concept;TOURS;;;;;000463;;;
+001188;skos:Concept;TOURS, Basilique Saint-Martin;;;;;001187;;;
+001189;skos:Concept;TOURS, Cathédrale Saint-Gatien;;;;;001187;;;
+001190;skos:Concept;TRAPPES;;;;;001285;;;PMB24534
+001191;skos:Concept;TRÉGUIER;;;;;000298;;;
+001192;skos:Concept;TRENTE;;;;;000469;;;PMB3452
+001193;skos:Concept;TRENTE, Castello del Buonconsiglio;;;;;001192;;;PMB3453
+001194;skos:Concept;TRIE-CHÂTEAU TRYE-CHÂTEAU;;;;;000757;;;
+001195;skos:Concept;Troupe de Madame de Pompadour;;;;;000528;;;
+001196;skos:Concept;Troupe de Monsieur;;;;;000528;;;
+001197;skos:Concept;Troupe du maréchal de Saxe;;;;;000528;;;
+001198;skos:Concept;Troupe du Roi;;;;;000528;;;
+001199;skos:Concept;Troupe Royale;;;;;000528;;;
+001200;skos:Concept;TROYES;;;;;000074;;;PMB3454
+001201;skos:Concept;TROYES, Académie de musique;;;;;001200;;;
+001202;skos:Concept;TROYES, Cathédrale Saint-Pierre et Saint-Paul;;;;;001200;;;
+001203;skos:Concept;TROYES, Collégiale Saint-Étienne;;;;;001200;;;
+001204;skos:Concept;TROYES, Collégiale Saint-Urbain;;;;;001200;;;
+001205;skos:Concept;TROYES, Diocèse;;;;;001200;;;
+001206;skos:Concept;TROYES, Théâtre de la porte Madeleine;;;;;001200;;;
+001207;skos:Concept;TUBIZE;;;;;000128;;;
+001208;skos:Concept;TURIN;;;;;000469;;;"PMB3455;PMB3442"
+001209;skos:Concept;TURIN, Bibliothèque ducale;;;;;001208;;;
+001210;skos:Concept;TURIN, Bibliothèque universitaire nationale;;;;;001208;;;PMB3456
+001211;skos:Concept;TURIN, Chapelle de la cour;;;;;001208;;;
+001212;skos:Concept;TURIN, Chapelle des Innocents du Dôme;;;;;001208;;;
+001213;skos:Concept;TURIN, Chapelle Musicale;;;;;001208;;;PMB3443
+001214;skos:Concept;TURIN, Collège des Innocents;;;;;001208;;;
+001215;skos:Concept;TURIN, L’Unione Musicale;;;;;001208;;;PMB3457
+001216;skos:Concept;TURQUIE;;;;;000527;;;PMB3458
+001217;skos:Concept;Union chrétienne des dames de Saint-Chaumont;;;;;000528;;;
+001218;skos:Concept;UPPSALA;;;;;001146;;;PMB3460
+001219;skos:Concept;Ursulines;;;;;000528;;;
+001220;skos:Concept;UZÈS;;;;;000408;;;
+001221;skos:Concept;VAL-D’OISE;;;;;000458;;;PMB22552
+001222;skos:Concept;VAL-DE-MARNE;;;;;000458;;;
+001223;skos:Concept;VALENCE;;;;;000356;;;
+001224;skos:Concept;VALENCE-EN-BRIE;;;;;001104;;;
+001225;skos:Concept;VALENCIENNES;;;;;000739;;;PMB3461
+001226;skos:Concept;VALENCIENNES, Théâtre de la halle Saint-Georges;;;;;001225;;;
+001227;skos:Concept;VANNES;;;;;000683;;;PMB3462
+001228;skos:Concept;VANNES, Cathédrale Saint-Pierre;;;;;001227;;;
+001229;skos:Concept;VANNES, Maîtrise de la cathédrale;;;;;001227;;;PMB3463
+001230;skos:Concept;VANVES;;;;;000449;;;
+001231;skos:Concept;VAR;;;;;000952;;;
+001232;skos:Concept;VATICAN;;;;;000527;;;PMB3464
+001233;skos:Concept;VATICAN, Bibliothèque;ROME, Bibliothèque du Vatican;;;;001232;;;"PMB3465;PMB3388"
+001234;skos:Concept;VAUCLUSE;;;;;000952;;;
+001235;skos:Concept;VENDÉE;;;;;000918;;;
+001236;skos:Concept;VENDÔME;;;;;000552;;;
+001237;skos:Concept;VENISE;;;;;000469;;;PMB3466
+001238;skos:Concept;VENISE, Bibliothèque nationale Marciana;;;;;001237;;;PMB3467
+001239;skos:Concept;VENISE, San Marco;;;;;001237;;;PMB3468
+001240;skos:Concept;VERDUN;;;;;000645;;;PMB3469
+001241;skos:Concept;VERDUN, Cathédrale;;;;;001240;;;PMB3470
+001242;skos:Concept;VERNEUIL-SUR-AVRE;;;;;000379;;;
+001243;skos:Concept;VERNEUIL-SUR-AVRE, Église Sainte-Madeleine;;;;;001242;;;
+001244;skos:Concept;VÉRONE;;;;;000469;;;PMB3471
+001245;skos:Concept;VERSAILLES;;;;;001285;;;PMB3472
+001246;skos:Concept;VERSAILLES, Bibliothèque municipale;;;;;001245;;;PMB3473
+001247;skos:Concept;VERSAILLES, Cathédrale Saint-Louis;;;;;001245;;;
+001248;skos:Concept;VERSAILLES, Centre de Musique Baroque;;;;;001245;;;PMB3474
+001249;skos:Concept;VERSAILLES, Château;;;;;001245;;;PMB3476
+001250;skos:Concept;VERSAILLES, Château, Chapelle Royale;;;;;001249;;;PMB3475
+001251;skos:Concept;VERSAILLES, Château, grand théâtre de Gabriel;;;;;001249;;;
+001252;skos:Concept;VERSAILLES, Château, jardins;;;;;001249;;;
+001253;skos:Concept;VERSAILLES, Château, Opéra royal;;;;;001249;;;PMB3478
+001254;skos:Concept;VERSAILLES, Château, théâtre de la Comédie;;;;;001249;;;
+001255;skos:Concept;VERSAILLES, Château, Trianon;;;;;001249;;;
+001256;skos:Concept;VERSAILLES, Château, Trianon, salle de comédie;;;;;001255;;;
+001257;skos:Concept;VERSAILLES, Concerts historiques de Mme Bécheau la Fonta;;;;;001245;;;PMB24513
+001258;skos:Concept;VERSAILLES, Église Notre-Dame;;;;;001245;;;
+001259;skos:Concept;VERSAILLES, Grande Écurie;;;;;001245;;;PMB3477
+001260;skos:Concept;VERSAILLES, Maison des Italiens;;;;;001245;;;
+001261;skos:Concept;VERSAILLES, Menus Plaisirs;;;;;001245;;;PMB22603
+001262;skos:Concept;VERSAILLES, Théâtre de la Reine;;;;;001245;;;PMB24555
+001263;skos:Concept;VERSAILLES, Théâtre Montansier;;;;;001245;;;
+001264;skos:Concept;VÉZELISE;;;;;000644;;;
+001265;skos:Concept;VICHY;;;;;000027;;;PMB3479
+001266;skos:Concept;VIENNE;;;;;000084;;;"PMB3480;PMB3482"
+001267;skos:Concept;VIENNE département;;;;;000940;;;
+001268;skos:Concept;VIENNE, Salle de la Comédie;;;;;001266;;;
+001269;skos:Concept;VIENNE, Théâtre français;;;;;001266;;;
+001270;skos:Concept;VILLEFRANCHE-DE-ROUERGUE;;;;;000090;;;
+001271;skos:Concept;VILLENEUVE-SAINT-GEORGES;;;;;001222;;;PMB3481
+001272;skos:Concept;VILLENEUVE-SUR-YONNE;;;;;001283;;;PMB24515
+001273;skos:Concept;VILLERS-COTTERÊTS;;;;;000013;;;
+001274;skos:Concept;VILLERS-LES-NANCY;;;;;000644;;;
+001275;skos:Concept;VILLE-SOUS-LA-FERTÉ;;;;;000074;;;
+001276;skos:Concept;VILLE-SOUS-LA-FERTÉ, Abbaye de Clairvaux;;;;;001275;;;
+001277;skos:Concept;Violons du roi;;;;;000528;;;
+001278;skos:Concept;VITRÉ;;;;;000459;;;
+001279;skos:Concept;VOSGES;;;;;000563;;;
+001280;skos:Concept;WALLONIE;;;;;000128;;;
+001281;skos:Concept;WILLIAMSBURG;;;;;000378;;;PMB3483
+001282;skos:Concept;WILLIAMSBURG, J.D. Rockefeller, JR Library;;;;;001281;;;PMB3484
+001283;skos:Concept;YONNE;;;;;000166;;;
+001284;skos:Concept;YOUGOSLAVIE;;;;;000527;;;PMB3485
+001285;skos:Concept;YVELINES;;;;;000458;;;PMB3486
+001286;skos:Concept;YVELINES, Archives départementales;;;;;001285;;;PMB23013
+001287;skos:Concept;ZWEIBRÜCKEN DEUX-PONTS;;;;;000026;;;

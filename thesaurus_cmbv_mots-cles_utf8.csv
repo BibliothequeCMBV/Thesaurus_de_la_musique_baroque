@@ -1,0 +1,2538 @@
+URI;rdf:type;skos:prefLabel;skos:altLabel;skos:hiddenLabel;skos:definition;skos:narrower;skos:broader;skos:scopeNote;skos:changeNote
+000001;skos:Concept;~termes non classés;;;;;;;PMB6
+000002;skos:Concept;a cappella;;;;;;;PMB23598
+000003;skos:Concept;abbaye;;;;;;;
+000004;skos:Concept;abonnement de musique;;;;;;;
+000005;skos:Concept;abrégé;;;;;;;
+000006;skos:Concept;Absoute;;;;;001276;;EP346687
+000007;skos:Concept;acacciatura;;;;;;;EP345645
+000008;skos:Concept;académie;Institut;;;;;;"EP345646;PMB1100"
+000009;skos:Concept;académie de danse;;;;;000008;;EP345647
+000010;skos:Concept;académie de musique;;;;;000008;;"EP345648;PMB1101"
+000011;skos:Concept;académie de peinture;;;;;;;
+000012;skos:Concept;académie de poésie;;;;;000008;;EP345649
+000013;skos:Concept;académie provinciale;;;;;000008;;EP345650
+000014;skos:Concept;académie scientifique;;;;;000008;;EP345651
+000015;skos:Concept;accent;;;;;000048;;EP345721
+000016;skos:Concept;accent psalmodique;;;;;;;
+000017;skos:Concept;accentuation;;;;;;;EP345652
+000018;skos:Concept;accident;;;;;;;
+000019;skos:Concept;accompagnateur;;;;;001476;;EP346426
+000020;skos:Concept;accompagnement;;;;;;;"EP345654;PMB1102"
+000021;skos:Concept;accompagnement instrumental;;;;;;;EP345661
+000022;skos:Concept;accord;;;;;001050;;"EP346029;PMB1104"
+000023;skos:Concept;accord d'instrument;;;;;;;EP345662
+000024;skos:Concept;accordeur;;;;;;;
+000025;skos:Concept;acoustique;;;;;;;"EP345663;PMB1106"
+000026;skos:Concept;acoustique des cordes;;;;;000025;;EP345664
+000027;skos:Concept;acoustique d'un lieu;;;;;000025;;EP345682
+000028;skos:Concept;acte;;;;;;;EP345685
+000029;skos:Concept;acte de décès;;;;;;;
+000030;skos:Concept;acte de l'état civil;;;;;000729;;EP345986
+000031;skos:Concept;acte de mariage;;;;;000030;;EP345987
+000032;skos:Concept;acte de naissance;;;;;;;
+000033;skos:Concept;acte de vente;;;;;;;
+000034;skos:Concept;acte notarié;;;;;000729;;EP345989
+000035;skos:Concept;acteur;comédien##comédienne##tragédien##tragédienne;;;;;;"EP345686;PMB1109"
+000036;skos:Concept;actio;;;;;;;
+000037;skos:Concept;action dramatique;;;;;;;EP345694
+000038;skos:Concept;activité musicale;;;;;;;EP345703
+000039;skos:Concept;actrice;;;;;000035;;"EP345687;PMB1110"
+000040;skos:Concept;adaptation d'oeuvre musicale;;;;;;;EP345704
+000041;skos:Concept;administration d'une institution;;;;;002480;;EP347008
+000042;skos:Concept;adresse;;;;;;;EP345705
+000043;skos:Concept;adresse d'éditeur;;;;;000042;;EP345706
+000044;skos:Concept;affect;;;;;000870;;"EP346082;PMB1111"
+000045;skos:Concept;affiche;;;;;;;EP345707
+000046;skos:Concept;agnus;;;;;;;
+000047;skos:Concept;agogique;;;;;;;EP345708
+000048;skos:Concept;agrément;;;;;;;"EP345720;PMB1112"
+000049;skos:Concept;air;;;;;001544;;"EP346603;PMB1113"
+000050;skos:Concept;air à boire;;;;;000049;;"EP346604;PMB1114"
+000051;skos:Concept;air à chanter;;;;;;;
+000052;skos:Concept;air à danser;;;;;;;"EP345735;PMB1116"
+000053;skos:Concept;air à manger;;;;;;;PMB1117
+000054;skos:Concept;air bachique;;;;;;;
+000055;skos:Concept;air de ballet;;;;;000981;;EP346517
+000056;skos:Concept;air de comédie;;;;;000981;;EP346518
+000057;skos:Concept;air de concert;;;;;;;PMB1119
+000058;skos:Concept;air de cour;;;;;000049;;"EP346605;PMB1120"
+000059;skos:Concept;air de danse;;;;;;;
+000060;skos:Concept;air de dévotion;;;;;;;
+000061;skos:Concept;air de pantomime;;;;;;;
+000062;skos:Concept;air d'opéra;;;;;;;PMB1118
+000063;skos:Concept;air espagnol;;;;;000049;;"EP346606;PMB1123"
+000064;skos:Concept;air instrumental;;;;;001533;;"EP346565;PMB1124"
+000065;skos:Concept;air italien;;;;;000049;;"EP346607;PMB1125"
+000066;skos:Concept;air napolitain;;;;;;;PMB1126
+000067;skos:Concept;air patriotique;;;;;;;
+000068;skos:Concept;air populaire;;;;;;;PMB23126
+000069;skos:Concept;air sérieux;;;;;000049;;"EP346608;PMB1127"
+000070;skos:Concept;air spirituel;;;;;000049;;"EP346609;PMB1128"
+000071;skos:Concept;air tendre;;;;;;;
+000072;skos:Concept;air turc;;;;;;;PMB1130
+000073;skos:Concept;air vocal;;;;;;;EP345762
+000074;skos:Concept;allégorie;;;;;001830;;EP346771
+000075;skos:Concept;allemande;;;;;000052;;"EP345736;PMB1133"
+000076;skos:Concept;almanach;;;;;;;"EP345763;PMB22894"
+000077;skos:Concept;almanach musical;;;;;;;PMB1134
+000078;skos:Concept;almanach royal;;;;;000076;;EP345764
+000079;skos:Concept;altération;;;;;;;
+000080;skos:Concept;altération accidentelle;;;;;;;
+000081;skos:Concept;altiste;;;;;;;
+000082;skos:Concept;alto;;;;;;;PMB1135
+000083;skos:Concept;alto voix;;;;;000413;;EP346430
+000084;skos:Concept;ambitus;;;;;;;
+000085;skos:Concept;âme d'instrument à archet;;;;;;;
+000086;skos:Concept;amphigouri;;;;;;;
+000087;skos:Concept;amplitude d'un son;;;;;;;
+000088;skos:Concept;ana;;;;;;;
+000089;skos:Concept;anapeste;;;;;;;
+000090;skos:Concept;anche;;;;;000890;;EP346109
+000091;skos:Concept;anche à pirouette;;;;;;;
+000092;skos:Concept;anche double;;;;;;;
+000093;skos:Concept;anche faible;;;;;;;
+000094;skos:Concept;anche forte;;;;;;;
+000095;skos:Concept;anche libre;;;;;;;
+000096;skos:Concept;anche lippale;;;;;;;
+000097;skos:Concept;anche simple;;;;;;;
+000098;skos:Concept;André;;;;;;;
+000099;skos:Concept;angelique;;;;;;;
+000100;skos:Concept;Angelus;;;;;;;
+000101;skos:Concept;Anges gardiens;;;;;;;
+000102;skos:Concept;anglaise;;;;;;;
+000103;skos:Concept;Anne;;;;;;;
+000104;skos:Concept;Annonciation;;;;;;;
+000105;skos:Concept;annonciation de la Vierge Marie;;;;;;;PMB1137
+000106;skos:Concept;anse de cloche;;;;;;;
+000107;skos:Concept;anthem;;;;;;;PMB1138
+000108;skos:Concept;anthologie;;;;;001975;;EP346819
+000109;skos:Concept;antienne;;;;;;;"EP345768;PMB1139"
+000110;skos:Concept;antienne à la Vierge Marie;;;;;;Salve Regina, Alma Redemptoris, Ave Regina, Regina Caeli, Speciosa facta est, Inviolata, Sub tuum.;PMB1140
+000111;skos:Concept;antienne à Marie;;;;;000109;;EP345769
+000112;skos:Concept;antienne au Saint Sacrement;;;;;;;PMB1141
+000113;skos:Concept;antienne de communion;;;;;;;
+000114;skos:Concept;antienne d'offertoire;;;;;;;
+000115;skos:Concept;antiphonaire;;;;;001283;;EP346361
+000116;skos:Concept;Antoine de Padoue;;;;;;;
+000117;skos:Concept;apôtre;;;;;;Isti sunt qui viventes;PMB1142
+000118;skos:Concept;Apôtres;;;;;;;
+000119;skos:Concept;appoggiature;;;;;000048;;EP345722
+000120;skos:Concept;apprentissage;;;;;000789;;EP346045
+000121;skos:Concept;archet;;;;;000888;;"EP346097;PMB1143"
+000122;skos:Concept;archetier;;;;;000883;;EP346089
+000123;skos:Concept;archiluth;;;;;;;
+000124;skos:Concept;architecte;;;;;;;EP345770
+000125;skos:Concept;architecture;;;;;000244;;"EP345801;PMB1144"
+000126;skos:Concept;architecture de théâtre;;;;;000691;;EP345935
+000127;skos:Concept;archives;;;;;;;"EP345771;PMB23320"
+000128;skos:Concept;argent;;;;;;;
+000129;skos:Concept;argument;;;;;;;
+000130;skos:Concept;aria;;;;;000049;;"EP346610;PMB1145"
+000131;skos:Concept;ariette;;;;;000049;;"EP346611;PMB1146"
+000132;skos:Concept;ariette instrumentale;;;;;;;PMB1147
+000133;skos:Concept;arithmétique;;;;;;;
+000134;skos:Concept;Arlequin;;;;;;;PMB1148
+000135;skos:Concept;armoirie;;;;;;;PMB1149
+000136;skos:Concept;armoiries;;;;;;;EP345773
+000137;skos:Concept;armomes;;;;;;;
+000138;skos:Concept;arpège;;;;;;;
+000139;skos:Concept;arpègement;;;;;000048;;EP345723
+000140;skos:Concept;arpeggione;;;;;;;PMB23293
+000141;skos:Concept;arrangement;;;;;;;EP345774
+000142;skos:Concept;arrangeur;;;;;001476;;EP346427
+000143;skos:Concept;ars antiqua;;;;;;;PMB1150
+000144;skos:Concept;ars nova;;;;;;;PMB1151
+000145;skos:Concept;art baroque;;;;;;;PMB1152
+000146;skos:Concept;art de cour;;;;;;;PMB23035
+000147;skos:Concept;art de la table;;;;;;;PMB23034
+000148;skos:Concept;art décoratif;;;;;;;PMB1153
+000149;skos:Concept;art du spectacle;;;;;;;PMB1154
+000150;skos:Concept;art du théâtre;;;;;;;PMB1155
+000151;skos:Concept;art équestre;;;;;;;PMB1156
+000152;skos:Concept;art musical;;;;;;;PMB23481
+000153;skos:Concept;art théâtral;;;;;;;PMB1157
+000154;skos:Concept;art vocal;;;;;;;PMB1158
+000155;skos:Concept;article de périodique;;;;;;;PMB1159
+000156;skos:Concept;articulation;;;;;;;
+000157;skos:Concept;articulation musicale;;;;;;;EP345776
+000158;skos:Concept;arts graphiques;;;;;;;
+000159;skos:Concept;ascension;;;;;;;PMB1160
+000160;skos:Concept;Aspersion;;;;;;;
+000161;skos:Concept;aspiration;;;;;;;
+000162;skos:Concept;Association;;;;;;;
+000163;skos:Concept;association de concerts;;;;;;;
+000164;skos:Concept;association de joueurs d'instruments;;;;;000165;;EP345779
+000165;skos:Concept;association de musiciens;;;;;;;EP345778
+000166;skos:Concept;assomption;;;;;;;PMB1161
+000167;skos:Concept;atelier;;;;;;;EP488885
+000168;skos:Concept;atelier de copistes;;;;;000167;;EP345781
+000169;skos:Concept;atelier de facteurs;;;;;;;
+000170;skos:Concept;atelier de luthiers;;;;;;;
+000171;skos:Concept;atelier d'imprimeurs;;;;;000167;;EP345782
+000172;skos:Concept;atlas;;;;;;;PMB23430
+000173;skos:Concept;au sérieux;;;;;;;
+000174;skos:Concept;aubade;;;;;;;
+000175;skos:Concept;Augustin;;;;;;;
+000176;skos:Concept;auteur;;;;;;;EP345783
+000177;skos:Concept;autobiographie;;;;;;;EP345786
+000178;skos:Concept;autographe;;;;;;;PMB23358
+000179;skos:Concept;automate;;;;;;;PMB23354
+000180;skos:Concept;Automne Musical;;;;;;;PMB24542
+000181;skos:Concept;avant-propos;;;;;;;
+000182;skos:Concept;ave Maria;;;;;;;
+000183;skos:Concept;avent;;;;;;;PMB1163
+000184;skos:Concept;Avent, dimanche I;;;;;;;
+000185;skos:Concept;Avent, dimanche II;;;;;;;
+000186;skos:Concept;Avent, dimanche III;;;;;;;
+000187;skos:Concept;Avent, dimanche IV;;;;;;;
+000188;skos:Concept;avertissement;;;;;;;
+000189;skos:Concept;babiole;;;;;;;PMB1164
+000190;skos:Concept;bacchanale;;;;;;;PMB1165
+000191;skos:Concept;bal;;;;;;;"EP345789;PMB1166"
+000192;skos:Concept;bal masqué;;;;;000191;;EP345790
+000193;skos:Concept;baladin;;;;;;;
+000194;skos:Concept;balancement;;;;;;;
+000195;skos:Concept;ballade;;;;;;;PMB1167
+000196;skos:Concept;ballade poétique;;;;;;;
+000197;skos:Concept;ballet;;;;;001615;;"EP346529;PMB1168"
+000198;skos:Concept;ballet à entrées;;;;;;;
+000199;skos:Concept;ballet bouffon;;;;;;;PMB1171
+000200;skos:Concept;ballet comique;;;;;;;PMB1172
+000201;skos:Concept;ballet d'action;;;;;;;PMB24536
+000202;skos:Concept;ballet de collège;;;;;;;
+000203;skos:Concept;ballet de cour;;;;;001615;;"EP346531;PMB1173"
+000204;skos:Concept;ballet en musique;;;;;;;PMB23602
+000205;skos:Concept;ballet héroïque;;;;;;;PMB1174
+000206;skos:Concept;ballet tragique;;;;;;;
+000207;skos:Concept;ballet-mascarade;;;;;;;EP345795
+000208;skos:Concept;ballet-opéra;;;;;;;EP345796
+000209;skos:Concept;ballet-pantomime;;;;;001627;;"EP346543;PMB24535"
+000210;skos:Concept;banquet;;;;;;;
+000211;skos:Concept;baptême;;;;;001275;;EP346684
+000212;skos:Concept;Barbe;;;;;;;
+000213;skos:Concept;barcarolle;;;;;;;
+000214;skos:Concept;Barnabé;;;;;;;
+000215;skos:Concept;barrage;;;;;;;
+000216;skos:Concept;barre de mesure;;;;;;;
+000217;skos:Concept;Barthélemy;;;;;;;
+000218;skos:Concept;baryton;;;;;;;
+000219;skos:Concept;baryton instrumental;;;;;;;EP345797
+000220;skos:Concept;bas dessus voix;;;;;;;
+000221;skos:Concept;basilique;;;;;;;
+000222;skos:Concept;basse chiffrée;;;;;000223;;EP345656
+000223;skos:Concept;basse continue;;;;;000020;;"EP345655;PMB1176"
+000224;skos:Concept;basse contrainte;;;;;;;
+000225;skos:Concept;basse d'Alberti;;;;;;;
+000226;skos:Concept;basse de clavecin;;;;;;;
+000227;skos:Concept;basse de viole d'amour;;;;;;;PMB23298
+000228;skos:Concept;basse de violon;;;;;;;PMB24514
+000229;skos:Concept;basse fondamentale;;;;;001050;;EP346030
+000230;skos:Concept;basse instrumentale;;;;;001149;;EP346236
+000231;skos:Concept;basse obligée;;;;;000020;;EP345658
+000232;skos:Concept;basse obstinée;;;;;000020;;EP345799
+000233;skos:Concept;basse taille instrumentale;;;;;;;EP347073
+000234;skos:Concept;basse taille voix;;;;;000413;;EP346439
+000235;skos:Concept;basse voix;;;;;;;
+000236;skos:Concept;basson;;;;;;;PMB1178
+000237;skos:Concept;bassoniste;;;;;001152;;EP346442
+000238;skos:Concept;battant de cloche;;;;;;;
+000239;skos:Concept;battement;;;;;;;
+000240;skos:Concept;batterie de tambour;;;;;000776;;EP346018
+000241;skos:Concept;batterie instrumentale;;;;;000048;;EP345724
+000242;skos:Concept;batterie vocale;;;;;;;
+000243;skos:Concept;batteur de mesure;;;;;001476;;EP346428
+000244;skos:Concept;beaux-arts;;;;;;;EP345800
+000245;skos:Concept;bec;;;;;;;
+000246;skos:Concept;bécarre;;;;;;;EP345805
+000247;skos:Concept;belle danse;;;;;000669;;EP345918
+000248;skos:Concept;bémol;;;;;;;
+000249;skos:Concept;Bénédiction du Saint Sacrement;;;;;;;
+000250;skos:Concept;Benedictus;;;;;;;
+000251;skos:Concept;berceuse;;;;;;;PMB1179
+000252;skos:Concept;Bernard;;;;;;;
+000253;skos:Concept;bible;;;;;001284;;EP346357
+000254;skos:Concept;bibliographie;;;;;;;PMB22880
+000255;skos:Concept;bibliothécaire;;;;;;;EP345807
+000256;skos:Concept;bibliothèque;;;;;;;"EP345808;PMB1181"
+000257;skos:Concept;bibliothèque musicale;;;;;;;
+000258;skos:Concept;bibliothèque privée;;;;;000256;;EP345809
+000259;skos:Concept;biographie;;;;;;;PMB23472
+000260;skos:Concept;biseau;;;;;;;
+000261;skos:Concept;blason;;;;;;;
+000262;skos:Concept;bois;;;;;;;
+000263;skos:Concept;bois de chêne;;;;;;;
+000264;skos:Concept;bois de cyprès;;;;;;;
+000265;skos:Concept;bois de hêtre;;;;;;;
+000266;skos:Concept;bois de peuplier;;;;;;;
+000267;skos:Concept;bois de sapin;;;;;;;
+000268;skos:Concept;bois de tilleul;;;;;;;
+000269;skos:Concept;bois d'ébène;;;;;;;
+000270;skos:Concept;bois d'épicéa;;;;;;;
+000271;skos:Concept;bois d'érable;;;;;;;
+000272;skos:Concept;bois exotique;;;;;;;
+000273;skos:Concept;boiserie;;;;;002153;;EP345804
+000274;skos:Concept;bouffe;;;;;;;
+000275;skos:Concept;bouffon de comédie;;;;;000506;;EP345689
+000276;skos:Concept;bouffonnerie;;;;;;;
+000277;skos:Concept;bouquet;;;;;001815;;EP346745
+000278;skos:Concept;bourdon;;;;;000020;;EP345659
+000279;skos:Concept;bourgeoisie;;;;;002493;;EP347048
+000280;skos:Concept;bourrée;;;;;000052;;EP345737
+000281;skos:Concept;bourrée vocale;;;;;;;
+000282;skos:Concept;boutade;;;;;;;
+000283;skos:Concept;boyau;;;;;;;
+000284;skos:Concept;branle;;;;;000052;;EP345738
+000285;skos:Concept;brève;;;;;;;
+000286;skos:Concept;bréviaire;;;;;001283;;"EP346362;PMB23043"
+000287;skos:Concept;brisé;;;;;000048;;EP345725
+000288;skos:Concept;brocart;;;;;;;EP345816
+000289;skos:Concept;broderie;;;;;;;
+000290;skos:Concept;brunette;;;;;000049;;"EP346612;PMB1183"
+000291;skos:Concept;brunette instrumentale;;;;;;;PMB1184
+000292;skos:Concept;bucolique;;;;;;;
+000293;skos:Concept;budget des spectacles;;;;;;;
+000294;skos:Concept;buffet d'orgue;;;;;;;
+000295;skos:Concept;burlesque;;;;;;;EP345817
+000296;skos:Concept;cabinet de lecture;;;;;;;
+000297;skos:Concept;cachet;;;;;;;
+000298;skos:Concept;cadence harmonique;;;;;;;EP345819
+000299;skos:Concept;cadence improvisée;;;;;;;
+000300;skos:Concept;cadence ornementale;;;;;;;
+000301;skos:Concept;cadenza;;;;;;;
+000302;skos:Concept;caisse de résonance;;;;;;;
+000303;skos:Concept;calligraphie;;;;;;;PMB1185
+000304;skos:Concept;canane;;;;;;;
+000305;skos:Concept;canarie;;;;;000052;;EP345739
+000306;skos:Concept;canon;;;;;000049;;"EP346613;PMB1186"
+000307;skos:Concept;canonisation;;;;;;;EP345821
+000308;skos:Concept;cantate;;;;;001544;;"EP346623;PMB1187"
+000309;skos:Concept;cantate allemande profane;;;;;;;PMB1188
+000310;skos:Concept;cantate allemande sacrée;;;;;;;PMB1189
+000311;skos:Concept;cantate burlesque;;;;;;;PMB23059
+000312;skos:Concept;cantate française;;;;;000308;;"EP346624;PMB1190"
+000313;skos:Concept;cantate italienne;;;;;000308;;"EP346625;PMB1191"
+000314;skos:Concept;cantate pieuse;;;;;;;
+000315;skos:Concept;cantate religieuse;;;;;;;
+000316;skos:Concept;cantate sacrée;;;;;;;
+000317;skos:Concept;cantate scénique;;;;;;;
+000318;skos:Concept;cantate spirituelle;;;;;000308;;"EP346626;PMB1192"
+000319;skos:Concept;cantatille;;;;;000049;;"EP346614;PMB1193"
+000320;skos:Concept;cantatillette;;;;;;;
+000321;skos:Concept;cantatrice;;;;;;;EP345826
+000322;skos:Concept;cantilène;;;;;;;
+000323;skos:Concept;cantique;;;;;;chant ou prière autre qu'un psaume, rédigé dans une forme versifiée, dérivé de la Bible et utilisé dans le culte liturgique de l'Église.;"EP347079;PMB1195"
+000324;skos:Concept;cantique biblique;;;;;;;
+000325;skos:Concept;cantique biblique paraphrasé;;;;;;;
+000326;skos:Concept;Cantique de la Vierge Marie;;;;;;Magnificat;PMB1196
+000327;skos:Concept;cantique de l'ancien testament;;;;;;;
+000328;skos:Concept;cantique de Marie;;;;;;;
+000329;skos:Concept;cantique de Moïse;;;;;;Cantemus Domino Gloriose;PMB1197
+000330;skos:Concept;cantique de Noël;;;;;000334;;EP347081
+000331;skos:Concept;cantique de Siméon;;;;;;Nunc Dimittis;PMB1198
+000332;skos:Concept;cantique de Zacharie;;;;;;Benedictus Dominus Deus Israël;PMB1199
+000333;skos:Concept;cantique des cantiques;;;;;;;"EP345829;PMB1200"
+000334;skos:Concept;cantique en français;;;;;000323;;EP347080
+000335;skos:Concept;cantique en latin;;;;;000323;;EP347085
+000336;skos:Concept;cantique évangélique;;;;;;;
+000337;skos:Concept;cantique spirituel;;;;;;air de dévotion, prière domestique (latin ou français).;"EP345830;PMB1201"
+000338;skos:Concept;cantus firmus;;;;;;;PMB22644
+000339;skos:Concept;canzone alla napolitana;;;;;;;
+000340;skos:Concept;canzone instrumentale;;;;;;;PMB1202
+000341;skos:Concept;canzone vocale;;;;;;;PMB1203
+000342;skos:Concept;canzone/ta;;;;;;;
+000343;skos:Concept;canzonetta;;;;;;;PMB23338
+000344;skos:Concept;canzonette;;;;;;;PMB1204
+000345;skos:Concept;capitule;;;;;;;
+000346;skos:Concept;caprice instrumental;;;;;;;PMB1205
+000347;skos:Concept;caractère de danse;;;;;000438;;EP345920
+000348;skos:Concept;caractère d'imprimerie;;;;;;;
+000349;skos:Concept;carême;;;;;;;PMB1206
+000350;skos:Concept;Carême, dimanche I;;;;;;;
+000351;skos:Concept;Carême, dimanche II;;;;;;;
+000352;skos:Concept;Carême, dimanche III;;;;;;;
+000353;skos:Concept;Carême, dimanche IV;;;;;;;
+000354;skos:Concept;carillon;;;;;;;
+000355;skos:Concept;carillonneur;;;;;001152;;"EP346443;PMB1207"
+000356;skos:Concept;carnaval;;;;;;;
+000357;skos:Concept;carrière musicale;;;;;000963;;EP347055
+000358;skos:Concept;carrousel;;;;;;;"EP345834;PMB1208"
+000359;skos:Concept;carrure;;;;;000972;;EP346149
+000360;skos:Concept;carte;;;;;;;
+000361;skos:Concept;cartel;;;;;;;
+000362;skos:Concept;castagnettes;;;;;;;
+000363;skos:Concept;castrat;;;;;000413;;"EP346432;PMB1209"
+000364;skos:Concept;catalogue;;;;;;;"EP345835;PMB23371"
+000365;skos:Concept;catalogue d'auteur;;;;;;;
+000366;skos:Concept;catalogue d'éditeur;;;;;000364;;EP345836
+000367;skos:Concept;catalogue d'oeuvres;;;;;000364;;EP345837
+000368;skos:Concept;catéchisme;;;;;000382;;EP345843
+000369;skos:Concept;cathédrale;;;;;;;EP345839
+000370;skos:Concept;Catherine d'Alexandrie;;;;;;;
+000371;skos:Concept;catholicisme;;;;;000440;;EP345862
+000372;skos:Concept;Cécile;;;;;;;
+000373;skos:Concept;cembal d'amore;;;;;;;PMB23296
+000374;skos:Concept;censure;;;;;;;
+000375;skos:Concept;Centre de musique baroque de Versailles;;;;;;;PMB1210
+000376;skos:Concept;cérémonial;;;;;001283;;"EP346363;PMB1211"
+000377;skos:Concept;cérémonie;;;;;000912;;EP346126
+000378;skos:Concept;cérémonie de cour;;;;;000377;;EP346127
+000379;skos:Concept;cérémonie de la cour;;;;;;;
+000380;skos:Concept;Cérémonie funèbre;;;;;;;
+000381;skos:Concept;cérémonie liturgique;;;;;;;EP345841
+000382;skos:Concept;cérémonie non liturgique;;;;;;;EP345842
+000383;skos:Concept;cérémonie religieuse;;;;;000377;;EP346128
+000384;skos:Concept;cérémonie révolutionnaire;;;;;;;
+000385;skos:Concept;cerveau de cloche;;;;;;;
+000386;skos:Concept;cfynamique;;;;;;;
+000387;skos:Concept;chabrette;;;;;;;PMB1212
+000388;skos:Concept;chaconne;;;;;000052;;"EP345740;PMB1213"
+000389;skos:Concept;Chaire de Pierre à Alexandrie;;;;;;;
+000390;skos:Concept;Chaire de Pierre à Rome;;;;;;;
+000391;skos:Concept;chalemie;;;;;;;
+000392;skos:Concept;chalumeau;;;;;;;
+000393;skos:Concept;chanoine;;;;;;;
+000394;skos:Concept;chanson;;;;;001815;;"EP346746;PMB1214"
+000395;skos:Concept;chanson à boire;;;;;000394;;"EP346747;PMB1215"
+000396;skos:Concept;chanson à danser;;;;;000394;;"EP346748;PMB1216"
+000397;skos:Concept;chanson de colportage;;;;;;;PMB1217
+000398;skos:Concept;chanson de geste;;;;;;;
+000399;skos:Concept;chanson pastorale;;;;;;;PMB1218
+000400;skos:Concept;chanson patriotique;;;;;;;PMB23459
+000401;skos:Concept;chanson populaire;;;;;000394;;"EP346749;PMB1219"
+000402;skos:Concept;chanson spirituelle;;;;;;;"EP345849;PMB1220"
+000403;skos:Concept;chansonnette;;;;;000394;;EP346751
+000404;skos:Concept;chansonnier;;;;;001975;;"EP346820;PMB1221"
+000405;skos:Concept;chansons;;;;;;;PMB24538
+000406;skos:Concept;chant;;;;;;;"EP345850;PMB1222"
+000407;skos:Concept;chant d'oiseau;;;;;;;
+000408;skos:Concept;chant patriotique;;;;;;;
+000409;skos:Concept;chant religieux;;;;;;;PMB1224
+000410;skos:Concept;chant révolutionnaire;;;;;000049;;EP346615
+000411;skos:Concept;chant royal;;;;;;;
+000412;skos:Concept;chant sur le livre;;;;;001116;;EP346212
+000413;skos:Concept;chanteur;;;;;001476;;"EP346429;PMB1225"
+000414;skos:Concept;chanteuse;;;;;000413;;"EP346433;PMB1226"
+000415;skos:Concept;chantre;;;;;001494;;EP478177
+000416;skos:Concept;chapelle;;;;;;;EP345852
+000417;skos:Concept;chapitre de chanoines;;;;;000532;;EP347041
+000418;skos:Concept;charge;;;;;000963;;EP347056
+000419;skos:Concept;charivari;;;;;;;PMB23600
+000420;skos:Concept;chasse à cour;;;;;;;
+000421;skos:Concept;chef d'orchestre;;;;;;;"EP345854;PMB22962"
+000422;skos:Concept;chevalet;;;;;000888;;EP346098
+000423;skos:Concept;cheville;;;;;;;
+000424;skos:Concept;chevillier;;;;;;;
+000425;skos:Concept;chiavette;;;;;002405;;EP346985
+000426;skos:Concept;chiffrage;;;;;;;"EP345855;PMB23475"
+000427;skos:Concept;chinoiserie;;;;;000868;;EP346078
+000428;skos:Concept;Chistianisme;;;;;;;PMB22818
+000429;skos:Concept;chitaronne;;;;;;;PMB23089
+000430;skos:Concept;chitarrone;;;;;;;PMB1229
+000431;skos:Concept;choeur;;;;;;;"EP345856;PMB1230"
+000432;skos:Concept;choeur d'opéra;;;;;;;PMB22963
+000433;skos:Concept;choeur instrumental;;;;;;;
+000434;skos:Concept;choral;;;;;;;PMB1231
+000435;skos:Concept;choral instrumental;;;;;;;PMB1232
+000436;skos:Concept;chorale;;;;;;;PMB1233
+000437;skos:Concept;chorégraphe;;;;;;;"EP345860;PMB1234"
+000438;skos:Concept;chorégraphie;;;;;000669;;EP345919
+000439;skos:Concept;choriste;;;;;000413;;EP346434
+000440;skos:Concept;christianisme;;;;;;;EP345861
+000441;skos:Concept;chromatisme;;;;;;;EP345865
+000442;skos:Concept;chroniqueur;;;;;;;
+000443;skos:Concept;chronomètre;;;;;001753;;EP346232
+000444;skos:Concept;chute;;;;;;;
+000445;skos:Concept;Circoncision;;;;;;;
+000446;skos:Concept;circoncision du Christ;;;;;;;PMB1236
+000447;skos:Concept;circonstances de création;;;;;000654;;EP345905
+000448;skos:Concept;circulation d'oeuvre;;;;;000654;;EP345906
+000449;skos:Concept;cistre;;;;;;;PMB23097
+000450;skos:Concept;citation thématique;;;;;;;
+000451;skos:Concept;cithare;;;;;;;
+000452;skos:Concept;clairon;;;;;;;
+000453;skos:Concept;clarinette;;;;;;;PMB1237
+000454;skos:Concept;clarinette d'amour;;;;;;;PMB23294
+000455;skos:Concept;clarinettiste;;;;;001152;;EP346444
+000456;skos:Concept;classicisme;;;;;;;"EP345868;PMB1238"
+000457;skos:Concept;clavecin;;;;;;;PMB1239
+000458;skos:Concept;clavecin à maillets;;;;;;;EP345869
+000459;skos:Concept;clavecin brisé;;;;;;;
+000460;skos:Concept;clavecin électrique;;;;;;;PMB23418
+000461;skos:Concept;clavecin oculaire;;;;;;;PMB1240
+000462;skos:Concept;claveciniste;;;;;001152;;"EP346445;PMB1241"
+000463;skos:Concept;clavicorde;;;;;;;PMB1242
+000464;skos:Concept;clavier;;;;;000892;;EP346105
+000465;skos:Concept;clavier accouplé;;;;;;;
+000466;skos:Concept;clavier d'écho;;;;;;;
+000467;skos:Concept;clavier du grand orgue;;;;;;;
+000468;skos:Concept;clavier du positif;;;;;;;
+000469;skos:Concept;clavier du récit;;;;;;;
+000470;skos:Concept;claviers;;;;;;;PMB1243
+000471;skos:Concept;clé;;;;;;;
+000472;skos:Concept;clé d'accord;;;;;;;
+000473;skos:Concept;clé fermée;;;;;;;
+000474;skos:Concept;clé instrumentale;;;;;000890;;EP346110
+000475;skos:Concept;clé ouverte;;;;;;;
+000476;skos:Concept;cloche;;;;;001144;;"EP346280;PMB1244"
+000477;skos:Concept;collaboration de musiciens;;;;;000654;;EP345907
+000478;skos:Concept;collaboration musicien/ chorégraphe;;;;;;;
+000479;skos:Concept;collaboration musicien/ écrivain;;;;;;;
+000480;skos:Concept;collaboration musicien/ écrivain/ chorégraphe;;;;;;;
+000481;skos:Concept;collaboration musicien/chorégraphe;;;;;000738;;EP345696
+000482;skos:Concept;collaboration musicien/écrivain;;;;;000738;;EP345697
+000483;skos:Concept;collaboration musicien/écrivain/chorégraphe;;;;;000738;;EP345698
+000484;skos:Concept;collage de textes bibliques;;;;;;;
+000485;skos:Concept;collection d'instruments de musique;;;;;;;"EP345871;PMB1245"
+000486;skos:Concept;collection musicale;;;;;000256;;"EP345810;PMB1246"
+000487;skos:Concept;collectionneur;;;;;;;EP345872
+000488;skos:Concept;collectionneur de livres;;;;;000487;;EP345873
+000489;skos:Concept;collectionneur de musique;;;;;000487;;"EP345874;PMB1248"
+000490;skos:Concept;collectionneur d'instruments de musique;;;;;000487;;"EP345875;PMB1247"
+000491;skos:Concept;collège;;;;;;;EP345876
+000492;skos:Concept;collège jésuite;;;;;000491;;EP345877
+000493;skos:Concept;collégiale;;;;;;;
+000494;skos:Concept;colophane;;;;;;;
+000495;skos:Concept;comédie;;;;;002320;;"EP346933;PMB1249"
+000496;skos:Concept;comédie /yrique;;;;;;;
+000497;skos:Concept;comédie de foire;;;;;000495;;EP346934
+000498;skos:Concept;comédie en musique;;;;;001615;;"EP346532;PMB1250"
+000499;skos:Concept;comédie en vaudeville;;;;;;;
+000500;skos:Concept;comédie héroïque;;;;;;;PMB1251
+000501;skos:Concept;comédie lyrique;;;;;;;"EP345878;PMB1252"
+000502;skos:Concept;comédie mêlée d'ariettes;;;;;;;
+000503;skos:Concept;comédie musicale;;;;;;;PMB22493
+000504;skos:Concept;comédie-ballet;;;;;;;PMB1253
+000505;skos:Concept;comédien;;;;;;;
+000506;skos:Concept;comédien ambulant;;;;;000035;;EP345688
+000507;skos:Concept;comédien de foire;;;;;000506;;EP345690
+000508;skos:Concept;comédien italien;;;;;000035;;EP345691
+000509;skos:Concept;comédienne;;;;;;;
+000510;skos:Concept;comique;;;;;;;EP345881
+000511;skos:Concept;commanditaire;;;;;;;EP345882
+000512;skos:Concept;commedia dell'arte;;;;;002329;;"EP346953;PMB1256"
+000513;skos:Concept;Commémoration de tous les difunts;;;;;;;
+000514;skos:Concept;commerce de musique;;;;;000706;;EP345946
+000515;skos:Concept;commerce d'instruments;;;;;000706;;EP345947
+000516;skos:Concept;Commun de la dédicace d'une église;;;;;;;
+000517;skos:Concept;commun de la messe;;;;;;;EP345883
+000518;skos:Concept;Commun de plusieurs martyrs;;;;;;;
+000519;skos:Concept;Commun de plusieurs saintes;;;;;;;
+000520;skos:Concept;Commun des abbés;;;;;;;
+000521;skos:Concept;Commun des apôtres;;;;;;;
+000522;skos:Concept;Commun des docteurs;;;;;;;
+000523;skos:Concept;Commun des évangélistes;;;;;;;
+000524;skos:Concept;Commun des pontifes;;;;;;;
+000525;skos:Concept;Commun des saints;;;;;;;
+000526;skos:Concept;Commun des vierges;;;;;;;
+000527;skos:Concept;Commun d'un confesseur non pontife;;;;;;;
+000528;skos:Concept;Commun d'un confesseur pontife;;;;;;;
+000529;skos:Concept;Commun d'un martyr;;;;;;;
+000530;skos:Concept;Commun d'une vierge martyre;;;;;;;
+000531;skos:Concept;Commun d'une vierge non martyre;;;;;;;
+000532;skos:Concept;communauté religieuse;;;;;002492;;EP347040
+000533;skos:Concept;Communion;;;;;;;
+000534;skos:Concept;compagnie de Jésus;;;;;;;PMB1257
+000535;skos:Concept;compas;;;;;;;
+000536;skos:Concept;Compassion de Marie;;;;;;;
+000537;skos:Concept;complainte;;;;;000394;;"EP346750;PMB23380"
+000538;skos:Concept;complies;;;;;;;"EP345884;PMB1258"
+000539;skos:Concept;compositeur;;;;;001476;;EP346440
+000540;skos:Concept;composition;;;;;;;PMB1259
+000541;skos:Concept;composition chorégraphique;;;;;;;
+000542;skos:Concept;composition du livret;;;;;000738;;EP345699
+000543;skos:Concept;composition du papier;;;;;001696;;EP345961
+000544;skos:Concept;composition musicale;;;;;;;EP345886
+000545;skos:Concept;composition par les nombres;;;;;;;
+000546;skos:Concept;compositrice;;;;;;;PMB1260
+000547;skos:Concept;compte-rendu;;;;;000763;;EP346015
+000548;skos:Concept;comptine;;;;;;;PMB1261
+000549;skos:Concept;Conception de la Vierge Marie;;;;;;;PMB1262
+000550;skos:Concept;Conception de Marie;;;;;;;
+000551;skos:Concept;concert;;;;;002485;;"EP347009;PMB1263"
+000552;skos:Concept;concert instrumental;;;;;001796;;"EP346567;PMB1264"
+000553;skos:Concept;concert privé;;;;;;;
+000554;skos:Concept;concert vocal;;;;;;;PMB1265
+000555;skos:Concept;concerto;;;;;001796;;"EP346568;PMB1266"
+000556;skos:Concept;concerto grosso;;;;;;;PMB1267
+000557;skos:Concept;concerto pour alto;;;;;;;PMB1268
+000558;skos:Concept;concerto pour basson;;;;;;;PMB1269
+000559;skos:Concept;concerto pour clarinette;;;;;;;PMB1270
+000560;skos:Concept;concerto pour clavecin;;;;;;;PMB1271
+000561;skos:Concept;concerto pour flûte;;;;;;;PMB1272
+000562;skos:Concept;concerto pour guitare;;;;;;;PMB1273
+000563;skos:Concept;concerto pour hautbois;;;;;;;PMB1274
+000564;skos:Concept;concerto pour orgue;;;;;;;PMB1275
+000565;skos:Concept;concerto pour piano;;;;;;;PMB1276
+000566;skos:Concept;concerto pour violon;;;;;;;PMB1277
+000567;skos:Concept;concerto pour violoncelle;;;;;;;PMB1278
+000568;skos:Concept;concile de Trente;;;;;001980;;EP346828
+000569;skos:Concept;concordant;;;;;;;
+000570;skos:Concept;concours;;;;;;;
+000571;skos:Concept;condition de vie du musicien;;;;;000572;;EP347050
+000572;skos:Concept;condition sociale;;;;;002493;;EP347049
+000573;skos:Concept;conduit;;;;;;;PMB1279
+000574;skos:Concept;confesseur;;;;;;;PMB1280
+000575;skos:Concept;confirmation;;;;;;;
+000576;skos:Concept;Confirmation religieuse;;;;;;;
+000577;skos:Concept;confrérie de ménétriers;;;;;;;
+000578;skos:Concept;confrérie des ménétriers;;;;;000165;;EP345780
+000579;skos:Concept;confutation;;;;;;;
+000580;skos:Concept;congrégation;;;;;;;
+000581;skos:Concept;consécration d'église;;;;;;;EP345888
+000582;skos:Concept;conservatoire de musique;;;;;;;EP345889
+000583;skos:Concept;consonance;;;;;;;
+000584;skos:Concept;consort;;;;;;;PMB22434
+000585;skos:Concept;construction de théâtre;;;;;000691;;EP345936
+000586;skos:Concept;construction du livret;;;;;;;EP345890
+000587;skos:Concept;conte;;;;;;;"EP345891;PMB1281"
+000588;skos:Concept;conte musical;;;;;;;PMB1282
+000589;skos:Concept;continuo;;;;;;;PMB23347
+000590;skos:Concept;contralto voix;;;;;;;
+000591;skos:Concept;contrat de mariage;;;;;;;
+000592;skos:Concept;contrebasse;;;;;;;PMB1283
+000593;skos:Concept;contrebassiste;;;;;001152;;EP346446
+000594;skos:Concept;contrebasson;;;;;;;
+000595;skos:Concept;contre-chant;;;;;;;
+000596;skos:Concept;contredanse;;;;;000670;;"EP345925;PMB1284"
+000597;skos:Concept;contre-éclisse;;;;;;;
+000598;skos:Concept;contrefugue;;;;;;;
+000599;skos:Concept;contrepoint;;;;;000776;;"EP346019;PMB1285"
+000600;skos:Concept;contrepoint figuré;;;;;;;
+000601;skos:Concept;contrepoint instrumental;;;;;000599;;EP346020
+000602;skos:Concept;contrepoint renversable;;;;;;;
+000603;skos:Concept;contrepoint simple;;;;;;;
+000604;skos:Concept;contrepoint sur le livre;;;;;;;
+000605;skos:Concept;contrepoint syncopé;;;;;;;
+000606;skos:Concept;contrepoint vocal;;;;;000599;;EP345893
+000607;skos:Concept;contre-sommier;;;;;;;
+000608;skos:Concept;contre-ténor voix;;;;;000413;;EP346435
+000609;skos:Concept;convalescence;;;;;;;EP345894
+000610;skos:Concept;Conversion de Paul;;;;;;;
+000611;skos:Concept;copie;;;;;000706;;EP345948
+000612;skos:Concept;copiste;;;;;;;"EP345895;PMB1286"
+000613;skos:Concept;cor;;;;;;;PMB1287
+000614;skos:Concept;cor anglais;;;;;;;
+000615;skos:Concept;cor de basset;;;;;;;PMB1288
+000616;skos:Concept;cor de chasse;;;;;;;
+000617;skos:Concept;corde;;;;;000888;;EP346099
+000618;skos:Concept;corde d'instrument;;;;;;;PMB23096
+000619;skos:Concept;corde double;;;;;;;
+000620;skos:Concept;corde en boyau;;;;;000617;;EP346100
+000621;skos:Concept;corde en métal;;;;;;;
+000622;skos:Concept;corde filée;;;;;;;
+000623;skos:Concept;corde vocale;;;;;;;
+000624;skos:Concept;cordes;;;;;;;"EP345896;PMB1289"
+000625;skos:Concept;cordes sympathiques;;;;;;;
+000626;skos:Concept;cornemuse;;;;;001145;;"EP346286;PMB1290"
+000627;skos:Concept;cornet à bouquin;;;;;;;PMB1291
+000628;skos:Concept;cornettiste;;;;;001152;;EP346447
+000629;skos:Concept;corniste;;;;;001152;;EP346448
+000630;skos:Concept;corporation des ménétriers;;;;;;;
+000631;skos:Concept;corps résonant;;;;;;;
+000632;skos:Concept;corps sonore;;;;;;;
+000633;skos:Concept;Corpus Christi;;;;;;;
+000634;skos:Concept;correspondance;;;;;;;"EP345898;PMB22975"
+000635;skos:Concept;corruque;;;;;;;
+000636;skos:Concept;cortège;;;;;;;"EP345899;PMB1292"
+000637;skos:Concept;costume;;;;;000691;;"EP345937;PMB1293"
+000638;skos:Concept;costumier;;;;;;;EP345900
+000639;skos:Concept;coulade;;;;;;;
+000640;skos:Concept;coulé;;;;;000048;;EP345726
+000641;skos:Concept;coup d'archet;;;;;002286;;EP346917
+000642;skos:Concept;coup de langue;;;;;;;
+000643;skos:Concept;couplet;;;;;;;
+000644;skos:Concept;Cour de Monaco;;;;;;;PMB23116
+000645;skos:Concept;courante;;;;;000052;;EP345741
+000646;skos:Concept;courbe;;;;;;;
+000647;skos:Concept;courner;;;;;;;
+000648;skos:Concept;couronnement;;;;;;;EP345902
+000649;skos:Concept;Couronnement de Marie;;;;;;;
+000650;skos:Concept;couvent;;;;;001317;;"EP346378;PMB1294"
+000651;skos:Concept;couvent de femmes;;;;;000650;;EP346379
+000652;skos:Concept;couvent d'hommes;;;;;;;
+000653;skos:Concept;couvercle;;;;;000888;;EP346101
+000654;skos:Concept;création d'oeuvre;;;;;;;EP345904
+000655;skos:Concept;credo;;;;;;;
+000656;skos:Concept;crin;;;;;;;EP346394
+000657;skos:Concept;critique des contemporains;;;;;002485;;EP347011
+000658;skos:Concept;critique littéraire;;;;;;;PMB23363
+000659;skos:Concept;critique musical;;;;;;;EP345915
+000660;skos:Concept;critique musicale;;;;;;;PMB1295
+000661;skos:Concept;croix;;;;;;;PMB1296
+000662;skos:Concept;cromorne;;;;;;;PMB22961
+000663;skos:Concept;cuivre;;;;;;;
+000664;skos:Concept;cuivres;;;;;;;PMB1297
+000665;skos:Concept;cymbales;;;;;;;
+000666;skos:Concept;da capo;;;;;;;
+000667;skos:Concept;dactyle;;;;;;;
+000668;skos:Concept;dancerie;;;;;;;PMB1298
+000669;skos:Concept;danse;;;;;;;"EP345917;PMB1300"
+000670;skos:Concept;danse de bal;;;;;000669;;EP345924
+000671;skos:Concept;danseur;;;;;;;EP345926
+000672;skos:Concept;danseuse;;;;;000671;;"EP345927;PMB1301"
+000673;skos:Concept;débat;;;;;;;PMB23367
+000674;skos:Concept;débit;;;;;;;
+000675;skos:Concept;déclamation;;;;;;;"EP345929;PMB1302;PMB24545"
+000676;skos:Concept;déclamation chantée;;;;;002293;;EP346919
+000677;skos:Concept;Décollation de Jean-Baptiste;;;;;;;
+000678;skos:Concept;décor;;;;;000691;;"EP345938;PMB1303"
+000679;skos:Concept;décorateur;;;;;;;EP345930
+000680;skos:Concept;décoration;;;;;;;PMB23542
+000681;skos:Concept;décoration de théâtre;;;;;000126;;EP345931
+000682;skos:Concept;décoration instrumentale;;;;;000892;;EP346107
+000683;skos:Concept;dédicace;;;;;;;"EP345932;PMB1304"
+000684;skos:Concept;dédicataire;;;;;;;EP345933
+000685;skos:Concept;défilé;;;;;;;PMB1305
+000686;skos:Concept;Défunts;;;;;;;
+000687;skos:Concept;délibération capitulaire;;;;;000729;;EP345992
+000688;skos:Concept;demi jeu;;;;;;;
+000689;skos:Concept;démon;;;;;;;PMB1307
+000690;skos:Concept;densité;;;;;;;
+000691;skos:Concept;description de théâtre;;;;;;;EP345934
+000692;skos:Concept;dessein;;;;;000972;;EP346150
+000693;skos:Concept;dessein général;;;;;000692;;EP346151
+000694;skos:Concept;dessein particulier;;;;;000692;;EP346152
+000695;skos:Concept;dessin;;;;;;;EP345941
+000696;skos:Concept;dessus instrumental;;;;;001149;;EP346237
+000697;skos:Concept;dessus voix;;;;;000413;;EP346436
+000698;skos:Concept;détaché;;;;;;;
+000699;skos:Concept;diable;;;;;;;PMB1308
+000700;skos:Concept;dialogue;;;;;;;EP345942
+000701;skos:Concept;diapason;;;;;;;
+000702;skos:Concept;diction;;;;;;;"EP345943;PMB22435"
+000703;skos:Concept;dictionnaire;;;;;;;"EP345944;PMB23280"
+000704;skos:Concept;didascalie;;;;;;;"EP442081;PMB22437"
+000705;skos:Concept;dièse;;;;;;;
+000706;skos:Concept;diffusion de la musique;;;;;;;EP345945
+000707;skos:Concept;diffusion du répertoire français;;;;;000706;;EP345970
+000708;skos:Concept;diffusion du répertoire italien;;;;;002015;;EP345971
+000709;skos:Concept;digression en musique;;;;;;;PMB1309
+000710;skos:Concept;Dimanche;;;;;;;
+000711;skos:Concept;Dimanche de quasimodo;;;;;;;
+000712;skos:Concept;diminution;;;;;001671;;"EP346704;PMB1310"
+000713;skos:Concept;diocèse;;;;;000532;;EP347042
+000714;skos:Concept;directeur de maîtrise;;;;;;;
+000715;skos:Concept;directeur de théâtre;;;;;;;EP345978
+000716;skos:Concept;direction musicale;;;;;002485;;EP347012
+000717;skos:Concept;discographie;;;;;;;PMB23477
+000718;skos:Concept;disposition;;;;;;;EP345979
+000719;skos:Concept;dissertation;;;;;;;
+000720;skos:Concept;dissonance;;;;;;;PMB1311
+000721;skos:Concept;distique;;;;;;;
+000722;skos:Concept;ditlryrambe;;;;;;;
+000723;skos:Concept;divertissement;;;;;;;PMB1312
+000724;skos:Concept;divertissement de cour;;;;;;;EP345981
+000725;skos:Concept;divertissement d'opéra;;;;;;;EP345982
+000726;skos:Concept;divertissement royal;;;;;;;EP345983
+000727;skos:Concept;division du monocorde;;;;;;;
+000728;skos:Concept;dizain;;;;;;;
+000729;skos:Concept;document d'archives;;;;;;;"EP345985;PMB22902"
+000730;skos:Concept;doigté;;;;;002293;;EP346914
+000731;skos:Concept;Domine salvum;;;;;;;
+000732;skos:Concept;double;;;;;002449;;EP346998
+000733;skos:Concept;doublé;;;;;000048;;EP345727
+000734;skos:Concept;double cadence;;;;;;;
+000735;skos:Concept;double choeur;;;;;000431;;EP345857
+000736;skos:Concept;double fugue;;;;;;;
+000737;skos:Concept;doublure;;;;;000020;;EP345660
+000738;skos:Concept;dramaturgie;;;;;000037;;EP345695
+000739;skos:Concept;drame;;;;;;;
+000740;skos:Concept;drame lyrique;;;;;;;PMB1313
+000741;skos:Concept;drame musical;;;;;;;PMB22781
+000742;skos:Concept;drame sacré;;;;;;;
+000743;skos:Concept;droit;;;;;;;PMB23409
+000744;skos:Concept;droit d'auteur;;;;;000785;;EP345950
+000745;skos:Concept;droit social;;;;;;;PMB23410
+000746;skos:Concept;duo;;;;;;;EP345996
+000747;skos:Concept;duo instrumental;;;;;000746;;"EP345997;PMB1314"
+000748;skos:Concept;duo vocal;;;;;000746;;"EP345998;PMB1315"
+000749;skos:Concept;dynastie de musiciens;;;;;;;
+000750;skos:Concept;ébénisterie;;;;;;;
+000751;skos:Concept;échanges entre pays;;;;;002005;;EP347060
+000752;skos:Concept;échanges polémiques;;;;;002485;;EP347013
+000753;skos:Concept;échelle;;;;;;;EP346000
+000754;skos:Concept;échelle pythagoricienne;;;;;;;
+000755;skos:Concept;échomètre;;;;;001148;;EP346229
+000756;skos:Concept;éclairage scénique;;;;;;;EP454455
+000757;skos:Concept;éclisse;;;;;;;
+000758;skos:Concept;école de Mannheim;;;;;;;
+000759;skos:Concept;école de musique;;;;;;;EP346013
+000760;skos:Concept;économie;;;;;;;PMB23427
+000761;skos:Concept;écossaise;;;;;;;
+000762;skos:Concept;écrit burlesque;;;;;;;
+000763;skos:Concept;écrit critique;;;;;;;EP346014
+000764;skos:Concept;écrit polémique;;;;;;;
+000765;skos:Concept;écrit satirique;;;;;;;
+000766;skos:Concept;écriture a cappella;;;;;000776;;EP346021
+000767;skos:Concept;écriture chorale;;;;;000776;;EP346022
+000768;skos:Concept;écriture en canon;;;;;;;
+000769;skos:Concept;écriture en double choeur;;;;;001839;;EP346040
+000770;skos:Concept;écriture en faux-bourdon;;;;;;;
+000771;skos:Concept;écriture en imitation;;;;;000776;;EP346023
+000772;skos:Concept;écriture en miroir;;;;;;;
+000773;skos:Concept;écriture fuguée;;;;;000771;;EP346024
+000774;skos:Concept;écriture instrumentale;;;;;000776;;EP346025
+000775;skos:Concept;écriture mesurée à l'antique;;;;;000776;;EP346026
+000776;skos:Concept;écriture musicale;;;;;;;"EP346017;PMB1316"
+000777;skos:Concept;écriture polyphonique;;;;;;;
+000778;skos:Concept;écriture sainte;;;;;;;PMB1317
+000779;skos:Concept;écriture syllabique;;;;;000776;;EP346027
+000780;skos:Concept;écrivain;;;;;;;PMB1318
+000781;skos:Concept;écuries royales;;;;;;;PMB1319
+000782;skos:Concept;édifice religieux;;;;;;;
+000783;skos:Concept;éditeur de musique;;;;;001337;;EP346387
+000784;skos:Concept;éditeur de musique parisien;;;;;000783;;EP346388
+000785;skos:Concept;édition;;;;;000706;;"EP345949;PMB1320"
+000786;skos:Concept;édition critique;;;;;;;
+000787;skos:Concept;édition moderne;;;;;;;
+000788;skos:Concept;édition musicale;;;;;000785;;"EP345951;PMB1321"
+000789;skos:Concept;éducation;;;;;;;EP346044
+000790;skos:Concept;éducation musicale;;;;;000789;;EP346046
+000791;skos:Concept;effectif;;;;;;;EP346052
+000792;skos:Concept;effectif instrumental;;;;;;;
+000793;skos:Concept;effectif vocal;;;;;000791;;EP346053
+000794;skos:Concept;église;;;;;;;"EP346057;PMB1322"
+000795;skos:Concept;églogue;;;;;001826;;"EP346762;PMB1323"
+000796;skos:Concept;eingang;;;;;;;
+000797;skos:Concept;élan;;;;;;;
+000798;skos:Concept;élégie;;;;;;;
+000799;skos:Concept;Elévation;;;;;;;
+000800;skos:Concept;élévation;;;;;001391;Amote deus meus, In conspectu Angelorum , O Amor, ô bonitas, O Domine diligam te,  O misterium ineffabile, Ornate Aras, O victima, Quam bonus es Domine, Serote cognovi veritas,  Stupeten gentes (pour la Purification de Marie), Veni sponsa Christi;"EP346691;PMB1324"
+000801;skos:Concept;elocutio;;;;;;;
+000802;skos:Concept;élocution;;;;;;;EP346059
+000803;skos:Concept;éloquence;;;;;;;EP346060
+000804;skos:Concept;embouchure;;;;;;;
+000805;skos:Concept;enchantement;;;;;001830;;EP346773
+000806;skos:Concept;encyclopédie;;;;;;;"EP346061;PMB23441"
+000807;skos:Concept;encyclopédiste;;;;;001776;;EP346733
+000808;skos:Concept;énergie des modes;;;;;000870;;EP346083
+000809;skos:Concept;enfant de choeur;;;;;001494;;EP478178
+000810;skos:Concept;enfer;;;;;001108;;EP346207
+000811;skos:Concept;enharmonie;;;;;;;PMB23350
+000812;skos:Concept;enlightenment;;;;;;;PMB1325
+000813;skos:Concept;enluminure;;;;;;;EP346062
+000814;skos:Concept;enregistrement;;;;;;;PMB23360
+000815;skos:Concept;enseigne;;;;;;;
+000816;skos:Concept;enseignement;;;;;000789;;EP346047
+000817;skos:Concept;enseignement de la composition;;;;;;;
+000818;skos:Concept;enseignement de la danse;;;;;000816;;"EP346048;PMB1326"
+000819;skos:Concept;enseignement de la musique;;;;;000816;;"EP346049;PMB1327"
+000820;skos:Concept;enseignement du chant;;;;;;;
+000821;skos:Concept;Enseignement supérieur;;;;;;;PMB24543
+000822;skos:Concept;ensemble de chanteurs;;;;;;;EP346063
+000823;skos:Concept;ensemble de musiciens;;;;;;;
+000824;skos:Concept;ensemble d'instrumentistes;;;;;;;
+000825;skos:Concept;ensemble instrumental;;;;;;;
+000826;skos:Concept;ensemble vocal;;;;;;;
+000827;skos:Concept;Enterrement;;;;;;;
+000828;skos:Concept;entracte;;;;;000981;;EP346519
+000829;skos:Concept;entrée de ballet;;;;;000981;;"EP346520;PMB1328"
+000830;skos:Concept;entrée fuguée;;;;;;;
+000831;skos:Concept;entrée royale;;;;;;;EP346067
+000832;skos:Concept;entrée solennelle;;;;;;;EP346068
+000833;skos:Concept;entretien;;;;;;;PMB23431
+000834;skos:Concept;envoi;;;;;;;
+000835;skos:Concept;épiglotte;;;;;;;
+000836;skos:Concept;épigramme;;;;;001827;;EP346765
+000837;skos:Concept;épinette;;;;;;;PMB1329
+000838;skos:Concept;Epiphanie;;;;;;;
+000839;skos:Concept;épiphanie;;;;;;;PMB1330
+000840;skos:Concept;épitaphe;;;;;001815;;EP346753
+000841;skos:Concept;épithalame;;;;;001824;;EP346758
+000842;skos:Concept;épître;;;;;;;
+000843;skos:Concept;épître dédicatoire;;;;;;;EP346069
+000844;skos:Concept;épître liminaire;;;;;;;EP346070
+000845;skos:Concept;épopée;;;;;001821;;EP346071
+000846;skos:Concept;ésotérisme;;;;;;;EP346072
+000847;skos:Concept;Esprit Saint;;;;;;;
+000848;skos:Concept;Esprit-Saint;;;;;;;PMB1331
+000849;skos:Concept;esquisse d'oeuvre;;;;;001013;;EP345909
+000850;skos:Concept;essai;;;;;;;PMB23414
+000851;skos:Concept;estampe;;;;;;;EP346073
+000852;skos:Concept;esthétique;;;;;;;PMB1332
+000853;skos:Concept;étendue;;;;;;;
+000854;skos:Concept;ethnomusicologie;;;;;;;PMB22589
+000855;skos:Concept;Etienne;;;;;;;
+000856;skos:Concept;étiquette;;;;;;;
+000857;skos:Concept;étouffement;;;;;;;
+000858;skos:Concept;étude;;;;;;;PMB23543
+000859;skos:Concept;étude analytique;;;;;;;PMB23281
+000860;skos:Concept;eucharistie;;;;;;Adoramus te Christe, Audite gentes, Cantus dent uberes, Cantemus domino, canticum laudis, Cantemus Domino in hoc enim amoris sacramento, Christe Jesu, Deitas hostia sancta Deitas, Descendite accurite volate, Ecce Panis angelorum, Homo quidam;PMB1333
+000861;skos:Concept;évangéliaire;;;;;;;
+000862;skos:Concept;évangile;;;;;;;
+000863;skos:Concept;éventail;;;;;;;EP346075
+000864;skos:Concept;Exaltation de la croix;;;;;;;
+000865;skos:Concept;exécution;;;;;;;
+000866;skos:Concept;ex-libris;;;;;000706;;EP345955
+000867;skos:Concept;exorde;;;;;;;
+000868;skos:Concept;exotisme;;;;;;;EP346077
+000869;skos:Concept;expression des affects;;;;;;;"EP346080;PMB1334"
+000870;skos:Concept;expression des passions;;;;;;;"EP346081;PMB1335"
+000871;skos:Concept;expression des sentiments;;;;;;;
+000872;skos:Concept;expression dramatique;;;;;;;EP346085
+000873;skos:Concept;extrait de baptême;;;;;000729;;EP345993
+000874;skos:Concept;Extraits;;;;;;;PMB24530
+000875;skos:Concept;fable;;;;;;;"EP346086;PMB1336"
+000876;skos:Concept;fable chantée;;;;;;;PMB1337
+000877;skos:Concept;fabrication du papier;;;;;;;
+000878;skos:Concept;fabriquant de papier;;;;;;;
+000879;skos:Concept;face;;;;;;;
+000880;skos:Concept;facsimilé;;;;;;;
+000881;skos:Concept;facteur de clavecins;;;;;000883;;"EP346090;PMB1341"
+000882;skos:Concept;facteur de pianos;;;;;000883;;"EP346091;PMB1342"
+000883;skos:Concept;facteur d'instruments;;;;;;;"EP346088;PMB1338"
+000884;skos:Concept;facteur d'instruments à vent;;;;;000883;;"EP346092;PMB1339"
+000885;skos:Concept;facteur d'orgues;;;;;000883;;"EP346093;PMB1340"
+000886;skos:Concept;factum;;;;;;;
+000887;skos:Concept;facture d'instrument;;;;;;;
+000888;skos:Concept;facture d'instrument à cordes;;;;;;;EP346096
+000889;skos:Concept;facture d'instrument à percussion;;;;;;;
+000890;skos:Concept;facture d'instrument à vent;;;;;000892;;EP346108
+000891;skos:Concept;facture d'orgue;;;;;000890;;EP346111
+000892;skos:Concept;facture instrumentale;;;;;;;"EP346104;PMB1343"
+000893;skos:Concept;fagotto;;;;;;;
+000894;skos:Concept;faiseur d'instruments;;;;;;;
+000895;skos:Concept;fanfare;;;;;001796;;"EP346569;PMB1344"
+000896;skos:Concept;fantaisie;;;;;001796;;"EP346570;PMB1345"
+000897;skos:Concept;fantaisie lyrique;;;;;;;PMB1346
+000898;skos:Concept;fantastique;;;;;001389;;EP346774
+000899;skos:Concept;farce;;;;;000495;;EP346935
+000900;skos:Concept;fausse relation;;;;;;;
+000901;skos:Concept;fausset;;;;;;;PMB24548
+000902;skos:Concept;faux bourdon;;;;;;;PMB1347
+000903;skos:Concept;faux-bourdon;;;;;001804;;EP346639
+000904;skos:Concept;feinte;;;;;;;
+000905;skos:Concept;femme compositeur;;;;;;;
+000906;skos:Concept;femme et danse;;;;;;;PMB22997
+000907;skos:Concept;femme et musique;;;;;;;PMB22995
+000908;skos:Concept;femme et société;;;;;;;PMB22996
+000909;skos:Concept;femme musicien;;;;;;;EP346123
+000910;skos:Concept;Ferme générale;;;;;;;PMB23437
+000911;skos:Concept;festin;;;;;;;
+000912;skos:Concept;fête;;;;;;;"EP346125;PMB1348"
+000913;skos:Concept;fête de saint;;;;;;;"EP346132;PMB1349"
+000914;skos:Concept;Fête des rois;;;;;;;
+000915;skos:Concept;fête Dieu;;;;;;;EP346133
+000916;skos:Concept;Fête du corps et du sang de Jésus;;;;;;;
+000917;skos:Concept;Fête du SaintSacrement;;;;;;;
+000918;skos:Concept;fête liturgique;;;;;;;PMB1350
+000919;skos:Concept;fête populaire;;;;;;;EP346134
+000920;skos:Concept;fête publique;;;;;000912;;EP346129
+000921;skos:Concept;fête religieuse;;;;;;;PMB1351
+000922;skos:Concept;fête révolutionnaire;;;;;000912;;EP346130
+000923;skos:Concept;fête royale;;;;;000912;;EP346131
+000924;skos:Concept;fête rqyale;;;;;;;
+000925;skos:Concept;feu d'artifice;;;;;;;EP346135
+000926;skos:Concept;feutre;;;;;;;
+000927;skos:Concept;fifre;;;;;;;
+000928;skos:Concept;figuralisme;;;;;000936;;EP346137
+000929;skos:Concept;figurant;;;;;;;
+000930;skos:Concept;figure de danse;;;;;000438;;EP345921
+000931;skos:Concept;figure de gradation;;;;;;;
+000932;skos:Concept;figure de répétition;;;;;;;
+000933;skos:Concept;figure d'hypotypose;;;;;;;
+000934;skos:Concept;figure harmonique;;;;;;;
+000935;skos:Concept;figure mélodique;;;;;;;
+000936;skos:Concept;figure rhétorique;;;;;;;EP346136
+000937;skos:Concept;figure rythmique;;;;;001425;;EP345711
+000938;skos:Concept;filigrane;;;;;;;
+000939;skos:Concept;filigranes;;;;;;;PMB1352
+000940;skos:Concept;final;;;;;;;
+000941;skos:Concept;fioriture;;;;;;;
+000942;skos:Concept;flageolet;;;;;;;PMB1353
+000943;skos:Concept;flatté;;;;;;;
+000944;skos:Concept;flûte;;;;;;;PMB1354
+000945;skos:Concept;flûte à bec;;;;;;;PMB1355
+000946;skos:Concept;flûte à plusieurs tuyaux;;;;;;;
+000947;skos:Concept;flûte allemande;;;;;;;
+000948;skos:Concept;flûte d'Allemagne;;;;;;;
+000949;skos:Concept;flûte d'Angleterre;;;;;;;
+000950;skos:Concept;flûte douce;;;;;;;
+000951;skos:Concept;flûte rustique;;;;;;;
+000952;skos:Concept;flûte traversière;;;;;;;
+000953;skos:Concept;flûtiste;;;;;001152;;"EP346449;PMB1356"
+000954;skos:Concept;Foi;;;;;;;PMB22819
+000955;skos:Concept;foire;;;;;;;EP346143
+000956;skos:Concept;folia;;;;;;;
+000957;skos:Concept;folie;;;;;;;EP346145
+000958;skos:Concept;folie d'Espagne;;;;;000052;;EP345742
+000959;skos:Concept;folio;;;;;;;PMB23362
+000960;skos:Concept;folklore;;;;;;;PMB1357
+000961;skos:Concept;follia;;;;;;;
+000962;skos:Concept;fonction politique de la musique;;;;;;;
+000963;skos:Concept;fonction sociale;;;;;002493;;EP347054
+000964;skos:Concept;fondeur de cloches;;;;;;;
+000965;skos:Concept;fonds musical;;;;;000256;;"EP345811;PMB1358"
+000966;skos:Concept;forlane;;;;;000052;;EP345743
+000967;skos:Concept;format du papier;;;;;001696;;EP345962
+000968;skos:Concept;formation musicale;;;;;;;"EP346147;PMB22376"
+000969;skos:Concept;forme binaire;;;;;000972;;EP346153
+000970;skos:Concept;forme da capo;;;;;000972;;EP346154
+000971;skos:Concept;forme menuet;;;;;;;
+000972;skos:Concept;forme musicale;;;;;;;EP346148
+000973;skos:Concept;forme poétique;;;;;;;EP346163
+000974;skos:Concept;forme rondeau;;;;;000972;;EP346155
+000975;skos:Concept;forme rondo-sonate;;;;;;;
+000976;skos:Concept;forme sonate;;;;;000972;;EP346156
+000977;skos:Concept;forme strophique;;;;;000972;;EP346157
+000978;skos:Concept;forme ternaire;;;;;000972;;EP346158
+000979;skos:Concept;forme variation;;;;;000972;;EP346159
+000980;skos:Concept;fourniture;;;;;;;
+000981;skos:Concept;fragment d'oeuvre lyrique;;;;;001516;;EP346516
+000982;skos:Concept;fragment du commun de la messe;;;;;;;
+000983;skos:Concept;fragment d'une pièce de théâtre;;;;;;;
+000984;skos:Concept;franc maçonnerie;;;;;;;PMB1359
+000985;skos:Concept;français;;;;;;;PMB23438
+000986;skos:Concept;franc-maçonnerie;;;;;;;EP346167
+000987;skos:Concept;François;;;;;;;
+000988;skos:Concept;fréquence d'un son;;;;;;;
+000989;skos:Concept;fréquentation du public;;;;;;;
+000990;skos:Concept;frettage;;;;;;;
+000991;skos:Concept;frette;;;;;;;EP346172
+000992;skos:Concept;fricassée;;;;;;;
+000993;skos:Concept;fricassée littéraire;;;;;;;
+000994;skos:Concept;frontispice;;;;;000706;;EP447096
+000995;skos:Concept;frottole;;;;;;;PMB22635
+000996;skos:Concept;fugue;;;;;;;PMB1360
+000997;skos:Concept;fugue instrumentale;;;;;001796;;"EP346571;PMB1361"
+000998;skos:Concept;fugue perpétuelle;;;;;;;
+000999;skos:Concept;fugue renversée;;;;;;;
+001000;skos:Concept;funérailles;;;;;000382;;"EP345844;PMB1362"
+001001;skos:Concept;gage;;;;;;;
+001002;skos:Concept;gaillarde;;;;;000052;;EP345744
+001003;skos:Concept;galanterie;;;;;;;EP346175
+001004;skos:Concept;gallicanisme;;;;;000371;;EP345863
+001005;skos:Concept;gambiste;;;;;001152;;EP346450
+001006;skos:Concept;gamme;;;;;000753;;EP346001
+001007;skos:Concept;gamme pythagoricienne;;;;;;;
+001008;skos:Concept;GARNIER, Joseph François;;;;;;;PMB23120
+001009;skos:Concept;gavotte;;;;;000052;;EP345745
+001010;skos:Concept;gazette;;;;;;;PMB1363
+001011;skos:Concept;généalogie;;;;;;;"EP346178;PMB23467"
+001012;skos:Concept;genèse d'un genre;;;;;000654;;EP346179
+001013;skos:Concept;genèse d'une oeuvre;;;;;000654;;EP345908
+001014;skos:Concept;Geneviève;;;;;;;
+001015;skos:Concept;genre et musique;;;;;;;PMB22994
+001016;skos:Concept;geste;;;;;;;"EP346180;PMB23480"
+001017;skos:Concept;gestion des spectacles;;;;;001659;;EP347021
+001018;skos:Concept;gestuelle;;;;;000438;;"EP345922;PMB1364"
+001019;skos:Concept;gigue;;;;;000052;;EP345746
+001020;skos:Concept;gigue anglaise;;;;;;;
+001021;skos:Concept;gloria;;;;;;;
+001022;skos:Concept;glotte;;;;;;;
+001023;skos:Concept;goût;;;;;;;PMB22908
+001024;skos:Concept;goût du public;;;;;001027;;EP346182
+001025;skos:Concept;goût français;;;;;001027;;EP346183
+001026;skos:Concept;goût italien;;;;;001027;;EP346184
+001027;skos:Concept;goût musical;;;;;;;EP346181
+001028;skos:Concept;graduel;;;;;;;PMB1365
+001029;skos:Concept;graduel chant;;;;;;;
+001030;skos:Concept;graduel livre;;;;;001283;;EP346364
+001031;skos:Concept;grand chantre;;;;;;;
+001032;skos:Concept;grand choeur;;;;;000431;;EP345858
+001033;skos:Concept;grand choeur instrumental;;;;;;;EP346185
+001034;skos:Concept;grand motet;;;;;001463;;"EP346635;PMB1458"
+001035;skos:Concept;grand plein jeu;;;;;;;
+001036;skos:Concept;graveur de musique;;;;;001337;;"EP346389;PMB1366"
+001037;skos:Concept;gravure;;;;;002444;;"EP345973;PMB23449"
+001038;skos:Concept;gravure musicale;;;;;;;PMB23204
+001039;skos:Concept;grégorien;;;;;;;"EP346186;PMB1367"
+001040;skos:Concept;grotesque;;;;;;;
+001041;skos:Concept;ground;;;;;;;
+001042;skos:Concept;gruppeto;;;;;;;
+001043;skos:Concept;guide;;;;;;;
+001044;skos:Concept;guidon;;;;;;;
+001045;skos:Concept;guitare;;;;;;;PMB1368
+001046;skos:Concept;guitare allemande;;;;;;;EP346189
+001047;skos:Concept;guitariste;;;;;001152;;EP346451
+001048;skos:Concept;gymel;;;;;;;PMB22645
+001049;skos:Concept;harmonica de verre;;;;;;;PMB23225
+001050;skos:Concept;harmonie;;;;;000776;;"EP346028;PMB1369"
+001051;skos:Concept;harmonique;;;;;;;
+001052;skos:Concept;harmonisation de l'orgue;;;;;;;
+001053;skos:Concept;harpe;;;;;;;PMB1370
+001054;skos:Concept;harpiste;;;;;001152;;EP346452
+001055;skos:Concept;haut dessus voix;;;;;;;
+001056;skos:Concept;hautbois;;;;;;;PMB1371
+001057;skos:Concept;hautbois d'amour;;;;;;;
+001058;skos:Concept;hautboïste;;;;;001152;;EP346453
+001059;skos:Concept;haute contre voix;;;;;000413;;"EP346437;PMB1372"
+001060;skos:Concept;haute taille voix;;;;;;;
+001061;skos:Concept;hauteur d'un son;;;;;002206;;EP345666
+001062;skos:Concept;hémiole;;;;;001425;;EP345716
+001063;skos:Concept;Herr Gott lass dich erbarmen;;;;;;;PMB23094
+001064;skos:Concept;hexacorde;;;;;000753;;EP346002
+001065;skos:Concept;hiérodrame;;;;;001075;;"EP346628;PMB1373"
+001066;skos:Concept;hiérodrame littéraire;;;;;;;
+001067;skos:Concept;Hiéroglyphe musical;;;;;;;PMB23270
+001068;skos:Concept;histoire;;;;;;;PMB23408
+001069;skos:Concept;histoire de la danse;;;;;;;
+001070;skos:Concept;histoire de la littérature;;;;;;;
+001071;skos:Concept;histoire de la musique;;;;;;;
+001072;skos:Concept;histoire des institutions;;;;;;;
+001073;skos:Concept;histoire du théâtre;;;;;;;
+001074;skos:Concept;histoire religieuse;;;;;;;
+001075;skos:Concept;histoire sacrée;;;;;001544;;"EP346627;PMB1374"
+001076;skos:Concept;historicus;;;;;;;
+001077;skos:Concept;historien de la musique;;;;;;;EP346191
+001078;skos:Concept;historiographie;;;;;;;EP346192
+001079;skos:Concept;historiographie musicale;;;;;;;"EP346193;PMB1375"
+001080;skos:Concept;histrion;;;;;;;
+001081;skos:Concept;homophonie;;;;;000776;;EP346038
+001082;skos:Concept;horloge;;;;;;;
+001083;skos:Concept;huguenot;;;;;;;PMB23483
+001084;skos:Concept;huissier avertisseur des ballets;;;;;;;EP346195
+001085;skos:Concept;huit tons de l'église;;;;;001442;;EP346005
+001086;skos:Concept;huitain;;;;;;;
+001087;skos:Concept;humanisme;;;;;;;EP346196
+001088;skos:Concept;hymne;;;;;;;"EP346197;PMB1376"
+001089;skos:Concept;Hymne à la Vierge Marie;;;;;;;PMB1377
+001090;skos:Concept;hymne à Marie;;;;;002164;;EP346198
+001091;skos:Concept;hymne au Saint Esprit;;;;;;;
+001092;skos:Concept;hymne au Saint-Esprit;;;;;;;PMB1378
+001093;skos:Concept;hymne au Saint-Sacrement;;;;;;Adoro Te Devote, [Pange lingua, Verbum caro, Tantum ergo], Ave Verum, O Salutaris Hostia, Verbum supernum prodiens,  [Sacris solemnis, Panis angelicus];PMB1379
+001094;skos:Concept;hymne en langue vulgaire;;;;;;;
+001095;skos:Concept;hymne instrumental;;;;;;;PMB1380
+001096;skos:Concept;hymne paraphrasé;;;;;;;
+001097;skos:Concept;hymne patriotique;;;;;;;
+001098;skos:Concept;hymne profane;;;;;;;
+001099;skos:Concept;hymne républicain;;;;;;;
+001100;skos:Concept;hymne révolutionnaire;;;;;;;EP346204
+001101;skos:Concept;iambe;;;;;;;
+001102;skos:Concept;iconographie;;;;;;;PMB1381
+001103;skos:Concept;idylle;;;;;001826;;"EP346763;PMB1382"
+001104;skos:Concept;idylle dramatique;;;;;;;
+001105;skos:Concept;idylle héroïque;;;;;;;
+001106;skos:Concept;illustration;;;;;;;EP346205
+001107;skos:Concept;imitation;;;;;;;PMB1383
+001108;skos:Concept;imitation de la nature;;;;;;;EP346206
+001109;skos:Concept;imitation des anciens;;;;;;;EP346210
+001110;skos:Concept;imitation renversée;;;;;;;
+001111;skos:Concept;Immaculée conception;;;;;;;
+001112;skos:Concept;imprimerie;;;;;002444;;"EP345974;PMB22883"
+001113;skos:Concept;imprimeur de musique;;;;;001337;;EP346390
+001114;skos:Concept;imprimeur du roi;;;;;001113;;EP346391
+001115;skos:Concept;impromptu;;;;;;;
+001116;skos:Concept;improvisation;;;;;;;"EP346211;PMB1384"
+001117;skos:Concept;index;;;;;;;PMB23446
+001118;skos:Concept;indication de caractère;;;;;;;EP346213
+001119;skos:Concept;indication de mouvement;;;;;000047;;"EP345709;PMB1385"
+001120;skos:Concept;indication métronomique;;;;;;;
+001121;skos:Concept;influence allemande;;;;;;;EP346215
+001122;skos:Concept;influence anglaise;;;;;001128;;EP346220
+001123;skos:Concept;influence autrichienne;;;;;001128;;EP346221
+001124;skos:Concept;influence de Lully;;;;;001134;;EP346217
+001125;skos:Concept;influence de Rameau;;;;;001134;;EP346218
+001126;skos:Concept;influence du pouvoir politique sur la musique;;;;;002485;;EP347014
+001127;skos:Concept;influence espagnole;;;;;001128;;EP346222
+001128;skos:Concept;influence étrangère en France;;;;;001134;;"EP346219;PMB24556"
+001129;skos:Concept;influence française à l'étranger;;;;;001134;;"EP346225;PMB24558"
+001130;skos:Concept;influence française en Allemagne;;;;;001129;;EP346226
+001131;skos:Concept;influence française en Italie;;;;;001129;;EP346227
+001132;skos:Concept;influence germanique;;;;;001128;;EP346223
+001133;skos:Concept;influence italienne;;;;;001134;;EP346224
+001134;skos:Concept;influence stylistique;;;;;;;EP346216
+001135;skos:Concept;Innocents;;;;;;;
+001136;skos:Concept;institution;;;;;;;PMB23105
+001137;skos:Concept;instrnment à vent en cuivre;;;;;;;
+001138;skos:Concept;instrument à archet;;;;;;;PMB1386
+001139;skos:Concept;instrument à clavier;;;;;001149;;"EP346238;PMB1387"
+001140;skos:Concept;instrument à cordes;;;;;001149;;"EP346239;PMB1388"
+001141;skos:Concept;instrument à cordes frappées;;;;;001140;;"EP346240;PMB1389"
+001142;skos:Concept;instrument à cordes frottées;;;;;001140;;"EP346245;PMB1390"
+001143;skos:Concept;instrument à cordes pincées;;;;;001140;;"EP346260;PMB1391"
+001144;skos:Concept;instrument à percussion;;;;;001149;;"EP346279;PMB1392"
+001145;skos:Concept;instrument à vent;;;;;001149;;"EP346285;PMB1393"
+001146;skos:Concept;instrument à vent en bois;;;;;001145;;"EP346290;PMB1394"
+001147;skos:Concept;instrument à vent en cuivre;;;;;001145;;"EP346310;PMB1395"
+001148;skos:Concept;instrument de mesure;;;;;;;EP346228
+001149;skos:Concept;instrument de musique;;;;;;;"EP346235;PMB1396"
+001150;skos:Concept;instrument soliste;;;;;001149;;EP346320
+001151;skos:Concept;instrumentation;;;;;000791;;EP346054
+001152;skos:Concept;instrumentiste;;;;;001476;;"EP346441;PMB1398"
+001153;skos:Concept;instruments de musique;;;;;;;PMB22844
+001154;skos:Concept;insurrection;;;;;;;PMB23420
+001155;skos:Concept;intensité d'un son;;;;;002206;;EP345669
+001156;skos:Concept;intermede;;;;;;;PMB1399
+001157;skos:Concept;intermède;;;;;000981;;EP346521
+001158;skos:Concept;interoalle supeiflu;;;;;;;
+001159;skos:Concept;interprétation;;;;;;;"EP346323;PMB1400"
+001160;skos:Concept;interprétation dramatique;;;;;000037;;EP345702
+001161;skos:Concept;interprète;;;;;;;EP346324
+001162;skos:Concept;intervalle;;;;;001050;;"EP346031;PMB1401"
+001163;skos:Concept;intervalle augmenté;;;;;;;
+001164;skos:Concept;intervalle diminué;;;;;;;
+001165;skos:Concept;intervalle juste;;;;;;;
+001166;skos:Concept;intervalle majeur;;;;;;;
+001167;skos:Concept;intervalle mineur;;;;;;;
+001168;skos:Concept;intervalle mixte;;;;;;;
+001169;skos:Concept;intonation;;;;;002293;;"EP346920;PMB1402"
+001170;skos:Concept;introduction;;;;;;;
+001171;skos:Concept;introït;;;;;;;
+001172;skos:Concept;inventaire après décès;;;;;000034;;EP345990
+001173;skos:Concept;inventaire de fonds;;;;;;;EP346326
+001174;skos:Concept;inventaire de fonds musical;;;;;;;
+001175;skos:Concept;inventeur d'instrument de musique;;;;;;;EP346327
+001176;skos:Concept;Invention de la croix;;;;;;;
+001177;skos:Concept;invention mécanique;;;;;000892;;EP346116
+001178;skos:Concept;ivoire;;;;;;;
+001179;skos:Concept;jacobites;;;;;;;PMB23444
+001180;skos:Concept;Jacques;;;;;;;
+001181;skos:Concept;Jacques le mineur;;;;;;;
+001182;skos:Concept;jardin;;;;;;;PMB1403
+001183;skos:Concept;jardinier;;;;;;;PMB1404
+001184;skos:Concept;Jean;;;;;;;
+001185;skos:Concept;Jean-Baptiste;;;;;;;
+001186;skos:Concept;Jean-Baptiste, décollation;;;;;;;
+001187;skos:Concept;Jean-Baptiste, nativité;;;;;;;
+001188;skos:Concept;Jérémie;;;;;;;PMB1405
+001189;skos:Concept;Jermata;;;;;;;
+001190;skos:Concept;jésuite;;;;;;;PMB1406
+001191;skos:Concept;Jésus-Christ;;;;;;Sur le nom de Jésus : O bone Jesu, O dulce nomen Jesu, O Domine Jesu : O dulcissime Jesu, Jesu lux, Jesu dux, Jesu mi suavissime, Jesu dulcissime Pastor, Jesu mi transfige, O Amor Jesu, Jesu nostra redemptio, Cor Jesu te laudamus (Sacré Coeur);PMB1407
+001192;skos:Concept;jeu de clairon;;;;;;;
+001193;skos:Concept;jeu de cornet;;;;;;;
+001194;skos:Concept;jeu de cromorne;;;;;;;
+001195;skos:Concept;jeu de cymbale;;;;;;;
+001196;skos:Concept;jeu de flûte;;;;;;;
+001197;skos:Concept;jeu de foire;;;;;;;
+001198;skos:Concept;jeu de prestant;;;;;;;
+001199;skos:Concept;jeu de tierce;;;;;;;
+001200;skos:Concept;jeu de voix humaine;;;;;;;
+001201;skos:Concept;jeu en chamade;;;;;;;
+001202;skos:Concept;jeu musical;;;;;;;PMB1408
+001203;skos:Concept;Jeudi;;;;;;;
+001204;skos:Concept;jeudi saint;;;;;002156;;EP346866
+001205;skos:Concept;jolie;;;;;;;
+001206;skos:Concept;Joseph;;;;;;;
+001207;skos:Concept;joueur de chalumeau;;;;;;;
+001208;skos:Concept;joueur de cithare;;;;;;;
+001209;skos:Concept;joueur de cornemuse;;;;;;;
+001210;skos:Concept;joueur de cromorne;;;;;;;
+001211;skos:Concept;joueur de fifre;;;;;;;
+001212;skos:Concept;joueur de musette;;;;;001152;;EP346454
+001213;skos:Concept;joueur de serpent;;;;;001152;;EP346455
+001214;skos:Concept;joueur de tambour;;;;;001152;;"EP346456;PMB1409"
+001215;skos:Concept;joueur de trompette;;;;;;;PMB1410
+001216;skos:Concept;joueur de trompette marine;;;;;;;
+001217;skos:Concept;Jour des défunts;;;;;;;
+001218;skos:Concept;Jour des morts;;;;;;;
+001219;skos:Concept;journal;;;;;;;"EP346328;PMB23442"
+001220;skos:Concept;journal littéraire;;;;;;;
+001221;skos:Concept;journaliste;;;;;;;
+001222;skos:Concept;Judith triomphante;;;;;;;PMB23596
+001223;skos:Concept;Judith Triumphans;;;;;;;PMB23597
+001224;skos:Concept;justesse;;;;;;;
+001225;skos:Concept;kyrie;;;;;;;
+001226;skos:Concept;lai;;;;;;;
+001227;skos:Concept;laiton;;;;;;;
+001228;skos:Concept;lamentation de Jérémie;;;;;;;
+001229;skos:Concept;Lamentations de Jérémie;;;;;;;PMB1412
+001230;skos:Concept;Lamentations de Job;;;;;;;PMB23198
+001231;skos:Concept;langage;;;;;;;EP346333
+001232;skos:Concept;langue;;;;;;;EP346334
+001233;skos:Concept;langue allemande;;;;;001232;;EP346335
+001234;skos:Concept;langue espagnole;;;;;001232;;EP346336
+001235;skos:Concept;langue française;;;;;001232;;EP346337
+001236;skos:Concept;langue italienne;;;;;001232;;EP346338
+001237;skos:Concept;langue latine;;;;;001232;;EP346339
+001238;skos:Concept;langue régionale;;;;;001232;;EP346340
+001239;skos:Concept;langueur;;;;;;;
+001240;skos:Concept;larynx;;;;;;;
+001241;skos:Concept;Laudes;;;;;;;
+001242;skos:Concept;Laurent;;;;;;;
+001243;skos:Concept;leçon;;;;;;;
+001244;skos:Concept;leçon de musique;;;;;;;
+001245;skos:Concept;leçon de ténèbres;;;;;;;"EP346343;PMB1413"
+001246;skos:Concept;leçon des morts;;;;;;;
+001247;skos:Concept;leçon paraphrasée;;;;;000334;;EP347082
+001248;skos:Concept;lecture à livre ouvert;;;;;;;
+001249;skos:Concept;lecture de la musique;;;;;;;
+001250;skos:Concept;lecture liturgique;;;;;;;
+001251;skos:Concept;legato;;;;;001780;;EP346738
+001252;skos:Concept;lettre;;;;;;;
+001253;skos:Concept;lettre dédicatoire;;;;;;;
+001254;skos:Concept;lettre en vers;;;;;;;
+001255;skos:Concept;lettre liminaire;;;;;;;
+001256;skos:Concept;lettre pastorale;;;;;;;
+001257;skos:Concept;lettrine;;;;;;;
+001258;skos:Concept;liaison;;;;;;;
+001259;skos:Concept;libelle;;;;;;;EP346348
+001260;skos:Concept;libertinage;;;;;;;EP346349
+001261;skos:Concept;libraire musical;;;;;;;EP346350
+001262;skos:Concept;librairie;;;;;;;EP346351
+001263;skos:Concept;librairie musicale;;;;;001262;;"EP346352;PMB1414"
+001264;skos:Concept;librettiste;;;;;000176;;"EP345784;PMB1415"
+001265;skos:Concept;Lied;;;;;;;PMB1416
+001266;skos:Concept;ligature;;;;;;;
+001267;skos:Concept;Lira organizata;;;;;;;PMB22539
+001268;skos:Concept;litanie;;;;;001864;;"EP346786;PMB1417"
+001269;skos:Concept;Litanies de la Vierge Marie;;;;;;;PMB1418
+001270;skos:Concept;littérature;;;;;;;PMB1419
+001271;skos:Concept;littérature classique;;;;;;;PMB22664
+001272;skos:Concept;Littérature latine;;;;;;;PMB24540
+001273;skos:Concept;liturgie;;;;;;;PMB1420
+001274;skos:Concept;liturgie catholique;;;;;;;EP346353
+001275;skos:Concept;liturgie de la vie religieuse;;;;;001625;;EP346683
+001276;skos:Concept;liturgie des morts;;;;;001625;;EP346686
+001277;skos:Concept;liturgie gallicane;;;;;;;
+001278;skos:Concept;liturgie protestante;;;;;;;
+001279;skos:Concept;livre;;;;;;;
+001280;skos:Concept;livre de choeur;;;;;001975;;EP346821
+001281;skos:Concept;livre de messe;;;;;;;
+001282;skos:Concept;livre d'orgue;;;;;001975;;EP346822
+001283;skos:Concept;livre liturgique;;;;;001284;;EP346360
+001284;skos:Concept;livre religieux;;;;;;;EP346356
+001285;skos:Concept;livret;;;;;;;"EP346369;PMB1421"
+001286;skos:Concept;livret d'histoire sacrée;;;;;001285;;EP346370
+001287;skos:Concept;location;;;;;;;
+001288;skos:Concept;longue;;;;;;;
+001289;skos:Concept;louange;;;;;;;
+001290;skos:Concept;Louis;;;;;;;
+001291;skos:Concept;loure;;;;;000052;;EP345747
+001292;skos:Concept;louré;;;;;;;
+001293;skos:Concept;Luc;;;;;;;
+001294;skos:Concept;lumière de tuyau;;;;;;;
+001295;skos:Concept;lumières;;;;;;;PMB1422
+001296;skos:Concept;Lundi;;;;;;;
+001297;skos:Concept;Lundi de Pâques;;;;;;;
+001298;skos:Concept;luth;;;;;;;PMB1423
+001299;skos:Concept;luth de basse;;;;;;;
+001300;skos:Concept;luth théorbé;;;;;;;
+001301;skos:Concept;lutherie;;;;;;;"EP346373;PMB1424"
+001302;skos:Concept;luthier;;;;;000883;;"EP346094;PMB1425"
+001303;skos:Concept;luthiste;;;;;001152;;"EP346457;PMB1426"
+001304;skos:Concept;LYON. Académie des sciences, belles lettres et arts;;;;;;;PMB23221
+001305;skos:Concept;LYON. Archives municipales;;;;;;;PMB23166
+001306;skos:Concept;lyre;;;;;;;PMB1427
+001307;skos:Concept;machine;;;;;;;PMB23355
+001308;skos:Concept;machinerie;;;;;000691;;EP345939
+001309;skos:Concept;machines;;;;;;;EP346374
+001310;skos:Concept;machiniste;;;;;;;EP346375
+001311;skos:Concept;madrigal;;;;;000049;;"EP346616;PMB1428"
+001312;skos:Concept;madrigal poétique;;;;;;;
+001313;skos:Concept;madrigal spirituel;;;;;;;PMB1429
+001314;skos:Concept;magnificat;;;;;;;"EP346376;PMB1430"
+001315;skos:Concept;magnificat instrumental;;;;;;;PMB1431
+001316;skos:Concept;maison princière;;;;;;;PMB23330
+001317;skos:Concept;maison religieuse;;;;;;;"EP346377;PMB1432"
+001318;skos:Concept;maître à chanter;;;;;001878;;EP488890
+001319;skos:Concept;maitre à danser;;;;;;;PMB22976
+001320;skos:Concept;maître à danser;;;;;;;EP346380
+001321;skos:Concept;maître de ballet;;;;;;;EP346381
+001322;skos:Concept;maître de chapelle;;;;;001494;;"EP346489;PMB1433"
+001323;skos:Concept;maître de musique;;;;;;;EP346382
+001324;skos:Concept;maîtrise;;;;;000822;;"EP346064;PMB1434"
+001325;skos:Concept;maîtrisien;;;;;;;
+001326;skos:Concept;manche;;;;;;;
+001327;skos:Concept;mandoline;;;;;;;PMB1435
+001328;skos:Concept;mandore;;;;;;;PMB22631
+001329;skos:Concept;manécanterie;;;;;;;PMB1436
+001330;skos:Concept;manicordion;;;;;;;
+001331;skos:Concept;manière;;;;;;;
+001332;skos:Concept;Manifestation Musical;;;;;;;PMB24541
+001333;skos:Concept;manuel;;;;;;;PMB23279
+001334;skos:Concept;manuscrit;;;;;000706;;"EP345957;PMB23353"
+001335;skos:Concept;manuscrit autographe;;;;;001334;;EP345958
+001336;skos:Concept;Marc;;;;;;;
+001337;skos:Concept;marchand de musique;;;;;;;EP346386
+001338;skos:Concept;marchand d'instruments de musique;;;;;000883;;EP346095
+001339;skos:Concept;marchand papetier;;;;;;;
+001340;skos:Concept;marche;;;;;001796;;"EP346572;PMB1437"
+001341;skos:Concept;marche funèbre;;;;;;;PMB1438
+001342;skos:Concept;marche harmonique;;;;;;;
+001343;skos:Concept;marche militaire;;;;;;;PMB1439
+001344;skos:Concept;marche modulante;;;;;;;
+001345;skos:Concept;Mardi;;;;;;;
+001346;skos:Concept;Mardi de Pâques;;;;;;;
+001347;skos:Concept;maréchal de France;;;;;;;PMB23433
+001348;skos:Concept;Marguerite;;;;;;;
+001349;skos:Concept;mariage;;;;;001275;;"EP346685;PMB23637"
+001350;skos:Concept;Marie;;;;;;;EP346392
+001351;skos:Concept;Marie-Magdeleine;;;;;;;
+001352;skos:Concept;marionnettes;;;;;002246;;EP346886
+001353;skos:Concept;marque du papier;;;;;001696;;EP345963
+001354;skos:Concept;marqueterie;;;;;;;
+001355;skos:Concept;marteau de cloche;;;;;;;
+001356;skos:Concept;Martin;;;;;;;
+001357;skos:Concept;martyr;;;;;;;PMB1441
+001358;skos:Concept;mascarade;;;;;001615;;"EP346534;PMB1442"
+001359;skos:Concept;masque;;;;;000691;;"EP345940;PMB1443"
+001360;skos:Concept;matériau;;;;;;;
+001361;skos:Concept;mathématiques;;;;;;;EP346396
+001362;skos:Concept;matines;;;;;;;EP346400
+001363;skos:Concept;Matthias;;;;;;;
+001364;skos:Concept;Matthieu;;;;;;;
+001365;skos:Concept;mazarinade;;;;;001690;;EP346715
+001366;skos:Concept;mécanique;;;;;;;
+001367;skos:Concept;mécanique d'un instrument;;;;;001177;;EP346117
+001368;skos:Concept;mécénat;;;;;002480;;"EP347004;PMB1444"
+001369;skos:Concept;mécène;;;;;;;EP346401
+001370;skos:Concept;méditation poétique;;;;;;;
+001371;skos:Concept;méditations;;;;;;;PMB22666
+001372;skos:Concept;mélanges;;;;;001975;;EP346823
+001373;skos:Concept;mélodie;;;;;;;"EP346402;PMB1445"
+001374;skos:Concept;mélodrame;;;;;001516;;"EP346527;PMB1446"
+001375;skos:Concept;mélomane;;;;;;;EP346403
+001376;skos:Concept;membrane vibrante;;;;;;;
+001377;skos:Concept;mémoire;;;;;;;
+001378;skos:Concept;mémoires;;;;;;;"EP346404;PMB23425"
+001379;skos:Concept;memona;;;;;;;
+001380;skos:Concept;ménestrandise;;;;;;;EP346405
+001381;skos:Concept;ménestrel;;;;;;;PMB22906
+001382;skos:Concept;ménétrier;;;;;001476;;"EP346468;PMB1447"
+001383;skos:Concept;menuet;;;;;000052;;EP345748
+001384;skos:Concept;menuet instrumental;;;;;;;PMB1448
+001385;skos:Concept;menuet vocal;;;;;000049;;EP346617
+001386;skos:Concept;Mercredi;;;;;;;
+001387;skos:Concept;Mercredi des cendres;;;;;;;
+001388;skos:Concept;Mercredi saint;;;;;;;
+001389;skos:Concept;merveilleux;;;;;001830;;"EP346772;PMB23366"
+001390;skos:Concept;message politique;;;;;;;
+001391;skos:Concept;messe;;;;;001625;;"EP346690;PMB1449"
+001392;skos:Concept;messe a cappella;;;;;;;
+001393;skos:Concept;messe basse;;;;;001391;;EP346692
+001394;skos:Concept;Messe brève;;;;;;;
+001395;skos:Concept;messe concertante;;;;;;;
+001396;skos:Concept;Messe de la sainte croix;;;;;;;
+001397;skos:Concept;messe de requiem;;;;;;;EP346406
+001398;skos:Concept;Messe de Te Deum;;;;;;;
+001399;skos:Concept;messe des morts;;;;;001276;;EP346688
+001400;skos:Concept;messe d'orgue;;;;;;;
+001401;skos:Concept;Messe du Saint-Esprit;;;;;;;
+001402;skos:Concept;messe en musique;;;;;001544;;EP346630
+001403;skos:Concept;messe en plain-chant;;;;;001402;;EP346631
+001404;skos:Concept;messe en symphonie;;;;;001402;;EP346632
+001405;skos:Concept;Messe haute;;;;;;;
+001406;skos:Concept;messe instrumentale;;;;;;;PMB1450
+001407;skos:Concept;messe polyphonique;;;;;001402;;EP346633
+001408;skos:Concept;Messe pour les défunts;;;;;;;
+001409;skos:Concept;Messe rouge;;;;;;;
+001410;skos:Concept;messe solennelle;;;;;001391;;EP346693
+001411;skos:Concept;mesure;;;;;001425;;EP345717
+001412;skos:Concept;mesure à l'antique;;;;;;;EP346408
+001413;skos:Concept;mesure et rythme;;;;;;;PMB1451
+001414;skos:Concept;métal;;;;;;;
+001415;skos:Concept;métaphysique;;;;;;;PMB23584
+001416;skos:Concept;méthode;;;;;;;PMB23283
+001417;skos:Concept;méthode de chant;;;;;001683;;EP346708
+001418;skos:Concept;méthode de composition;;;;;001683;;EP346709
+001419;skos:Concept;méthode de jeu;;;;;;;EP346409
+001420;skos:Concept;méthode de musique;;;;;;;
+001421;skos:Concept;méthode d'enseignement;;;;;;;EP346411
+001422;skos:Concept;méthode instrumentale;;;;;001683;;EP346710
+001423;skos:Concept;méthode vocale;;;;;;;
+001424;skos:Concept;métier;;;;;;;PMB23413
+001425;skos:Concept;mètre;;;;;000047;;EP345710
+001426;skos:Concept;métrique;;;;;;;PMB22502
+001427;skos:Concept;métrique gréco-latine;;;;;001425;;EP345718
+001428;skos:Concept;métronome;;;;;;;"EP346414;PMB23282"
+001429;skos:Concept;metteur en scène;;;;;;;EP346415
+001430;skos:Concept;mezza di voce;;;;;;;
+001431;skos:Concept;mezzo;;;;;;;
+001432;skos:Concept;Michel archange;;;;;;;
+001433;skos:Concept;militaire;;;;;;;PMB23411
+001434;skos:Concept;Miniature;;;;;;;
+001435;skos:Concept;Minnesang;;;;;;;PMB1452
+001436;skos:Concept;mise en scène;;;;;;;"EP346416;PMB1453"
+001437;skos:Concept;missel;;;;;001283;;EP346366
+001438;skos:Concept;mixtures;;;;;;;
+001439;skos:Concept;mnémé;;;;;;;
+001440;skos:Concept;mobilier;;;;;;;EP346417
+001441;skos:Concept;modalité;;;;;000753;;"EP346003;PMB1454"
+001442;skos:Concept;mode;;;;;;;EP346004
+001443;skos:Concept;mode champêtre;;;;;;;EP346418
+001444;skos:Concept;mode du plain-chant;;;;;;;
+001445;skos:Concept;mode enharmonique;;;;;;;
+001446;skos:Concept;mode majeur;;;;;001442;;EP346006
+001447;skos:Concept;mode mineur;;;;;001442;;EP346007
+001448;skos:Concept;mode mixte;;;;;001442;;EP346008
+001449;skos:Concept;mode pastorale;;;;;;;EP346419
+001450;skos:Concept;modernité;;;;;;;EP346420
+001451;skos:Concept;modulation;;;;;001050;;EP346035
+001452;skos:Concept;moine;;;;;;;
+001453;skos:Concept;Moïse;;;;;;;PMB1455
+001454;skos:Concept;monarchie;;;;;;;PMB23415
+001455;skos:Concept;monastère;;;;;;;
+001456;skos:Concept;monocorde;;;;;001148;;EP346230
+001457;skos:Concept;monodie;;;;;;;EP346421
+001458;skos:Concept;monogramme;;;;;000866;;EP345956
+001459;skos:Concept;monologue;;;;;;;"EP346422;PMB23349"
+001460;skos:Concept;montre;;;;;;;
+001461;skos:Concept;mordant;;;;;;;
+001462;skos:Concept;mort [défunt];;;;;;;PMB1456
+001463;skos:Concept;motet;;;;;001544;;"EP346634;PMB1457"
+001464;skos:Concept;motif thématique;;;;;;;
+001465;skos:Concept;mots-clés;;;;;;;PMB22665
+001466;skos:Concept;mouvement;;;;;000972;;EP346160
+001467;skos:Concept;mouvement de bras;;;;;;;
+001468;skos:Concept;mouvement de pied;;;;;;;
+001469;skos:Concept;muance;;;;;;;EP346424
+001470;skos:Concept;muselar;;;;;;;
+001471;skos:Concept;musette;;;;;;;
+001472;skos:Concept;musette [instrument];;;;;;;PMB1461
+001473;skos:Concept;musette danse;;;;;000052;;EP345749
+001474;skos:Concept;musette vocale;;;;;;;PMB1460
+001475;skos:Concept;musica ficta;;;;;;;PMB22986
+001476;skos:Concept;musicien;;;;;;;"EP346425;PMB1462"
+001477;skos:Concept;musicien allemand;;;;;001498;;EP346493
+001478;skos:Concept;musicien amateur;;;;;001476;;EP346470
+001479;skos:Concept;musicien ambulant;;;;;001476;;"EP346471;PMB1463"
+001480;skos:Concept;musicien anglais;;;;;001498;;EP346494
+001481;skos:Concept;musicien d'académie;;;;;;;
+001482;skos:Concept;musicien de concert;;;;;001476;;EP346472
+001483;skos:Concept;musicien de cour;;;;;001476;;"EP346473;PMB1465"
+001484;skos:Concept;musicien de la Chambre;;;;;;;
+001485;skos:Concept;musicien de la Chapelle;;;;;;;
+001486;skos:Concept;musicien de la grande bande;;;;;;;
+001487;skos:Concept;musicien de la Grande Écurie;;;;;;;
+001488;skos:Concept;musicien de la Maison militaire;;;;;;;
+001489;skos:Concept;musicien de la marine;;;;;001476;;EP346482
+001490;skos:Concept;musicien de la petite bande;;;;;;;
+001491;skos:Concept;musicien de la reine;;;;;001483;;EP346474
+001492;skos:Concept;musicien de la ville;;;;;;;EP346505
+001493;skos:Concept;musicien de théâtre;;;;;001476;;"EP346483;PMB1466"
+001494;skos:Concept;musicien d'église;;;;;001476;;"EP346484;PMB1464"
+001495;skos:Concept;musicien du Cabinet;;;;;;;
+001496;skos:Concept;musicien du roi;;;;;001483;;EP346475
+001497;skos:Concept;musicien espagnol;;;;;001498;;EP346495
+001498;skos:Concept;musicien étranger en France;;;;;001476;;EP346492
+001499;skos:Concept;musicien français à l'étranger;;;;;001476;;EP346497
+001500;skos:Concept;musicien gagiste;;;;;;;
+001501;skos:Concept;musicien italien;;;;;001498;;EP346496
+001502;skos:Concept;musicien passant;;;;;;;
+001503;skos:Concept;musicien populaire;;;;;001476;;"EP346498;PMB1467"
+001504;skos:Concept;musicienne;;;;;001476;;"EP346499;PMB1468"
+001505;skos:Concept;musicologie;;;;;;;PMB23292
+001506;skos:Concept;musique allemande;;;;;;;EP346507
+001507;skos:Concept;musique anglaise;;;;;;;EP346508
+001508;skos:Concept;musique chorale;;;;;;;EP346509
+001509;skos:Concept;musique de chambre;;;;;;;"EP346510;PMB1470"
+001510;skos:Concept;musique de chasse;;;;;001513;;"EP346513;PMB1471"
+001511;skos:Concept;musique de circonstance;;;;;;;"EP346511;PMB1472"
+001512;skos:Concept;musique de cour;;;;;;;PMB1473
+001513;skos:Concept;musique de plein air;;;;;;;"EP346512;PMB1475"
+001514;skos:Concept;musique de scène;;;;;;;PMB1476
+001515;skos:Concept;musique de table;;;;;;;PMB1477
+001516;skos:Concept;musique de théâtre;;;;;;;"EP346515;PMB1478"
+001517;skos:Concept;musique d'église;;;;;;;"EP346553;PMB1469"
+001518;skos:Concept;musique des anciens;;;;;;;EP346554
+001519;skos:Concept;musique des chinois;;;;;001518;;EP346555
+001520;skos:Concept;musique des grecs;;;;;001518;;EP346556
+001521;skos:Concept;musique des hébreux;;;;;001518;;EP346557
+001522;skos:Concept;musique des indiens;;;;;001518;;EP346558
+001523;skos:Concept;musique des modernes;;;;;;;
+001524;skos:Concept;musique des romains;;;;;;;
+001525;skos:Concept;musique descriptive;;;;;;;EP346559
+001526;skos:Concept;Musique du Roi;;;;;;;PMB24554
+001527;skos:Concept;musique équestre;;;;;;;PMB1479
+001528;skos:Concept;musique espagnole;;;;;;;EP346560
+001529;skos:Concept;musique figurative;;;;;;;EP346561
+001530;skos:Concept;musique figurée;;;;;;;
+001531;skos:Concept;musique française;;;;;;;
+001532;skos:Concept;musique hollandaise;;;;;;;EP346563
+001533;skos:Concept;musique instrumentale;;;;;;;"EP346564;PMB1480"
+001534;skos:Concept;musique italienne;;;;;;;EP346593
+001535;skos:Concept;musique liturgique;;;;;;;"EP346594;PMB1481"
+001536;skos:Concept;musique mesurée à l'antique;;;;;;;EP346595
+001537;skos:Concept;musique militaire;;;;;001513;;"EP346514;PMB1482"
+001538;skos:Concept;musique polyphonique;;;;;;;EP346596
+001539;skos:Concept;musique populaire;;;;;;;"EP346597;PMB1483"
+001540;skos:Concept;musique profane;;;;;;;"EP346598;PMB1484"
+001541;skos:Concept;musique religieuse;;;;;;;PMB1485
+001542;skos:Concept;musique révolutionnaire;;;;;;;"EP346600;PMB1486"
+001543;skos:Concept;musique sacrée;;;;;;;"EP346601;PMB1487"
+001544;skos:Concept;musique vocale;;;;;;;"EP346602;PMB1488"
+001545;skos:Concept;musique vocale profane;;;;;;;PMB1489
+001546;skos:Concept;musique vocale religieuse;;;;;;;PMB1490
+001547;skos:Concept;mythe;;;;;;;PMB23364
+001548;skos:Concept;mythologie;;;;;;;"EP346648;PMB23599"
+001549;skos:Concept;mythologie grecque;;;;;;;
+001550;skos:Concept;mythologie hébraïque;;;;;;;
+001551;skos:Concept;mythologie latine;;;;;;;
+001552;skos:Concept;naissance;;;;;;;
+001553;skos:Concept;naissance du dauphin;;;;;;;EP346649
+001554;skos:Concept;narration;;;;;;;
+001555;skos:Concept;Nativité;;;;;;;
+001556;skos:Concept;Nativité de Jean-Baptiste;;;;;;;
+001557;skos:Concept;Nativité de la Vierge Marie;;;;;;;PMB1491
+001558;skos:Concept;Nativité de Marie;;;;;;;
+001559;skos:Concept;nécrologie;;;;;;;PMB23308
+001560;skos:Concept;néo-classicisme;;;;;;;PMB1492
+001561;skos:Concept;neume;;;;;;;PMB1493
+001562;skos:Concept;noblesse;;;;;;;PMB23102
+001563;skos:Concept;Noces;;;;;;;
+001564;skos:Concept;nocturne;;;;;;;PMB22569
+001565;skos:Concept;noël;;;;;;;"EP346651;PMB1494"
+001566;skos:Concept;noël à grand choeur;;;;;001544;;EP346637
+001567;skos:Concept;noël instrumental;;;;;;;PMB1495
+001568;skos:Concept;noël pour clavecin;;;;;;;
+001569;skos:Concept;noël pour orgue;;;;;;;
+001570;skos:Concept;Nom de Jésus;;;;;;;
+001571;skos:Concept;Nom de Marie;;;;;;;
+001572;skos:Concept;nombre;;;;;001361;;EP346397
+001573;skos:Concept;nombre d'or;;;;;001886;;EP346399
+001574;skos:Concept;None;;;;;;;
+001575;skos:Concept;nonette;;;;;;;PMB1496
+001576;skos:Concept;notariat;;;;;;;PMB23450
+001577;skos:Concept;notation;;;;;;;EP346653
+001578;skos:Concept;notation Bénesh;;;;;;;
+001579;skos:Concept;notation blanche;;;;;;;
+001580;skos:Concept;notation carrée;;;;;;;
+001581;skos:Concept;notation chiffrée;;;;;;;
+001582;skos:Concept;notation chorégraphique;;;;;001577;;EP346654
+001583;skos:Concept;notation Conté;;;;;;;
+001584;skos:Concept;notation Favier;;;;;001582;;EP346655
+001585;skos:Concept;notation Feuillet;;;;;001582;;EP346656
+001586;skos:Concept;notation Laban;;;;;;;
+001587;skos:Concept;notation musicale;;;;;001577;;"EP346657;PMB1497"
+001588;skos:Concept;notation neumatique;;;;;;;
+001589;skos:Concept;notation noire;;;;;;;
+001590;skos:Concept;notation nouvelle;;;;;;;
+001591;skos:Concept;notation par lettres;;;;;;;
+001592;skos:Concept;notation par nombres;;;;;;;
+001593;skos:Concept;notation Rameau;;;;;;;
+001594;skos:Concept;note;;;;;;;
+001595;skos:Concept;note accidentelle;;;;;;;
+001596;skos:Concept;note de passage;;;;;;;
+001597;skos:Concept;note étrangère;;;;;;;
+001598;skos:Concept;note fondamentale;;;;;;;
+001599;skos:Concept;notes inégales;;;;;;;"EP346676;PMB1498"
+001600;skos:Concept;Notre Dame;;;;;;;
+001601;skos:Concept;Notre-Dame des douleurs;;;;;;;
+001602;skos:Concept;nuance;;;;;;;EP346677
+001603;skos:Concept;Nunc dimittis;;;;;;;
+001604;skos:Concept;Octave de Pâques;;;;;;;
+001605;skos:Concept;Octave liturgie;;;;;;;
+001606;skos:Concept;Octave musique;;;;;;;
+001607;skos:Concept;ode;;;;;001824;;"EP346759;PMB1499"
+001608;skos:Concept;ode anacréontique;;;;;;;
+001609;skos:Concept;ode bachique;;;;;;;
+001610;skos:Concept;ode chrétienne;;;;;;;
+001611;skos:Concept;ode sacrée;;;;;;;
+001612;skos:Concept;ode spirituelle;;;;;;;PMB1500
+001613;skos:Concept;odelette;;;;;;;
+001614;skos:Concept;oeuvre /y,ique;;;;;;;
+001615;skos:Concept;oeuvre à intermèdes musicaux;;;;;001516;;"EP346528;PMB1501"
+001616;skos:Concept;oeuvre lyrique;;;;;;;PMB1502
+001617;skos:Concept;offertoire;;;;;;;"EP346679;PMB1503"
+001618;skos:Concept;Office de Marie le samedi;;;;;;;
+001619;skos:Concept;Office des heures;;;;;;;
+001620;skos:Concept;office des morts;;;;;001276;;EP346689
+001621;skos:Concept;office des Ténèbres;;;;;;;EP346680
+001622;skos:Concept;Office du matin;;;;;;;
+001623;skos:Concept;Office du soir;;;;;;;
+001624;skos:Concept;office funéraire;;;;;;;PMB23211
+001625;skos:Concept;office liturgique;;;;;;;"EP346682;PMB1504"
+001626;skos:Concept;onde sonore;;;;;;;
+001627;skos:Concept;opéra;;;;;001516;;"EP346542;PMB1505"
+001628;skos:Concept;opéra à sauvetage;;;;;;;EP346695
+001629;skos:Concept;opéra biblique;;;;;;;
+001630;skos:Concept;opéra bouffa;;;;;;;
+001631;skos:Concept;opéra bouffe;;;;;001615;;EP346535
+001632;skos:Concept;opera buffa;;;;;001634;;EP346551
+001633;skos:Concept;opéra de collège;;;;;001615;;EP346536
+001634;skos:Concept;opéra italien;;;;;001516;;"EP346550;PMB1506"
+001635;skos:Concept;Opera pour enfants;;;;;;;PMB23593
+001636;skos:Concept;opera seria;;;;;001634;;EP346552
+001637;skos:Concept;opéra seria;;;;;;;PMB1507
+001638;skos:Concept;opéra-ballet;;;;;001627;;"EP346544;PMB1508"
+001639;skos:Concept;opéra-bouffon;;;;;;;PMB1509
+001640;skos:Concept;opéra-comique;;;;;001615;;"EP346538;PMB1510"
+001641;skos:Concept;or;;;;;;;
+001642;skos:Concept;orage;;;;;;;
+001643;skos:Concept;oraison;;;;;;;
+001644;skos:Concept;oratoire;;;;;;;PMB1511
+001645;skos:Concept;oratorio;;;;;001075;;"EP346629;PMB1512"
+001646;skos:Concept;orchestration;;;;;001151;;EP346055
+001647;skos:Concept;orchestration et instrumentation;;;;;;;PMB1513
+001648;skos:Concept;orchestre;;;;;;;"EP347075;PMB1514"
+001649;skos:Concept;orchestre de théâtre;;;;;;;
+001650;skos:Concept;orchestre dramatique;;;;;;;
+001651;skos:Concept;orchestre populaire;;;;;;;
+001652;skos:Concept;orchestre privé;;;;;;;
+001653;skos:Concept;Ordination;;;;;;;
+001654;skos:Concept;ordonnance de cérémonie;;;;;;;
+001655;skos:Concept;ordonnance de la messe;;;;;;;
+001656;skos:Concept;ordonnance de l'office;;;;;;;
+001657;skos:Concept;ordre;;;;;;;"EP346699;PMB1515"
+001658;skos:Concept;ordre religieux;;;;;000532;;"EP347044;PMB1516"
+001659;skos:Concept;organisation des spectacles;;;;;002480;;EP347020
+001660;skos:Concept;organiste;;;;;001152;;"EP346458;PMB1517"
+001661;skos:Concept;organologie;;;;;;;PMB23318
+001662;skos:Concept;orgue;;;;;001145;;"EP346317;PMB1518"
+001663;skos:Concept;orgue de Barbarie;;;;;;;
+001664;skos:Concept;orgue hydraulique;;;;;;;
+001665;skos:Concept;orgue pneumatique;;;;;;;
+001666;skos:Concept;orgue portatif;;;;;;;
+001667;skos:Concept;orgue positif;;;;;;;
+001668;skos:Concept;orientalisme;;;;;;;EP346700
+001669;skos:Concept;ornement;;;;;;;PMB1519
+001670;skos:Concept;ornement de danse;;;;;;;
+001671;skos:Concept;ornementation;;;;;;;"EP346703;PMB22659"
+001672;skos:Concept;ornementation en danse;;;;;000438;;EP345923
+001673;skos:Concept;orpharion;;;;;;;
+001674;skos:Concept;orphéon;;;;;;;PMB1520
+001675;skos:Concept;ostinato;;;;;;;
+001676;skos:Concept;ouïe;;;;;002274;;EP346905
+001677;skos:Concept;ouverture;;;;;000981;;"EP346522;PMB1521"
+001678;skos:Concept;ouverture à la française;;;;;;;
+001679;skos:Concept;ouverture concertante;;;;;;;
+001680;skos:Concept;ouvrage critique;;;;;;;
+001681;skos:Concept;ouvrage de références;;;;;;;
+001682;skos:Concept;ouvrage de terminologie;;;;;;;
+001683;skos:Concept;ouvrage didactique;;;;;;;EP346707
+001684;skos:Concept;ouvrage pédagogique;;;;;;;
+001685;skos:Concept;page de la Chambre;;;;;;;
+001686;skos:Concept;page de la Chapelle;;;;;;;
+001687;skos:Concept;page de la Grande Écurie;;;;;;;
+001688;skos:Concept;page de titre;;;;;000706;;"EP345959;PMB23541"
+001689;skos:Concept;Palmire;;;;;;;PMB23167
+001690;skos:Concept;pamphlet;;;;;;;EP346714
+001691;skos:Concept;pandore;;;;;;;EP346716
+001692;skos:Concept;pantaléon;;;;;;;
+001693;skos:Concept;pantomime;;;;;002320;;EP346936
+001694;skos:Concept;pantomime dramatique;;;;;;;PMB1522
+001695;skos:Concept;papetier;;;;;;;EP346717
+001696;skos:Concept;papier;;;;;000706;;EP345960
+001697;skos:Concept;pâque;;;;;;;PMB1523
+001698;skos:Concept;pâques;;;;;;;PMB1524
+001699;skos:Concept;Pâques, dimanche II;;;;;;;
+001700;skos:Concept;Pâques, dimanche III;;;;;;;
+001701;skos:Concept;Pâques, dimanche IV;;;;;;;
+001702;skos:Concept;Pâques, dimanche V;;;;;;;
+001703;skos:Concept;parade;;;;;;;PMB1525
+001704;skos:Concept;paraphrase;;;;;;;PMB22568
+001705;skos:Concept;parchemin;;;;;;;
+001706;skos:Concept;pardessus de viole;;;;;;;PMB1526
+001707;skos:Concept;pardessus de viole d'amour;;;;;;;PMB23297
+001708;skos:Concept;parenté;;;;;000572;;EP347051
+001709;skos:Concept;PARIS. Louvre;;;;;;;PMB23161
+001710;skos:Concept;parodie;;;;;;;"EP346718;PMB1527"
+001711;skos:Concept;parodie spirituelle;;;;;;;"EP346719;PMB1528"
+001712;skos:Concept;parodie-pantomime;;;;;;;PMB23361
+001713;skos:Concept;paroisse;;;;;;;
+001714;skos:Concept;paroissien;;;;;;;
+001715;skos:Concept;partie;;;;;;;EP346720
+001716;skos:Concept;partie à volonté;;;;;;;
+001717;skos:Concept;partie ad libitum;;;;;;;
+001718;skos:Concept;partie obligée;;;;;;;
+001719;skos:Concept;parties séparées;;;;;000706;;EP345965
+001720;skos:Concept;partition;;;;;000706;;"EP345966;PMB23407"
+001721;skos:Concept;partition réduite;;;;;001720;;EP345967
+001722;skos:Concept;passacaille;;;;;000052;;"EP345750;PMB1529"
+001723;skos:Concept;passepied;;;;;000052;;EP345751
+001724;skos:Concept;Passion;;;;;;;
+001725;skos:Concept;passion du Christ;;;;;;;PMB1531
+001726;skos:Concept;passions;;;;;;;PMB1532
+001727;skos:Concept;pastiche;;;;;;;
+001728;skos:Concept;pastorale;;;;;002320;;"EP346937;PMB1533"
+001729;skos:Concept;pastorale comique;;;;;;;
+001730;skos:Concept;pastorale dramatique;;;;;;;EP346722
+001731;skos:Concept;pastorale en musique;;;;;001627;;EP346546
+001732;skos:Concept;pastorale héroïque;;;;;;;"EP346723;PMB1534"
+001733;skos:Concept;pastorale héroïque en musique;;;;;;;
+001734;skos:Concept;pastorelle;;;;;;;
+001735;skos:Concept;pastourelle;;;;;000394;;EP346752
+001736;skos:Concept;Pater;;;;;;;
+001737;skos:Concept;Paul, conversion;;;;;;;
+001738;skos:Concept;pause;;;;;;;
+001739;skos:Concept;pavane;;;;;000052;;"EP345752;PMB1535"
+001740;skos:Concept;pavillon;;;;;;;
+001741;skos:Concept;Paysage sonore;;;;;;;PMB24546
+001742;skos:Concept;paysan;;;;;;;PMB23419
+001743;skos:Concept;peau;;;;;;;
+001744;skos:Concept;pédagogie;;;;;;;EP346726
+001745;skos:Concept;pédale;;;;;000464;;EP346106
+001746;skos:Concept;pédalier;;;;;;;
+001747;skos:Concept;peintre;;;;;;;EP346727
+001748;skos:Concept;peinture;;;;;000244;;"EP345802;PMB1536"
+001749;skos:Concept;peinture et danse;;;;;;;PMB23196
+001750;skos:Concept;peinture et musique;;;;;;;PMB23195
+001751;skos:Concept;peinture monumentale;;;;;;;
+001752;skos:Concept;pèlerinage;;;;;002492;;EP347046
+001753;skos:Concept;pendule;;;;;001148;;EP346231
+001754;skos:Concept;pendule à secondes;;;;;001753;;EP346233
+001755;skos:Concept;pénitence;;;;;;;PMB1537
+001756;skos:Concept;pentecôte;;;;;;;PMB1538
+001757;skos:Concept;perce;;;;;;;
+001758;skos:Concept;perception d'un son;;;;;002206;;EP345670
+001759;skos:Concept;percussions;;;;;;;"EP346728;PMB1539"
+001760;skos:Concept;périodique;;;;;;;"EP346729;PMB1540"
+001761;skos:Concept;périodique musical;;;;;001863;;"EP346784;PMB1541"
+001762;skos:Concept;péroraison;;;;;;;
+001763;skos:Concept;personnage;;;;;;;
+001764;skos:Concept;petit air;;;;;;;PMB1542
+001765;skos:Concept;petit choeur;;;;;000431;;EP345859
+001766;skos:Concept;petit choeur instrumental;;;;;;;EP346731
+001767;skos:Concept;petit motet;;;;;001463;;"EP346636;PMB1459"
+001768;skos:Concept;Petit office de Marie;;;;;;;
+001769;skos:Concept;petit opéra;;;;;001627;;"EP346548;PMB1543"
+001770;skos:Concept;petit plein jeu;;;;;;;
+001771;skos:Concept;petit violon du roi;;;;;;;
+001772;skos:Concept;petite reprise;;;;;;;
+001773;skos:Concept;petites clés;;;;;;;
+001774;skos:Concept;pétition;;;;;;;
+001775;skos:Concept;Philippe & Jacques;;;;;;;
+001776;skos:Concept;philosophe;;;;;;;EP346732
+001777;skos:Concept;philosophie;;;;;;;"EP346734;PMB1544"
+001778;skos:Concept;philosophie des Lumières;;;;;001777;;EP346735
+001779;skos:Concept;phonétique;;;;;;;"EP346736;PMB22559"
+001780;skos:Concept;phrasé;;;;;;;EP346737
+001781;skos:Concept;phrase musicale;;;;;;;
+001782;skos:Concept;physique;;;;;;;"EP346740;PMB23453"
+001783;skos:Concept;pianiste;;;;;001152;;EP346460
+001784;skos:Concept;piano;;;;;;;PMB1545
+001785;skos:Concept;piano forte;;;;;;;
+001786;skos:Concept;pièce de clavecin;;;;;001796;;"EP346573;PMB1547"
+001787;skos:Concept;pièce de guitare;;;;;;;PMB1548
+001788;skos:Concept;pièce de luth;;;;;;;PMB1549
+001789;skos:Concept;pièce de pianoforte;;;;;;;PMB1550
+001790;skos:Concept;pièce de théâtre;;;;;;;"EP346741;PMB1551"
+001791;skos:Concept;pièce de théorbe;;;;;;;PMB22490
+001792;skos:Concept;pièce de vielle;;;;;;;PMB1552
+001793;skos:Concept;pièce de vihuela;;;;;;;PMB1553
+001794;skos:Concept;pièce de viole;;;;;;;PMB1554
+001795;skos:Concept;pièce d'orgue;;;;;001796;;"EP346574;PMB1546"
+001796;skos:Concept;pièce instrumentale;;;;;001533;;"EP346566;PMB1555"
+001797;skos:Concept;pièce pour piano;;;;;;;PMB1556
+001798;skos:Concept;Pierre & Paul;;;;;;;
+001799;skos:Concept;pincé;;;;;000048;;EP345728
+001800;skos:Concept;piqué;;;;;;;
+001801;skos:Concept;pizzicato;;;;;;;
+001802;skos:Concept;plagiat;;;;;;;EP346742
+001803;skos:Concept;plain chant;;;;;;;PMB22991
+001804;skos:Concept;plain-chant;;;;;001544;;EP346638
+001805;skos:Concept;plain-chant alterné;;;;;;;
+001806;skos:Concept;plain-chant figuré;;;;;;;
+001807;skos:Concept;plain-chant mesuré;;;;;001804;;EP346640
+001808;skos:Concept;plain-chant musical;;;;;001804;;EP346641
+001809;skos:Concept;plainte;;;;;;;
+001810;skos:Concept;plainte en musique;;;;;000049;;EP346618
+001811;skos:Concept;plan;;;;;;;PMB1558
+001812;skos:Concept;plectre;;;;;;;
+001813;skos:Concept;plein jeu;;;;;;;
+001814;skos:Concept;poème;;;;;;;
+001815;skos:Concept;poésie;;;;;;;"EP346744;PMB1559"
+001816;skos:Concept;poésie chrétienne;;;;;;;PMB22567
+001817;skos:Concept;poésie de cour;;;;;001815;;EP346754
+001818;skos:Concept;poésie didactique;;;;;;;
+001819;skos:Concept;poésie dramatique;;;;;;;
+001820;skos:Concept;poésie élogieuse;;;;;001815;;EP346755
+001821;skos:Concept;poésie épique;;;;;001815;;EP488862
+001822;skos:Concept;poésie galante;;;;;001815;;EP346756
+001823;skos:Concept;poésie latine;;;;;001828;;EP346767
+001824;skos:Concept;poésie lyrique;;;;;001815;;EP346757
+001825;skos:Concept;poésie morale;;;;;;;PMB1560
+001826;skos:Concept;poésie pastorale;;;;;001815;;EP346761
+001827;skos:Concept;poésie satirique;;;;;001815;;EP346764
+001828;skos:Concept;poésie spirituelle;;;;;001815;;EP346766
+001829;skos:Concept;poète;;;;;000176;;EP345785
+001830;skos:Concept;poétique;;;;;;;EP346770
+001831;skos:Concept;poëtique;;;;;;;PMB22501
+001832;skos:Concept;point d'orgue;;;;;;;
+001833;skos:Concept;point d'orgue improvisé;;;;;;;
+001834;skos:Concept;polémique;;;;;;;EP346776
+001835;skos:Concept;police;;;;;;;PMB23436
+001836;skos:Concept;police du spectacle;;;;;;;
+001837;skos:Concept;politique;;;;;;;PMB23323
+001838;skos:Concept;politique musicale;;;;;;;
+001839;skos:Concept;polychoralité;;;;;000776;;"EP346039;PMB1561"
+001840;skos:Concept;polyphonie;;;;;000776;;EP346041
+001841;skos:Concept;pompe funèbre;;;;;;;EP346777
+001842;skos:Concept;ponctuation;;;;;;;EP346778
+001843;skos:Concept;pont-neuf;;;;;;;PMB1562
+001844;skos:Concept;porcelaine;;;;;;;
+001845;skos:Concept;port de l'instrument;;;;;002293;;EP346915
+001846;skos:Concept;port de voix;;;;;000048;;EP345729
+001847;skos:Concept;portamento;;;;;;;
+001848;skos:Concept;portrait;;;;;;;EP346780
+001849;skos:Concept;position de l'instrumentiste;;;;;;;
+001850;skos:Concept;pot-pourri;;;;;001796;;EP346577
+001851;skos:Concept;Pour la pluie;;;;;;;
+001852;skos:Concept;Pour le dauphin;;;;;;;
+001853;skos:Concept;Pour le roi;;;;;;;
+001854;skos:Concept;Pour le roi en temps de guerre;;;;;;;
+001855;skos:Concept;pratiques musicales;;;;;;;PMB24023
+001856;skos:Concept;prébende;;;;;;;
+001857;skos:Concept;préface;;;;;;;EP346782
+001858;skos:Concept;prélude;;;;;001796;;"EP346578;PMB23518"
+001859;skos:Concept;prélude non mesuré;;;;;;;
+001860;skos:Concept;Présentation de Jésus;;;;;;;
+001861;skos:Concept;Présentation de Marie;;;;;;;
+001862;skos:Concept;presse;;;;;;;PMB1564
+001863;skos:Concept;presse périodique;;;;;;;EP346783
+001864;skos:Concept;prière;;;;;;;"EP346785;PMB1565"
+001865;skos:Concept;Prière à la Vierge Marie;;;;;;;PMB1566
+001866;skos:Concept;prière pour le roi;;;;;;;PMB1567
+001867;skos:Concept;prieuré;;;;;;;
+001868;skos:Concept;Prime;;;;;;;
+001869;skos:Concept;principaux;;;;;;;
+001870;skos:Concept;principe élémentaire de musique;;;;;;;
+001871;skos:Concept;privilège royal;;;;;;;PMB22884
+001872;skos:Concept;procédé scénique;;;;;;;
+001873;skos:Concept;procession;;;;;000382;;"EP345845;PMB1568"
+001874;skos:Concept;processionnal;;;;;001283;;EP346367
+001875;skos:Concept;production d'un son;;;;;;;
+001876;skos:Concept;professeur de chant;;;;;;;
+001877;skos:Concept;professeur de danse;;;;;;;EP346790
+001878;skos:Concept;professeur de musique;;;;;001476;;EP346500
+001879;skos:Concept;Profession religieuse;;;;;;;
+001880;skos:Concept;Projet d'action culturelle;;;;;;;PMB24533
+001881;skos:Concept;prologue;;;;;000981;;"EP346524;PMB23346"
+001882;skos:Concept;prologue littéraire;;;;;;;EP346791
+001883;skos:Concept;prononciation;;;;;;;"EP346792;PMB1569"
+001884;skos:Concept;prononciation du latin;;;;;;;PMB1570
+001885;skos:Concept;propagation d'un son;;;;;;;
+001886;skos:Concept;proportion;;;;;001361;;EP346398
+001887;skos:Concept;proportion arithmétique;;;;;;;
+001888;skos:Concept;proportion composée;;;;;;;
+001889;skos:Concept;proportion géométrique;;;;;;;
+001890;skos:Concept;proportion harmonique;;;;;;;
+001891;skos:Concept;proportion simple;;;;;;;
+001892;skos:Concept;propre de la messe;;;;;;;
+001893;skos:Concept;prose;;;;;;;"EP346793;PMB23373"
+001894;skos:Concept;prose des morts;;;;;002164;;EP346200
+001895;skos:Concept;prose pour le jour de Pâques;;;;;;;PMB1571
+001896;skos:Concept;prosodie;;;;;001957;;"EP346929;PMB22553"
+001897;skos:Concept;protestant;;;;;;;PMB23484
+001898;skos:Concept;protestantisme;;;;;000440;;EP345864
+001899;skos:Concept;psallette;;;;;;;"EP346794;PMB23054"
+001900;skos:Concept;psalmodie;;;;;002293;;"EP346921;PMB1572"
+001901;skos:Concept;psaltérion;;;;;;;PMB1573
+001902;skos:Concept;psaume;;;;;;;"EP346795;PMB1574"
+001903;skos:Concept;psaume contrapuntique;;;;;;;
+001904;skos:Concept;psaume en français;;;;;000334;;EP347083
+001905;skos:Concept;psaume en musique;;;;;;;EP346796
+001906;skos:Concept;psaume en prose;;;;;;;
+001907;skos:Concept;psaume en vers;;;;;;;
+001908;skos:Concept;psaume harmonisé;;;;;001905;;EP346797
+001909;skos:Concept;psaume paraphrasé en français;;;;;000334;;EP347084
+001910;skos:Concept;psaume paraphrasé en latin;;;;;;;
+001911;skos:Concept;psaume protestant;;;;;;;
+001912;skos:Concept;psautier;;;;;000253;;EP346358
+001913;skos:Concept;psautier huguenot;;;;;;;
+001914;skos:Concept;public;;;;;002480;;EP347026
+001915;skos:Concept;publication périodique;;;;;;;
+001916;skos:Concept;pulsation;;;;;000047;;EP345719
+001917;skos:Concept;Purification de la Vierge Marie;;;;;;;PMB1576
+001918;skos:Concept;Purification de Marie;;;;;;;
+001919;skos:Concept;qualité d'un son;;;;;;;
+001920;skos:Concept;quantité de public;;;;;;;
+001921;skos:Concept;quarré;;;;;;;
+001922;skos:Concept;quarte;;;;;;;
+001923;skos:Concept;quatrain;;;;;;;
+001924;skos:Concept;Quatre temps;;;;;;;
+001925;skos:Concept;quatuor;;;;;;;EP346802
+001926;skos:Concept;quatuor à cordes;;;;;001925;;"EP346803;PMB1577"
+001927;skos:Concept;quatuor à vents;;;;;;;
+001928;skos:Concept;quatuor concertant;;;;;001925;;"EP346804;PMB1578"
+001929;skos:Concept;quatuor instrumental;;;;;;;PMB1579
+001930;skos:Concept;quatuor vocal;;;;;;;PMB1580
+001931;skos:Concept;querelle de la musique italienne. 1702-1706;;;;;;;PMB23004
+001932;skos:Concept;querelle des anciens et des modernes;;;;;001940;;"EP346806;PMB1581"
+001933;skos:Concept;querelle des bouffons;;;;;001940;;EP346807
+001934;skos:Concept;querelle des bouffons 1752-1754;;;;;;;PMB1582
+001935;skos:Concept;querelle des gluckistes et des piccinnistes;;;;;001940;;EP346808
+001936;skos:Concept;querelle des gluckistes et des piccinnistes. 1775-1779;;;;;;;PMB1583
+001937;skos:Concept;querelle des lullistes et des ramistes;;;;;001940;;EP346809
+001938;skos:Concept;querelle des ramistes et des rousseauistes;;;;;;;
+001939;skos:Concept;querelle des théoriciens et des praticiens;;;;;;;
+001940;skos:Concept;querelle esthétique;;;;;;;EP346805
+001941;skos:Concept;Quinquagésime;;;;;;;
+001942;skos:Concept;quinte;;;;;;;
+001943;skos:Concept;quinte instrumentale;;;;;001149;;EP346321
+001944;skos:Concept;quintette;;;;;;;EP346810
+001945;skos:Concept;quintette à cordes;;;;;001944;;"EP346811;PMB1584"
+001946;skos:Concept;quintette à vents;;;;;;;PMB1585
+001947;skos:Concept;quintette concertant;;;;;;;
+001948;skos:Concept;quintette instrumental;;;;;;;PMB1586
+001949;skos:Concept;quintette vocal;;;;;;;PMB1587
+001950;skos:Concept;quinton;;;;;;;PMB1588
+001951;skos:Concept;Rameaux;;;;;;;
+001952;skos:Concept;rapport;;;;;;;PMB23276
+001953;skos:Concept;rapport danse/musique;;;;;;;EP346812
+001954;skos:Concept;rapport de fréquences;;;;;;;
+001955;skos:Concept;rapport d'intervalles;;;;;;;
+001956;skos:Concept;rapport peinture/musique;;;;;;;EP346814
+001957;skos:Concept;rapport texte/musique;;;;;002314;;EP346928
+001958;skos:Concept;réaction du public;;;;;;;EP346815
+001959;skos:Concept;réalisation de la basse continue;;;;;000223;;EP345657
+001960;skos:Concept;réalisme;;;;;;;EP346816
+001961;skos:Concept;rebec;;;;;;;PMB23101
+001962;skos:Concept;réception d'oeuvre;;;;;000654;;EP345910
+001963;skos:Concept;recette de représentation;;;;;;;
+001964;skos:Concept;récit;;;;;001544;;EP346642
+001965;skos:Concept;récit de ballet;;;;;000981;;EP346525
+001966;skos:Concept;récit de basse;;;;;001964;;EP346643
+001967;skos:Concept;recit de voyage;;;;;;;PMB23443
+001968;skos:Concept;récit de voyage;;;;;;;EP346817
+001969;skos:Concept;récitant;;;;;;;
+001970;skos:Concept;récitatif;;;;;001544;;"EP346644;PMB1589"
+001971;skos:Concept;récitatif accompagné;;;;;001970;;EP346645
+001972;skos:Concept;récitatif mesuré;;;;;001970;;EP346646
+001973;skos:Concept;récitatif simple;;;;;001970;;EP346647
+001974;skos:Concept;recrutement;;;;;000963;;EP347057
+001975;skos:Concept;recueil;;;;;;;EP346818
+001976;skos:Concept;recueil collectif;;;;;001975;;EP346824
+001977;skos:Concept;recueil imprimé;;;;;001975;;EP346825
+001978;skos:Concept;recueil manuscrit;;;;;001975;;EP346826
+001979;skos:Concept;réduction;;;;;000141;;EP345775
+001980;skos:Concept;réforme liturgique;;;;;;;EP346827
+001981;skos:Concept;refrain;;;;;;;
+001982;skos:Concept;réfutation;;;;;;;
+001983;skos:Concept;régale;;;;;;;
+001984;skos:Concept;regard du XIXe siècle;;;;;;;EP346829
+001985;skos:Concept;regard du XXe siècle;;;;;;;EP346830
+001986;skos:Concept;regard du XXIe siècle;;;;;;;EP346831
+001987;skos:Concept;registration;;;;;;;
+001988;skos:Concept;registre;;;;;;;EP346832
+001989;skos:Concept;registre instrumental;;;;;001988;;EP346833
+001990;skos:Concept;registre paroissial;;;;;;;
+001991;skos:Concept;registre vocal;;;;;001988;;EP346834
+001992;skos:Concept;réglage des instruments;;;;;000892;;EP346118
+001993;skos:Concept;règle à clavier;;;;;001148;;EP346234
+001994;skos:Concept;règle de faction théâtrale;;;;;;;
+001995;skos:Concept;règle de la composition;;;;;;;EP346835
+001996;skos:Concept;règle de l'action théâtrale;;;;;;;EP346836
+001997;skos:Concept;règle de l'octave;;;;;001050;;EP346037
+001998;skos:Concept;règlement d'association;;;;;;;
+001999;skos:Concept;règlement de maîtrise;;;;;;;
+002000;skos:Concept;réglementation de la vie musicale;;;;;002485;;EP347027
+002001;skos:Concept;règles de composition;;;;;;;PMB1590
+002002;skos:Concept;relation;;;;;;;PMB23271
+002003;skos:Concept;relations entre artistes;;;;;002005;;EP347061
+002004;skos:Concept;relations entre musiciens;;;;;;;
+002005;skos:Concept;relations sociales;;;;;002493;;EP347059
+002006;skos:Concept;relieur;;;;;;;EP346837
+002007;skos:Concept;religieuse;;;;;000532;;EP347045
+002008;skos:Concept;religion;;;;;;;PMB23302
+002009;skos:Concept;reliure;;;;;000706;;EP345968
+002010;skos:Concept;remaniement d'a:uvre;;;;;;;
+002011;skos:Concept;remarques;;;;;;;
+002012;skos:Concept;rémunération;;;;;000572;;EP347053
+002013;skos:Concept;renversement;;;;;;;
+002014;skos:Concept;renvoi;;;;;;;
+002015;skos:Concept;répertoire;;;;;000706;;EP345969
+002016;skos:Concept;répétition;;;;;000654;;EP345911
+002017;skos:Concept;repnse;;;;;;;
+002018;skos:Concept;répons;;;;;;;"EP346839;PMB1591"
+002019;skos:Concept;réponse;;;;;;;
+002020;skos:Concept;repos;;;;;;;
+002021;skos:Concept;représentation;;;;;;;PMB23348
+002022;skos:Concept;représentation d'oeuvre;;;;;000654;;EP345912
+002023;skos:Concept;représentation théâtrale;;;;;;;EP346841
+002024;skos:Concept;reprise;;;;;000972;;EP346161
+002025;skos:Concept;reprise d'oeuvre;;;;;000654;;EP345913
+002026;skos:Concept;requiem;;;;;;;EP346842
+002027;skos:Concept;Requiem [messe];;;;;;;
+002028;skos:Concept;résine;;;;;;;
+002029;skos:Concept;résonance;;;;;000027;;EP345683
+002030;skos:Concept;résonance harmonique;;;;;;;
+002031;skos:Concept;respiration;;;;;002293;;EP346922
+002032;skos:Concept;restauration d'instruments de musique;;;;;;;EP346843
+002033;skos:Concept;résumé d'action;;;;;;;
+002034;skos:Concept;résurrection;;;;;;;PMB1592
+002035;skos:Concept;retard;;;;;;;
+002036;skos:Concept;revenu;;;;;;;EP346845
+002037;skos:Concept;révision d'oeuvre;;;;;000654;;EP345914
+002038;skos:Concept;Révolution française;;;;;;;PMB1593
+002039;skos:Concept;revue;;;;;;;
+002040;skos:Concept;rhétorique;;;;;;;"EP346847;PMB1594"
+002041;skos:Concept;rhétorique littéraire;;;;;002040;;EP346848
+002042;skos:Concept;rhétorique musicale;;;;;002040;;EP346849
+002043;skos:Concept;ricercare;;;;;001796;;"EP346580;PMB1595"
+002044;skos:Concept;rigaudon;;;;;000052;;EP345753
+002045;skos:Concept;ritournelle;;;;;001796;;EP346581
+002046;skos:Concept;rituel;;;;;001283;;EP346368
+002047;skos:Concept;rogations;;;;;;;EP346850
+002048;skos:Concept;roi des ménétriers;;;;;;;
+002049;skos:Concept;roi des violons;;;;;001382;;EP346469
+002050;skos:Concept;rôle;;;;;000035;;EP345692
+002051;skos:Concept;rôle féminin;;;;;002050;;EP345693
+002052;skos:Concept;rôle principal;;;;;;;
+002053;skos:Concept;romance instrumentale;;;;;001796;;"EP346582;PMB1596"
+002054;skos:Concept;romance poétique;;;;;001815;;EP346768
+002055;skos:Concept;romance vocale;;;;;000049;;"EP346619;PMB1597"
+002056;skos:Concept;ronde;;;;;;;PMB22522
+002057;skos:Concept;ronde de table;;;;;;;
+002058;skos:Concept;rondeau;;;;;;;PMB1598
+002059;skos:Concept;rondeau instrumental;;;;;;;
+002060;skos:Concept;rondeau poétique;;;;;;;
+002061;skos:Concept;rondeau vocal;;;;;000049;;EP346620
+002062;skos:Concept;rondo instrumental;;;;;;;
+002063;skos:Concept;rondo vocal;;;;;;;
+002064;skos:Concept;rosace;;;;;;;
+002065;skos:Concept;rose;;;;;;;
+002066;skos:Concept;roulade;;;;;;;
+002067;skos:Concept;roulement de tonnerre;;;;;;;
+002068;skos:Concept;royauté;;;;;;;PMB1599
+002069;skos:Concept;rythme;;;;;;;EP346854
+002070;skos:Concept;rythme pointé;;;;;;;
+002071;skos:Concept;sacqueboute;;;;;;;PMB23357
+002072;skos:Concept;Sacre d'un évêque;;;;;;;
+002073;skos:Concept;sacre d'un roi;;;;;;;EP346855
+002074;skos:Concept;saint Augustin;;;;;;;PMB1601
+002075;skos:Concept;saint Avit;;;;;;;PMB22598
+002076;skos:Concept;saint Barthélémy;;;;;;;PMB1602
+002077;skos:Concept;saint Benoît;;;;;;;PMB1603
+002078;skos:Concept;saint Bernard;;;;;;;PMB1604
+002079;skos:Concept;saint Bruno;;;;;;;PMB1605
+002080;skos:Concept;Saint corps de Jésus;;;;;;;
+002081;skos:Concept;saint Denis;;;;;;;PMB1606
+002082;skos:Concept;saint Dominique;;;;;;;PMB1607
+002083;skos:Concept;saint Etienne;;;;;;;PMB1608
+002084;skos:Concept;saint François;;;;;;;PMB1609
+002085;skos:Concept;saint Ignace;;;;;;;PMB1610
+002086;skos:Concept;saint Jean l'évangéliste;;;;;;;PMB1611
+002087;skos:Concept;saint Jean-Baptiste;;;;;;;PMB1612
+002088;skos:Concept;saint Joseph;;;;;;;PMB1613
+002089;skos:Concept;saint Louis;;;;;;;PMB1614
+002090;skos:Concept;saint Maclou;;;;;;;PMB1615
+002091;skos:Concept;saint Martin;;;;;;;PMB1616
+002092;skos:Concept;saint Mathias;;;;;;;PMB1617
+002093;skos:Concept;saint Michel;;;;;;;PMB1618
+002094;skos:Concept;saint Nicolas;;;;;;;PMB1619
+002095;skos:Concept;saint Patrick;;;;;;;PMB1620
+002096;skos:Concept;saint Paul;;;;;;;PMB1621
+002097;skos:Concept;saint Pie;;;;;;;PMB1622
+002098;skos:Concept;saint Pierre;;;;;;;PMB1623
+002099;skos:Concept;saint Roch;;;;;;;PMB1624
+002100;skos:Concept;saint Sacrement;;;;;;;PMB1625
+002101;skos:Concept;saint Sulpice;;;;;;;PMB1626
+002102;skos:Concept;saint Vincent de Paul;;;;;;;PMB1627
+002103;skos:Concept;saint Xavier;;;;;;;PMB1628
+002104;skos:Concept;sainte Agathe;;;;;;;PMB1631
+002105;skos:Concept;sainte Agnès;;;;;;;PMB1632
+002106;skos:Concept;sainte Anne;;;;;;;PMB1633
+002107;skos:Concept;sainte Augustine;;;;;;;PMB1634
+002108;skos:Concept;sainte Cécile;;;;;;;PMB1635
+002109;skos:Concept;sainte Chantal;;;;;;;PMB1636
+002110;skos:Concept;sainte Elisabeth;;;;;;;PMB1637
+002111;skos:Concept;sainte Geneviève;;;;;;;PMB1638
+002112;skos:Concept;sainte Hilda;;;;;;;PMB22507
+002113;skos:Concept;sainte Madeleine;;;;;;;PMB1639
+002114;skos:Concept;sainte Marguerite;;;;;;;PMB1640
+002115;skos:Concept;Sainte Marie-Madeleine;;;;;;;PMB1642
+002116;skos:Concept;sainte Odile;;;;;;;PMB1643
+002117;skos:Concept;sainte Suzanne;;;;;;;PMB1644
+002118;skos:Concept;sainte Thérèse;;;;;;;PMB1645
+002119;skos:Concept;Sainte Trinité;;;;;;;
+002120;skos:Concept;Sainte Vierge;;;;;;;
+002121;skos:Concept;Sainte-Croix;;;;;;;PMB1647
+002122;skos:Concept;Saint-Esprit;;;;;;;PMB1629
+002123;skos:Concept;saints innocents;;;;;;;PMB1648
+002124;skos:Concept;Saint-Sacrement;;;;;;;PMB1630
+002125;skos:Concept;salle de concerts;;;;;;;
+002126;skos:Concept;salle de spectacle;;;;;;;PMB24557
+002127;skos:Concept;salle de spectacles;;;;;;;EP346856
+002128;skos:Concept;salle des machines;;;;;002127;;EP346857
+002129;skos:Concept;salon;;;;;;;PMB22909
+002130;skos:Concept;salon privé;;;;;;;EP346859
+002131;skos:Concept;salut du Saint Sacrement;;;;;000382;;EP345846
+002132;skos:Concept;Samedi;;;;;;;
+002133;skos:Concept;Samedi de Pâques;;;;;;;
+002134;skos:Concept;Samedi in albis;;;;;;;
+002135;skos:Concept;Samedi saint;;;;;;;
+002136;skos:Concept;sanctus;;;;;;;
+002137;skos:Concept;sanglot;;;;;;;
+002138;skos:Concept;saqueboute;;;;;;;
+002139;skos:Concept;saqueboutier;;;;;;;
+002140;skos:Concept;sarabande;;;;;000052;;"EP345754;PMB1649"
+002141;skos:Concept;satire;;;;;;;EP346860
+002142;skos:Concept;sautereau;;;;;000888;;EP346102
+002143;skos:Concept;saynète;;;;;;;
+002144;skos:Concept;scène biblique;;;;;;;PMB1650
+002145;skos:Concept;scène de divertissement;;;;;000981;;EP346526
+002146;skos:Concept;scène de pièce de théâtre;;;;;;;EP346861
+002147;skos:Concept;scène de théâtre;;;;;002127;;EP346858
+002148;skos:Concept;scène dramatique;;;;;;;PMB1651
+002149;skos:Concept;scénographie;;;;;;;EP346862
+002150;skos:Concept;schola;;;;;;;
+002151;skos:Concept;science;;;;;;;PMB23301
+002152;skos:Concept;sculpteur;;;;;;;EP346864
+002153;skos:Concept;sculpture;;;;;000244;;"EP345803;PMB1652"
+002154;skos:Concept;seconde;;;;;;;
+002155;skos:Concept;Semaine;;;;;;;
+002156;skos:Concept;semaine sainte;;;;;;;"EP346865;PMB1653"
+002157;skos:Concept;Senza la cara;;;;;;;PMB23143
+002158;skos:Concept;Sept douleurs de Marie;;;;;;;
+002159;skos:Concept;septième;;;;;;;
+002160;skos:Concept;Septuagésime;;;;;;;
+002161;skos:Concept;septuor instrumental;;;;;;;PMB1654
+002162;skos:Concept;Sépulture;;;;;;;
+002163;skos:Concept;Sépulture des enfants;;;;;;;
+002164;skos:Concept;séquence;;;;;001088;;"EP346199;PMB1655"
+002165;skos:Concept;Séquence à la Vierge Marie;;;;;;Stabat Mater;PMB1656
+002166;skos:Concept;sérénade;;;;;;;PMB1657
+002167;skos:Concept;sérénade instrumentale;;;;;;;
+002168;skos:Concept;sérénade vocale;;;;;;;EP346869
+002169;skos:Concept;série harmonique;;;;;;;
+002170;skos:Concept;serpent;;;;;;;PMB1658
+002171;skos:Concept;Sexagésime;;;;;;;
+002172;skos:Concept;Sexte;;;;;;;
+002173;skos:Concept;sextuor;;;;;;;EP346871
+002174;skos:Concept;sextuor à cordes;;;;;002173;;EP346872
+002175;skos:Concept;sextuor à vents;;;;;;;
+002176;skos:Concept;sextuor instrumental;;;;;;;PMB1659
+002177;skos:Concept;sexualité et musique;;;;;;;PMB22993
+002178;skos:Concept;sicilienne;;;;;000052;;EP345755
+002179;skos:Concept;siècle des lumières;;;;;;;PMB1660
+002180;skos:Concept;sifflet;;;;;;;
+002181;skos:Concept;signe de liaison;;;;;;;
+002182;skos:Concept;signe de mesure;;;;;;;
+002183;skos:Concept;signe musical;;;;;001587;;EP346658
+002184;skos:Concept;silence;;;;;;;
+002185;skos:Concept;simandre;;;;;;;
+002186;skos:Concept;Siméon;;;;;;;PMB1661
+002187;skos:Concept;Simon & Jude;;;;;;;
+002188;skos:Concept;simphonie;;;;;001796;;EP346583
+002189;skos:Concept;Singspiel;;;;;;;PMB1662
+002190;skos:Concept;sistre;;;;;;;
+002191;skos:Concept;sixte;;;;;;;
+002192;skos:Concept;sizain;;;;;;;
+002193;skos:Concept;société;;;;;;;PMB23356
+002194;skos:Concept;société de concerts;;;;;;;EP346874
+002195;skos:Concept;société de Jésus;;;;;;;PMB1663
+002196;skos:Concept;société musicale;;;;;;;EP346875
+002197;skos:Concept;société musicale ;;;;;;;
+002198;skos:Concept;solfège au naturel;;;;;;;
+002199;skos:Concept;solfège livre;;;;;001683;;EP346711
+002200;skos:Concept;solfège théorie;;;;;;;EP346876
+002201;skos:Concept;soliste;;;;;001476;;EP346502
+002202;skos:Concept;solmisation;;;;;;;"EP346877;PMB1664"
+002203;skos:Concept;solo vocal;;;;;;;PMB1665
+002204;skos:Concept;sommeil;;;;;001108;;EP346208
+002205;skos:Concept;sommier;;;;;000892;;EP346119
+002206;skos:Concept;son;;;;;000025;;"EP345665;PMB1666"
+002207;skos:Concept;son coupé;;;;;;;
+002208;skos:Concept;son fixe;;;;;;;
+002209;skos:Concept;son fondamental;;;;;;;
+002210;skos:Concept;son harmonique;;;;;002206;;EP345676
+002211;skos:Concept;sonate;;;;;001796;;"EP346584;PMB1667"
+002212;skos:Concept;sonate accompagnée;;;;;;;PMB22545
+002213;skos:Concept;sonate en quatuor;;;;;;;PMB1668
+002214;skos:Concept;sonate en trio;;;;;;;PMB1669
+002215;skos:Concept;sonate pour alto;;;;;;;PMB1670
+002216;skos:Concept;sonate pour basson;;;;;;;PMB1671
+002217;skos:Concept;sonate pour clavecin;;;;;;;PMB1672
+002218;skos:Concept;sonate pour clavecin et dessus;;;;;;;PMB1673
+002219;skos:Concept;sonate pour flûte;;;;;;;PMB1674
+002220;skos:Concept;sonate pour harpe;;;;;;;PMB1675
+002221;skos:Concept;sonate pour pianoforte;;;;;;;PMB1676
+002222;skos:Concept;sonate pour trompette;;;;;;;PMB1677
+002223;skos:Concept;sonate pour vielle;;;;;;;PMB1678
+002224;skos:Concept;sonate pour viole de gambe;;;;;;;PMB1679
+002225;skos:Concept;sonate pour violon;;;;;;;PMB1680
+002226;skos:Concept;sonate pour violoncelle;;;;;;;PMB1681
+002227;skos:Concept;sonatille;;;;;;;
+002228;skos:Concept;sonatine;;;;;;;PMB1682
+002229;skos:Concept;song;;;;;;;PMB1683
+002230;skos:Concept;songe;;;;;;;EP346879
+002231;skos:Concept;sonnet;;;;;000973;;"EP346164;PMB1684"
+002232;skos:Concept;sonneur;;;;;001152;;EP346461
+002233;skos:Concept;sonomètre;;;;;;;
+002234;skos:Concept;sonorité;;;;;;;
+002235;skos:Concept;soprano;;;;;;;
+002236;skos:Concept;souffle;;;;;;;
+002237;skos:Concept;soufflerie;;;;;;;
+002238;skos:Concept;souffleur d'orgue;;;;;;;
+002239;skos:Concept;Souper;;;;;;;PMB24529
+002240;skos:Concept;soupir;;;;;;;
+002241;skos:Concept;source littéraire;;;;;;;EP346881
+002242;skos:Concept;source musicale;;;;;;;EP346882
+002243;skos:Concept;sourdine;;;;;000888;;EP346103
+002244;skos:Concept;sous-maître de chapelle;;;;;001494;;EP488888
+002245;skos:Concept;spectacle;;;;;;;"EP346884;PMB1685"
+002246;skos:Concept;spectacle de rue;;;;;;;EP346885
+002247;skos:Concept;spiritualité;;;;;;;EP346887
+002248;skos:Concept;stance;;;;;;;PMB1686
+002249;skos:Concept;stances;;;;;000973;;EP346165
+002250;skos:Concept;structure musicale;;;;;;;PMB1687
+002251;skos:Concept;style allemand;;;;;002259;;EP346893
+002252;skos:Concept;style baroque;;;;;002259;;EP346894
+002253;skos:Concept;style classique;;;;;002259;;EP346895
+002254;skos:Concept;style concertant;;;;;002259;;EP346896
+002255;skos:Concept;style de Mannheim;;;;;;;EP346891
+002256;skos:Concept;style français;;;;;002259;;EP346897
+002257;skos:Concept;style galant;;;;;002259;;EP346898
+002258;skos:Concept;style italien;;;;;002259;;EP346899
+002259;skos:Concept;style musical;;;;;;;EP346892
+002260;skos:Concept;style rococo;;;;;002259;;EP346900
+002261;skos:Concept;suite;;;;;001796;;"EP346586;PMB1688"
+002262;skos:Concept;suite de danses;;;;;;;PMB1690
+002263;skos:Concept;suite d'orchestre;;;;;;;PMB1689
+002264;skos:Concept;suite pour instrument;;;;;;;PMB1691
+002265;skos:Concept;surintendant de la musique;;;;;001483;;EP346481
+002266;skos:Concept;symbole;;;;;;;PMB23416
+002267;skos:Concept;symbolisme;;;;;;;EP346901
+002268;skos:Concept;symphonie;;;;;001796;;"EP346589;PMB1692"
+002269;skos:Concept;symphonie concertante;;;;;;;PMB1693
+002270;skos:Concept;système d'accord;;;;;;;EP346902
+002271;skos:Concept;système de musique;;;;;000025;;EP345677
+002272;skos:Concept;tablature;;;;;001587;;"EP346668;PMB1694"
+002273;skos:Concept;table d’agréments;;;;;;;PMB23352
+002274;skos:Concept;table d'harmonie;;;;;;;EP346904
+002275;skos:Concept;taille instrumentale;;;;;001149;;EP346322
+002276;skos:Concept;taille voix;;;;;000413;;EP346438
+002277;skos:Concept;tambour;;;;;001144;;"EP346282;PMB1695"
+002278;skos:Concept;tambourin;;;;;;;PMB1696
+002279;skos:Concept;tambourineur;;;;;001152;;EP346462
+002280;skos:Concept;tampon;;;;;;;
+002281;skos:Concept;tarentelle;;;;;;;PMB1697
+002282;skos:Concept;tárogató;;;;;;;PMB23098
+002283;skos:Concept;te Deum;;;;;000382;;EP345847
+002284;skos:Concept;technique;;;;;;;PMB23479
+002285;skos:Concept;technique chorégraphique;;;;;;;
+002286;skos:Concept;technique d'archet;;;;;002293;;EP346916
+002287;skos:Concept;technique d'arrangement;;;;;;;EP346907
+002288;skos:Concept;technique de danse;;;;;;;EP346908
+002289;skos:Concept;technique de gravure;;;;;;;
+002290;skos:Concept;technique de jeu;;;;;;;
+002291;skos:Concept;technique d'impression;;;;;;;
+002292;skos:Concept;technique du chant;;;;;;;
+002293;skos:Concept;technique instrumentale;;;;;;;EP346913
+002294;skos:Concept;technique oratoire;;;;;;;
+002295;skos:Concept;technique vocale;;;;;;;"EP346918;PMB24549"
+002296;skos:Concept;témoignage;;;;;;;PMB23290
+002297;skos:Concept;tempérament;;;;;002271;;"EP345678;PMB1698"
+002298;skos:Concept;tempérament égal;;;;;;;
+002299;skos:Concept;tempérament mésotonique;;;;;;;
+002300;skos:Concept;tempérament pythagoricien;;;;;;;
+002301;skos:Concept;tempête;;;;;001108;;EP346209
+002302;skos:Concept;tempo;;;;;;;"EP346923;PMB1699"
+002303;skos:Concept;Temps de Noël;;;;;;;
+002304;skos:Concept;Temps de Pâques;;;;;;;
+002305;skos:Concept;ténèbre;;;;;;;PMB23381
+002306;skos:Concept;tenor;;;;;;;
+002307;skos:Concept;ténor;;;;;;;PMB23469
+002308;skos:Concept;tercet;;;;;;;
+002309;skos:Concept;tessiture;;;;;;;EP346924
+002310;skos:Concept;testament;;;;;000034;;"EP345991;PMB23299"
+002311;skos:Concept;tétracorde;;;;;000753;;EP346009
+002312;skos:Concept;texte biblique;;;;;;;EP346925
+002313;skos:Concept;texte liturgique;;;;;;;EP346926
+002314;skos:Concept;texte mis en musique;;;;;;;EP346927
+002315;skos:Concept;texte spirituei en latin;;;;;;;
+002316;skos:Concept;texte spirituel;;;;;;;
+002317;skos:Concept;texte spirituel en langue vulgaire;;;;;;;
+002318;skos:Concept;texte spirituel en prose;;;;;;;
+002319;skos:Concept;texte spirituel en vers;;;;;;;
+002320;skos:Concept;théâtre;;;;;;;"EP346932;PMB1700"
+002321;skos:Concept;théâtre à machines;;;;;002320;;EP346938
+002322;skos:Concept;théâtre allemand;;;;;;;EP346947
+002323;skos:Concept;Théâtre ambulant;;;;;;;PMB22840
+002324;skos:Concept;théâtre de collège;;;;;;;EP346948
+002325;skos:Concept;théâtre de foire;;;;;;;EP346949
+002326;skos:Concept;Théâtre de la Foire;;;;;;;PMB22839
+002327;skos:Concept;théâtre de société;;;;;;;EP346950
+002328;skos:Concept;théâtre espagnol;;;;;;;EP346951
+002329;skos:Concept;théâtre italien;;;;;;;EP346952
+002330;skos:Concept;théâtre jésuite;;;;;;;EP346954
+002331;skos:Concept;théâtre lyrique;;;;;;;EP346955
+002332;skos:Concept;théâtre populaire;;;;;;;EP346956
+002333;skos:Concept;théâtre religieux;;;;;;;EP346957
+002334;skos:Concept;thématique;;;;;;;
+002335;skos:Concept;thématique du livret;;;;;001285;;EP346371
+002336;skos:Concept;thème;;;;;;;
+002337;skos:Concept;thème biblique;;;;;002338;;EP346960
+002338;skos:Concept;thème littéraire;;;;;;;EP346959
+002339;skos:Concept;thème musical;;;;;000972;;EP346162
+002340;skos:Concept;thème mythologique;;;;;002338;;EP346961
+002341;skos:Concept;thème politique;;;;;002338;;EP346962
+002342;skos:Concept;théorbe;;;;;;;PMB1702
+002343;skos:Concept;théorbe romain;;;;;;;PMB1703
+002344;skos:Concept;théorbiste;;;;;001152;;EP346463
+002345;skos:Concept;théoricien;;;;;;;EP346963
+002346;skos:Concept;théoricien de la musique;;;;;002345;;EP346964
+002347;skos:Concept;théorie de la vraisemblance;;;;;;;
+002348;skos:Concept;théorie de l'hexacorde;;;;;;;PMB1704
+002349;skos:Concept;théorie de l'imitation;;;;;;;PMB1705
+002350;skos:Concept;théorie des passions;;;;;;;EP346966
+002351;skos:Concept;théorie des proportions;;;;;;;
+002352;skos:Concept;théorie esthétique;;;;;;;EP346968
+002353;skos:Concept;théorie musicale;;;;;;;"EP346969;PMB1706"
+002354;skos:Concept;théorie musicale élémentaire;;;;;;;
+002355;skos:Concept;théorie scientifique;;;;;;;EP346971
+002356;skos:Concept;Thérèse;;;;;;;
+002357;skos:Concept;Thomas;;;;;;;
+002358;skos:Concept;Tierce liturgie;;;;;;;
+002359;skos:Concept;Tierce musique;;;;;;;
+002360;skos:Concept;timbale;;;;;001144;;"EP346284;PMB1707"
+002361;skos:Concept;timbalier;;;;;001152;;EP346464
+002362;skos:Concept;timbre;;;;;;Timbre;"EP346972;PMB24525"
+002363;skos:Concept;timbre de la voix;;;;;;;
+002364;skos:Concept;timbre d'un son;;;;;;;
+002365;skos:Concept;tirade;;;;;;;
+002366;skos:Concept;titre;;;;;;;EP346974
+002367;skos:Concept;toccata;;;;;001796;;"EP346591;PMB1708"
+002368;skos:Concept;tombeau;;;;;001796;;"EP346592;PMB1709"
+002369;skos:Concept;tombeau poétique;;;;;001815;;EP346769
+002370;skos:Concept;tonalité;;;;;000753;;"EP346010;PMB1710"
+002371;skos:Concept;touche de clavier;;;;;;;
+002372;skos:Concept;touche d'instrument à archet;;;;;;;
+002373;skos:Concept;toucher;;;;;;;
+002374;skos:Concept;tour de gosier;;;;;;;
+002375;skos:Concept;tourdion;;;;;;;
+002376;skos:Concept;tournoi;;;;;;;EP346976
+002377;skos:Concept;Tous les temps;;;;;;;
+002378;skos:Concept;toussaint;;;;;;;PMB1711
+002379;skos:Concept;traduction;;;;;;;EP346977
+002380;skos:Concept;tragédie;;;;;002320;;"EP346939;PMB1712"
+002381;skos:Concept;tragédie à machines;;;;;002380;;EP346940
+002382;skos:Concept;tragédie antique;;;;;002380;;EP346941
+002383;skos:Concept;tragédie ballet;;;;;;;EP346978
+002384;skos:Concept;tragédie biblique;;;;;;;"EP346979;PMB24528"
+002385;skos:Concept;tragédie classique;;;;;002380;;EP346942
+002386;skos:Concept;tragédie de collège;;;;;002380;;EP346943
+002387;skos:Concept;tragédie en musique;;;;;001627;;"EP346549;PMB1713"
+002388;skos:Concept;tragédie jésuite;;;;;;;
+002389;skos:Concept;Tragédie lyrique;;;;;;;PMB24526
+002390;skos:Concept;tragédie mêlée de musique;;;;;001615;;EP346541
+002391;skos:Concept;tragédien;;;;;;;EP346980
+002392;skos:Concept;tragédienne;;;;;;;
+002393;skos:Concept;Tragédie-opéra;;;;;;;PMB24532
+002394;skos:Concept;tragi-comédie;;;;;002380;;"EP346945;PMB1717"
+002395;skos:Concept;tragi-comédie en musique;;;;;001627;;EP485758
+002396;skos:Concept;tragi-comédie lyrique;;;;;;;
+002397;skos:Concept;tragi-comédie-ballet;;;;;;;
+002398;skos:Concept;trait;;;;;;;
+002399;skos:Concept;traité;;;;;001683;;"EP346712;PMB1718"
+002400;skos:Concept;traité théorique;;;;;;;EP346982
+002401;skos:Concept;transcription;;;;;;;"EP346983;PMB23242"
+002402;skos:Concept;Transfiguration;;;;;;;
+002403;skos:Concept;transfiguration du Christ;;;;;;;PMB1719
+002404;skos:Concept;Transfixion;;;;;;;
+002405;skos:Concept;transposition;;;;;;;"EP346984;PMB23042"
+002406;skos:Concept;traversa;;;;;;;
+002407;skos:Concept;traverso;;;;;;;EP346986
+002408;skos:Concept;tréfileur;;;;;;;PMB23095
+002409;skos:Concept;tremblement;;;;;000048;;EP345730
+002410;skos:Concept;tremblement de terre;;;;;;;
+002411;skos:Concept;tremendo;;;;;;;
+002412;skos:Concept;tremolo;;;;;000048;;EP345731
+002413;skos:Concept;triduum pascal;;;;;002156;;EP346867
+002414;skos:Concept;trille;;;;;000048;;EP345732
+002415;skos:Concept;trillo à l'italienne;;;;;;;
+002416;skos:Concept;Trinité;;;;;;;
+002417;skos:Concept;trinité [sainte];;;;;;;PMB1720
+002418;skos:Concept;trio;;;;;;;EP346988
+002419;skos:Concept;trio à cordes;;;;;002418;;EP346989
+002420;skos:Concept;trio à vents;;;;;002418;;EP346990
+002421;skos:Concept;trio concertant;;;;;;;
+002422;skos:Concept;trio instrumental;;;;;002418;;"EP346991;PMB1721"
+002423;skos:Concept;trio vocal;;;;;002418;;"EP346992;PMB1722"
+002424;skos:Concept;trochée;;;;;;;
+002425;skos:Concept;trombone;;;;;;;PMB1723
+002426;skos:Concept;trompe;;;;;;;
+002427;skos:Concept;trompe de chasse;;;;;;;
+002428;skos:Concept;trompette;;;;;;;PMB1724
+002429;skos:Concept;trompette marine;;;;;;;PMB1725
+002430;skos:Concept;trompette marine d'amour;;;;;;;PMB23295
+002431;skos:Concept;trompettiste;;;;;001152;;EP346465
+002432;skos:Concept;troubadour;;;;;;;PMB1726
+002433;skos:Concept;troupe de théâtre;;;;;;;EP346993
+002434;skos:Concept;troupe de théâtre ambulante;;;;;002433;;EP346994
+002435;skos:Concept;turquerie;;;;;000868;;EP346079
+002436;skos:Concept;tuyau;;;;;;;EP346995
+002437;skos:Concept;tuyau bouché;;;;;;;
+002438;skos:Concept;tuyau conique;;;;;;;
+002439;skos:Concept;tuyau cylindrique;;;;;;;
+002440;skos:Concept;tuyau cylindro-conique;;;;;;;
+002441;skos:Concept;tuyau d'orgue;;;;;;;
+002442;skos:Concept;tuyau fermé;;;;;;;
+002443;skos:Concept;tuyau ouvert;;;;;;;
+002444;skos:Concept;typographie;;;;;000706;;EP345972
+002445;skos:Concept;Université;;;;;;;PMB24544
+002446;skos:Concept;urusson;;;;;;;
+002447;skos:Concept;valeur de note;;;;;;;
+002448;skos:Concept;valse;;;;;;;PMB1727
+002449;skos:Concept;variation;;;;;;;EP346997
+002450;skos:Concept;variation instrumentale;;;;;;;PMB1728
+002451;skos:Concept;variation mélodique;;;;;;;
+002452;skos:Concept;variation rythmique;;;;;;;
+002453;skos:Concept;vaudeville;;;;;000049;;"EP346621;PMB1729"
+002454;skos:Concept;vaudeville théâtral;;;;;002380;;EP346946
+002455;skos:Concept;veillée;;;;;;;PMB22506
+002456;skos:Concept;Veillée de Noël;;;;;;;
+002457;skos:Concept;Vendredi;;;;;;;
+002458;skos:Concept;Vendredi saint;;;;;;;
+002459;skos:Concept;vénerie;;;;;;;EP346999
+002460;skos:Concept;vénerie [répertoire];;;;;;;PMB1730
+002461;skos:Concept;vents;;;;;;;PMB1731
+002462;skos:Concept;venus;;;;;;;
+002463;skos:Concept;vêpres;;;;;;;"EP347001;PMB1732"
+002464;skos:Concept;vernis;;;;;;;EP346395
+002465;skos:Concept;verre;;;;;;;
+002466;skos:Concept;vers;;;;;000973;;EP346166
+002467;skos:Concept;vers saphique;;;;;;;
+002468;skos:Concept;Versailles. Société des concerts de Versailles;;;;;;;PMB24512
+002469;skos:Concept;verset alléluiatique;;;;;;;
+002470;skos:Concept;verset d'hymne;;;;;;;
+002471;skos:Concept;versification;;;;;;;"EP347002;PMB23011"
+002472;skos:Concept;vespéral;;;;;;;
+002473;skos:Concept;Vêture;;;;;;;
+002474;skos:Concept;vibration de l'air;;;;;;;
+002475;skos:Concept;vibration de l'eau;;;;;;;
+002476;skos:Concept;vibration des cordes;;;;;;;
+002477;skos:Concept;vibration des métaux;;;;;;;
+002478;skos:Concept;vibration sonore;;;;;;;
+002479;skos:Concept;vibrato;;;;;000048;;EP345733
+002480;skos:Concept;vie artistique;;;;;;;EP347003
+002481;skos:Concept;Vie de cour;;;;;;;PMB22540
+002482;skos:Concept;vie intellectuelle;;;;;002480;;EP347005
+002483;skos:Concept;vie littéraire;;;;;002480;;EP347006
+002484;skos:Concept;vie mondaine;;;;;002493;;EP347063
+002485;skos:Concept;vie musicale;;;;;002480;;"EP347007;PMB1733"
+002486;skos:Concept;vie musicale à Paris;;;;;002485;;EP347032
+002487;skos:Concept;vie musicale de la cour;;;;;002485;;EP347033
+002488;skos:Concept;vie musicale en province;;;;;002485;;"EP347034;PMB1734"
+002489;skos:Concept;vie musicale privée;;;;;002485;;EP347035
+002490;skos:Concept;vie privée;;;;;002493;;EP347064
+002491;skos:Concept;vie quotidienne;;;;;002493;;"EP347065;PMB23417"
+002492;skos:Concept;vie religieuse;;;;;;;EP347039
+002493;skos:Concept;vie sociale;;;;;;;EP347047
+002494;skos:Concept;viedu musicien;;;;;;;
+002495;skos:Concept;vièle;;;;;;;PMB23100
+002496;skos:Concept;vielle;;;;;;;PMB23451
+002497;skos:Concept;vielle à roue;;;;;;;PMB1735
+002498;skos:Concept;vielleur;;;;;;;
+002499;skos:Concept;Vierge;;;;;;;
+002500;skos:Concept;Vierge Marie;;;;;;;PMB1736
+002501;skos:Concept;Vigile;;;;;;;
+002502;skos:Concept;vignette;;;;;;;
+002503;skos:Concept;vihuela;;;;;;;PMB1737
+002504;skos:Concept;villancico;;;;;;;PMB1738
+002505;skos:Concept;villanella;;;;;;;
+002506;skos:Concept;villanelle;;;;;;;PMB1739
+002507;skos:Concept;villanelle danse;;;;;000052;;EP345756
+002508;skos:Concept;villanelle poétique;;;;;;;
+002509;skos:Concept;villanelle vocale;;;;;000049;;EP346622
+002510;skos:Concept;viola bastarda;;;;;;;PMB23473
+002511;skos:Concept;viole d'amour;;;;;;;PMB1740
+002512;skos:Concept;viole de gambe;;;;;;;PMB1742
+002513;skos:Concept;viole d'orphée;;;;;;;PMB1741
+002514;skos:Concept;violiste;;;;;;;EP347067
+002515;skos:Concept;violon;;;;;;;PMB1743
+002516;skos:Concept;violon d'amour;;;;;;;PMB1744
+002517;skos:Concept;violon du roi;;;;;;;
+002518;skos:Concept;violoncelle;;;;;;;PMB1745
+002519;skos:Concept;violoncelliste;;;;;001152;;EP346466
+002520;skos:Concept;violoniste;;;;;001152;;"EP346467;PMB1746"
+002521;skos:Concept;virginal;;;;;;;PMB1747
+002522;skos:Concept;virtuose;;;;;002201;;EP483931
+002523;skos:Concept;virtuosité;;;;;;;PMB1748
+002524;skos:Concept;virtuosité instrumentale;;;;;;;EP347068
+002525;skos:Concept;virtuosité vocale;;;;;;;
+002526;skos:Concept;Visitation;;;;;;;
+002527;skos:Concept;vocabulaire;;;;;001232;;EP346341
+002528;skos:Concept;voix;;;;;;;"EP347070;PMB1749"
+002529;skos:Concept;volte;;;;;;;
+002530;skos:Concept;volume sonore;;;;;;;
+002531;skos:Concept;voyage;;;;;002480;;EP347036
+002532;skos:Concept;voyage de musicien;;;;;002531;;EP347037
+002533;skos:Concept;vraisemblable;;;;;001830;;EP346775
+002534;skos:Concept;vraisemblance;;;;;;;
+002535;skos:Concept;Zacharie;;;;;;;PMB1750
+002536;skos:Concept;zarzuela;;;;;;;PMB1751
+002537;skos:Concept;Zémide;;;;;;;PMB23139
